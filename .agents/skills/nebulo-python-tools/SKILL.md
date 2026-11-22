@@ -113,6 +113,27 @@ Documentation-only edits do not require the regression suite.
 
 ## Maintenance scripts have side effects
 
+- `html_attributes.py`: defaults to a read-only audit of single-quoted HTML
+  attributes and named quote entities that Biome rewrites; `--write` repairs
+  them after verifying the decoded DOM is unchanged
+  for every affected file. It edits start-tag values only, preserving lesson
+  spacing, scripts, comments and decoded answer JSON. Use its `serialize_html`
+  helper for Beautiful Soup output rather than `str(doc)` so generators keep
+  double-quoted attributes with `&#34;` inside JSON. After formatting, run
+  `npx -y htmlhint@1.9.2 --config .htmlhintrc '**/*.html'` to catch single-quoted,
+  unquoted or malformed attribute values; Ruff, ty and Biome do not enforce this
+  HTML rule. Follow the Biome skill's validation and offline inventory workflow.
+- `index_catalog.py --check`: audits encoding, all activity-to-lesson associations,
+  sequential catalog numbers, visible titles and numeric order without writing.
+  `--write` repairs known encoding errors and rebuilds the catalog from direct
+  `.lesson-content` links. Run it after editing these links or adding activities;
+  review parent associations, especially shared activities and legacy title
+  mismatches. It preserves URLs and retains corrected legacy titles in the
+  inventory when they conflict with the linked lesson. Never infer associations
+  from filenames or sort display labels lexicographically. After `--write`, run
+  `prepare_seo.py`, Biome, `index_catalog.py --check`, site validation, local link
+  checks and the offline inventory workflow. New ordering deliberately renumbers
+  later activities; keep external links based on stable paths, not catalog IDs.
 - `check_links.py`: recursively checks local HTML/CSS paths and fragments. Add
   `--external --json link-report.json` only when an online reference audit is
   requested or needed. HTTP 404/410 means broken; timeouts, blocks, and rate

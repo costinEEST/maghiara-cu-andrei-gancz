@@ -25,6 +25,40 @@ For a bounded edit, replace `.` with the changed file paths. A nonzero formatter
 exit status needs inspection; do not suppress diagnostics to report a pass.
 First-time npx execution may need network permission in a sandbox.
 
+## Check HTML attribute quoting
+
+Biome formatting does not enforce HTMLHint's attribute quote rule. After editing
+HTML or running a generator, run this separate check **after** formatting:
+
+```sh
+npx -y htmlhint@1.9.2 --config .htmlhintrc '**/*.html'
+```
+
+Keep the glob quoted so HTMLHint checks nested pages on every shell. The checked-in
+`.htmlhintrc` enables `attr-value-double-quotes` and is also discovered by the
+HTMLHint editor extension. This focused check is not a full HTML/accessibility audit.
+Single quotes are valid HTML, but this project uses double quotes consistently.
+JSON attributes must escape their internal quotes, for example
+`data-answers="[&#34;Reggel&#34;]"`; browsers decode that to valid JSON before
+JavaScript reads `dataset.answers`. Do not replace JSON's double quotes with
+apostrophes or double-escape existing entities.
+Use numeric `&#34;` specifically: pinned Biome 2.6.8 rewrites named `&quot;`
+entities as literal quotes and can switch the attribute back to single quotes.
+The numeric reference survives formatting and satisfies HTMLHint too.
+
+For existing single-quoted attributes, the DOM-preserving repair is:
+
+```sh
+uv run --no-project --with-requirements tools/requirements.txt python -B tools/html_attributes.py --write
+```
+
+Default invocation (or `--check`) is read-only and reports single-quoted attributes
+and formatter-unstable named quote entities. HTMLHint additionally catches unquoted
+or malformed values. Reformat repaired
+files, rerun HTMLHint and site validation, then rebuild the offline inventory.
+Python HTML generators use `serialize_html` from `tools/html_attributes.py`:
+Beautiful Soup's default serializer can reintroduce single quotes around JSON.
+
 ## Project-specific constraints
 
 - `biome.json` enables experimental full HTML formatting explicitly, uses two

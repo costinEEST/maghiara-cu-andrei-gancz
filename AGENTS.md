@@ -37,6 +37,11 @@ after typography changes. Do not restore mobile overrides that shrink lesson tex
 
 Formatting commands and maintenance setup are also in [README.md](README.md).
 Biome does not format Python, XML, SVG, or media in this configuration.
+After HTML changes or generator output, run
+`npx -y htmlhint@1.9.2 --config .htmlhintrc '**/*.html'` after Biome. Attribute
+values use double quotes, including JSON attributes with internal `&#34;`.
+Beautiful Soup generators use `serialize_html` from `tools/html_attributes.py`
+to preserve this convention. See the Biome skill for repair and check commands.
 
 The PWA's `offline-assets.js` is generated, not maintained by hand. After changes
 to HTML, deployable assets, `sw.js`, README.md or LICENSE.txt, format the sources,

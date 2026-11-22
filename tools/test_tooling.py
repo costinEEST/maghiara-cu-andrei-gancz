@@ -122,6 +122,30 @@ class MaintenanceTests(unittest.TestCase):
             self.assertEqual(before, {path: path.read_bytes() for path in before})
             self.assertFalse((root / "sitemap.xml").exists())
 
+    def test_seo_preserves_body_and_uses_catalog_and_padded_lesson_numbers(self):
+        with TemporaryDirectory() as folder:
+            root = Path(folder)
+            make_site(root, {"andras/two.html": "Doi", "exercitii/a.html": "Test"})
+            inventory_path = root / "assets/inventory.json"
+            inventory = json.loads(inventory_path.read_text(encoding="utf-8"))
+            lesson, activity = inventory["pages"]
+            lesson.update(group="andras", number=2)
+            activity.update(
+                group="exercitii", catalog_number=10, title="Lecția 002, exercițiul 001"
+            )
+            inventory_path.write_text(json.dumps(inventory), encoding="utf-8")
+            path = root / "andras/two.html"
+            original = path.read_text(encoding="utf-8")
+            body = original[original.index("<body>") :]
+            prepare_seo.prepare_seo(root)
+            actual = path.read_text(encoding="utf-8")
+            self.assertEqual(actual[actual.index("<body>") :], body)
+            self.assertIn("Lecția 002:", actual)
+            self.assertIn(
+                "Activitatea 010 — Lecția 002, exercițiul 001",
+                (root / "exercitii/a.html").read_text(encoding="utf-8"),
+            )
+
     def test_malformed_page_schema_answers_and_png_are_reported(self):
         with TemporaryDirectory() as folder:
             root = Path(folder)

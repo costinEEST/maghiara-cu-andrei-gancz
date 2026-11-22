@@ -11,18 +11,32 @@ if (search) {
   search.closest(".search-box").hidden = false;
   const entries = [...document.querySelectorAll("[data-entry]")];
   const sections = [...document.querySelectorAll("[data-section]")];
-  const index = entries.map((entry) => ({
-    entry,
-    text: normalize(entry.dataset.search).replace(/familia/g, "familia familie"),
-  }));
+  const index = entries.map((entry) => {
+    const number = entry.querySelector(".item-number")?.textContent.trim();
+    const lesson = entry.closest("#lectii, #andras") && Number(number);
+    return {
+      entry,
+      text: normalize(`${entry.dataset.search} ${lesson ? `Lecția ${lesson}` : ""}`).replace(
+        /familia/g,
+        "familia familie",
+      ),
+    };
+  });
   const status = document.querySelector("#search-status");
   let timer;
   search.addEventListener("input", () => {
     const query = normalize(search.value);
-    const words = query.split(/\s+/).filter(Boolean);
+    const lesson = query.match(/\blectia\s+(\d+)\b/);
+    const lessonPattern = lesson ? new RegExp(`\\blectia 0*${Number(lesson[1])}\\b`) : null;
+    const words = query
+      .replace(/\blectia\s+\d+\b/, "")
+      .split(/\s+/)
+      .filter(Boolean);
     let count = 0;
     index.forEach(({ entry, text }) => {
-      entry.hidden = !words.every((word) => text.includes(word));
+      entry.hidden =
+        (lessonPattern !== null && !lessonPattern.test(text)) ||
+        !words.every((word) => text.includes(word));
       if (!entry.hidden) count++;
     });
     sections.forEach((section) => {

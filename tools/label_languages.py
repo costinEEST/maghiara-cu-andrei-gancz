@@ -14,6 +14,8 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup, Comment, NavigableString
 
+from html_attributes import serialize_html
+
 ROOT = Path(__file__).resolve().parents[1]
 
 
@@ -486,7 +488,7 @@ def label_languages(root=ROOT):
                 if not control.get("id"):
                     control["id"] = f"raspuns-{i + 1}"
                 label["for"] = control["id"]
-        path.write_text(str(doc), encoding="utf-8")
+        path.write_text(serialize_html(doc), encoding="utf-8")
     report = {
         "labels_added": dict(counts),
         "remaining_distinctive_hungarian_passages": review,

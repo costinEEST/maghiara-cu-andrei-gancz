@@ -33,6 +33,12 @@ ale sursei nu sunt incluse.
 Începe cu lecțiile introductive sau urmează cursul „Maghiara cu András”. Referințele și
 exercițiile asociate se deschid din fiecare lecție.
 
+Lecțiile au numere cu trei cifre în cadrul fiecărui curs (de exemplu, **Lecția 001**).
+Cele 371 de activități au un index separat, **001–371**, în ordinea lecțiilor și apoi
+a temelor de referință. Sub fiecare titlu apar toate lecțiile sau temele asociate.
+Numărul activității este un reper în cuprins, nu numărul lecției; adresele paginilor
+au fost păstrate.
+
 Poți vedea răspunsurile fără să completezi mai întâi exercițiul. Pentru corectarea
 automată, completează câmpurile și apasă **„Verifică răspunsurile”**. Accentele maghiare
 contează: `o`, `ö` și `ő` sunt litere diferite.

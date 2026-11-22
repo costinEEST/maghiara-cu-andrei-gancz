@@ -8,13 +8,30 @@ import argparse
 import json
 import re
 from collections import Counter
+from contextlib import suppress
 from pathlib import Path
 from urllib.parse import urljoin, urlsplit
 from xml.sax.saxutils import escape
 
 from bs4 import BeautifulSoup
 
+from html_attributes import serialize_html
+
 ROOT = Path(__file__).resolve().parents[1]
+
+
+def head_signature(head):
+    """Compare metadata values independently of formatting and element order."""
+    values = []
+    for node in head.find_all(recursive=False):
+        content = str(node.string or "").strip()
+        if node.get("type") == "application/ld+json":
+            with suppress(ValueError):
+                content = json.dumps(
+                    json.loads(content), ensure_ascii=False, sort_keys=True
+                )
+        values.append((node.name, json.dumps(node.attrs, sort_keys=True), content))
+    return sorted(values)
 
 
 def meta(doc, key, value, attr="name"):
@@ -74,13 +91,16 @@ def prepare_seo(root=ROOT):
         doc = BeautifulSoup(path.read_text(encoding="utf-8"), "html.parser")
         if doc.head is None or doc.title is None or doc.h1 is None:
             raise ValueError(f"{relative}: missing head, title or h1")
+        original_head = head_signature(doc.head)
         heading = compact(doc.h1.get_text(" ", strip=True))
         topic = heading.split(" / ")[-1]
         group = record.get("group", "referinte")
         number = record.get("number")
         variant = re.search(r"-varianta-(\d+)\.html$", relative)
-        if variant:
+        if variant and not re.search(r" · [Vv]arianta \d+$", topic):
             topic += f" · varianta {variant[1]}"
+        if group == "exercitii" and record.get("catalog_number"):
+            topic = f"Activitatea {record['catalog_number']:03d} — {record['title']}"
         label = GROUPS[group]
         if relative == "index.html":
             title = "Învață maghiara: lecții, vocabular și gramatică | Nebuló"
@@ -90,14 +110,14 @@ def prepare_seo(root=ROOT):
                 "Parcurge cursul în ritmul tău."
             )
         else:
-            title = (f"Lecția {number}: " if number else "") + topic
+            title = (f"Lecția {number:03d}: " if number else "") + topic
             if group == "andras":
                 title += " | András"
             elif group in ("gramatica", "vocabular", "comunicare"):
                 title += " | " + label
             title += " | Nebuló"
             prefix = (
-                f"Lecția {number} din cursul {label}: "
+                f"Lecția {number:03d} din cursul {label}: "
                 if number
                 else label + " în limba maghiară: "
             )
@@ -268,13 +288,28 @@ def prepare_seo(root=ROOT):
         schema = doc.new_tag(
             "script", type="application/ld+json", attrs={"data-site-schema": ""}
         )
-        schema.string = json.dumps(
+        schema_json = json.dumps(
             {"@context": "https://schema.org", "@graph": graph},
             ensure_ascii=False,
-            separators=(",", ":"),
+            indent=2,
+        )
+        schema.string = (
+            "\n"
+            + "\n".join("      " + line for line in schema_json.splitlines())
+            + "\n    "
         )
         head.append(schema)
-        rendered[path] = str(doc)
+        # Metadata updates must not reserialize lesson examples or inline words.
+        original = path.read_text(encoding="utf-8")
+        rendered[path] = original
+        if original_head != head_signature(head):
+            rendered[path] = re.sub(
+                r"<head\b[^>]*>.*?</head>",
+                lambda _, head=head: serialize_html(head),
+                original,
+                count=1,
+                flags=re.S | re.I,
+            )
 
     for label, values in [("titles", titles), ("descriptions", descriptions)]:
         duplicates = [value for value, count in Counter(values).items() if count > 1]
@@ -282,7 +317,9 @@ def prepare_seo(root=ROOT):
             raise ValueError(f"Duplicate {label}: {duplicates}")
     sitemap = (
         '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-        + "".join("  <url><loc>" + escape(url) + "</loc></url>\n" for url in urls)
+        + "".join(
+            "  <url>\n    <loc>" + escape(url) + "</loc>\n  </url>\n" for url in urls
+        )
         + "</urlset>\n"
     )
 
@@ -305,4 +342,4 @@ def main(argv=None):
 
 
 if __name__ == "__main__":
-    raise ValueError(main())
+    raise SystemExit(main())
