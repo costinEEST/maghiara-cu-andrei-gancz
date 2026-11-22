@@ -148,60 +148,131 @@
             >Usina Quiz<span aria-hidden="true" class="external-icon">↗</span
             ><span class="visually-hidden" lang="ro"> (site extern)</span></a
           >
-          <p>
-            <label for="raspuns-1"
-              >1.<select data-answers="[&#34;Boldogtalan vagyok.&#34;]" id="raspuns-1">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">Boldogtalan vagyok.</option>
-                <option lang="ro">Elégedetlen vagyok.</option>
-              </select></label
-            >
+          <p class="note single-choice-instructions" lang="ro">
+            Alege o singură variantă pentru fiecare întrebare.
           </p>
-          <p>
-            <label for="raspuns-2"
-              >2.<select data-answers="[&#34;Fel vagyok háborodva!&#34;]" id="raspuns-2">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">Fel vagyok háborodva!</option>
-                <option lang="hu">Milyen kellemetlen!</option>
-              </select></label
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;Boldogtalan vagyok.&#34;]"
+            data-choice=""
+            id="raspuns-1">
+            <legend lang="ro">Întrebarea 1</legend>
+            <label class="choice-option" for="raspuns-1-optiunea-1"
+              ><input
+                id="raspuns-1-optiunea-1"
+                name="raspuns-1-alegere"
+                type="radio"
+                value="Boldogtalan vagyok."><span lang="hu">Boldogtalan vagyok.</span></label
+            ><label class="choice-option" for="raspuns-1-optiunea-2"
+              ><input
+                id="raspuns-1-optiunea-2"
+                name="raspuns-1-alegere"
+                type="radio"
+                value="Elégedetlen vagyok."><span lang="ro">Elégedetlen vagyok.</span></label
             >
-          </p>
-          <p>
-            <label for="raspuns-3"
-              >3.<select data-answers="[&#34;Micsoda szerencsétlenség!&#34;]" id="raspuns-3">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="ro">Micsoda ügy!</option>
-                <option lang="hu">Micsoda szerencsétlenség!</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;Fel vagyok háborodva!&#34;]"
+            data-choice=""
+            id="raspuns-2">
+            <legend lang="ro">Întrebarea 2</legend>
+            <label class="choice-option" for="raspuns-2-optiunea-1"
+              ><input
+                id="raspuns-2-optiunea-1"
+                name="raspuns-2-alegere"
+                type="radio"
+                value="Fel vagyok háborodva!"><span lang="hu">Fel vagyok háborodva!</span></label
+            ><label class="choice-option" for="raspuns-2-optiunea-2"
+              ><input
+                id="raspuns-2-optiunea-2"
+                name="raspuns-2-alegere"
+                type="radio"
+                value="Milyen kellemetlen!"><span lang="hu">Milyen kellemetlen!</span></label
             >
-          </p>
-          <p>
-            <label for="raspuns-4"
-              >4.<select data-answers="[&#34;Ez katasztrófa!&#34;]" id="raspuns-4">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">Ez nagyon súlyos!</option>
-                <option lang="hu">Ez katasztrófa!</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;Micsoda szerencsétlenség!&#34;]"
+            data-choice=""
+            id="raspuns-3">
+            <legend lang="ro">Întrebarea 3</legend>
+            <label class="choice-option" for="raspuns-3-optiunea-1"
+              ><input
+                id="raspuns-3-optiunea-1"
+                name="raspuns-3-alegere"
+                type="radio"
+                value="Micsoda ügy!"><span lang="ro">Micsoda ügy!</span></label
+            ><label class="choice-option" for="raspuns-3-optiunea-2"
+              ><input
+                id="raspuns-3-optiunea-2"
+                name="raspuns-3-alegere"
+                type="radio"
+                value="Micsoda szerencsétlenség!"><span lang="hu"
+                >Micsoda szerencsétlenség!</span
+              ></label
             >
-          </p>
-          <p>
-            <label for="raspuns-5"
-              >5.<select data-answers="[&#34;Ez szörnyű!&#34;]" id="raspuns-5">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">Ez szörnyű!</option>
-                <option lang="hu">Szép kis ügy!</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;Ez katasztrófa!&#34;]"
+            data-choice=""
+            id="raspuns-4">
+            <legend lang="ro">Întrebarea 4</legend>
+            <label class="choice-option" for="raspuns-4-optiunea-1"
+              ><input
+                id="raspuns-4-optiunea-1"
+                name="raspuns-4-alegere"
+                type="radio"
+                value="Ez nagyon súlyos!"><span lang="hu">Ez nagyon súlyos!</span></label
+            ><label class="choice-option" for="raspuns-4-optiunea-2"
+              ><input
+                id="raspuns-4-optiunea-2"
+                name="raspuns-4-alegere"
+                type="radio"
+                value="Ez katasztrófa!"><span lang="hu">Ez katasztrófa!</span></label
             >
-          </p>
-          <p>
-            <label for="raspuns-6"
-              >6.<select data-answers="[&#34;Ez nagyon bosszantó.&#34;]" id="raspuns-6">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">Ez szomorú.</option>
-                <option lang="hu">Ez nagyon bosszantó.</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;Ez szörnyű!&#34;]"
+            data-choice=""
+            id="raspuns-5">
+            <legend lang="ro">Întrebarea 5</legend>
+            <label class="choice-option" for="raspuns-5-optiunea-1"
+              ><input
+                id="raspuns-5-optiunea-1"
+                name="raspuns-5-alegere"
+                type="radio"
+                value="Ez szörnyű!"><span lang="hu">Ez szörnyű!</span></label
+            ><label class="choice-option" for="raspuns-5-optiunea-2"
+              ><input
+                id="raspuns-5-optiunea-2"
+                name="raspuns-5-alegere"
+                type="radio"
+                value="Szép kis ügy!"><span lang="hu">Szép kis ügy!</span></label
             >
-          </p>
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;Ez nagyon bosszantó.&#34;]"
+            data-choice=""
+            id="raspuns-6">
+            <legend lang="ro">Întrebarea 6</legend>
+            <label class="choice-option" for="raspuns-6-optiunea-1"
+              ><input
+                id="raspuns-6-optiunea-1"
+                name="raspuns-6-alegere"
+                type="radio"
+                value="Ez szomorú."><span lang="hu">Ez szomorú.</span></label
+            ><label class="choice-option" for="raspuns-6-optiunea-2"
+              ><input
+                id="raspuns-6-optiunea-2"
+                name="raspuns-6-alegere"
+                type="radio"
+                value="Ez nagyon bosszantó."><span lang="hu">Ez nagyon bosszantó.</span></label
+            >
+          </fieldset>
           <div class="exercise-actions">
             <button data-check="" type="button">Verifică răspunsurile</button
             ><button data-reset="" type="button">Reia exercițiul</button>

@@ -169,6 +169,43 @@ textarea {
 input[type="radio"] {
   min-height: auto;
 }
+.choice-question {
+  min-inline-size: 0;
+  margin-block: 1.5rem;
+  padding: 0.75rem 1rem 1rem;
+  border: 1px solid var(--line);
+  border-radius: 0.35rem;
+}
+.choice-question legend {
+  max-inline-size: 100%;
+  padding-inline: 0.3rem;
+  font-weight: 650;
+}
+.choice-option {
+  display: flex;
+  align-items: start;
+  gap: 0.7rem;
+  min-block-size: 44px;
+  padding: 0.45rem 0.5rem;
+  cursor: pointer;
+  border-radius: 0.3rem;
+}
+.choice-option:hover,
+.choice-option:has(input:checked) {
+  background: var(--wash);
+}
+.choice-option input[type="radio"] {
+  flex: 0 0 auto;
+  inline-size: 1.2rem;
+  block-size: 1.2rem;
+  margin: 0.25em 0 0;
+  padding: 0;
+  accent-color: var(--green);
+}
+.choice-option span {
+  min-inline-size: 0;
+  overflow-wrap: anywhere;
+}
 input[data-answers] {
   width: min(100%, 28rem);
 }

@@ -147,6 +147,21 @@ def validate_document(doc, path, root, config, documents):
             }
             if not all(" ".join(answer.split()) in options for answer in answers):
                 fail("Answer missing from select options")
+        if field.name == "fieldset" and field.has_attr("data-choice"):
+            legend = field.find("legend", recursive=False)
+            radios = field.select('input[type="radio"]')
+            values = {str(radio.get("value", "")) for radio in radios}
+            names = {str(radio.get("name", "")) for radio in radios}
+            if legend is None or not legend.get_text(strip=True):
+                fail("Radio question lacks a visible legend")
+            if not 2 <= len(radios) <= 5 or len(values) != len(radios):
+                fail("Invalid radio answer choices")
+            if len(names) != 1 or "" in names:
+                fail("Radio choices must share a nonempty group name")
+            if not all(" ".join(answer.split()) in values for answer in answers):
+                fail("Answer missing from radio choices")
+            if any(radio.has_attr("checked") for radio in radios):
+                fail("Radio exercise must start without a selected answer")
     for field in doc.select(".lesson-content input,.lesson-content select"):
         if re.fullmatch(r"Gap\d+", str(field.get("id", ""))) and not field.has_attr(
             "data-answers"

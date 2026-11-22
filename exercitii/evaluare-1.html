@@ -145,67 +145,135 @@
             >Usina Quiz<span aria-hidden="true" class="external-icon">↗</span
             ><span class="visually-hidden" lang="ro"> (site extern)</span></a
           >
-          <p>
-            <label for="raspuns-1"
-              ><span lang="hu">1. – Milyen ez a szálloda?</span
-              ><select data-answers="[&#34;– Nem rossz.&#34;]" id="raspuns-1">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">– Nem az igazi.</option>
-                <option lang="hu">– Nem rossz.</option>
-              </select></label
-            >
+          <p class="note single-choice-instructions" lang="ro">
+            Alege o singură variantă pentru fiecare întrebare.
           </p>
-          <p>
-            <label for="raspuns-2"
-              ><span lang="hu">2. – Tetszik ez a kanapé?</span
-              ><select data-answers="[&#34;– Igazán szép.&#34;]" id="raspuns-2">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">– Igazán szép.</option>
-                <option lang="hu">– Szörnyű!</option>
-              </select></label
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;– Nem rossz.&#34;]"
+            data-choice=""
+            id="raspuns-1">
+            <legend lang="hu"><span lang="hu">1. – Milyen ez a szálloda?</span></legend>
+            <label class="choice-option" for="raspuns-1-optiunea-1"
+              ><input
+                id="raspuns-1-optiunea-1"
+                name="raspuns-1-alegere"
+                type="radio"
+                value="– Nem az igazi."><span lang="hu">– Nem az igazi.</span></label
+            ><label class="choice-option" for="raspuns-1-optiunea-2"
+              ><input
+                id="raspuns-1-optiunea-2"
+                name="raspuns-1-alegere"
+                type="radio"
+                value="– Nem rossz."><span lang="hu">– Nem rossz.</span></label
             >
-          </p>
-          <p>
-            <label for="raspuns-3"
-              ><span lang="hu">3. – Hogy tetszik Károly kocsija?</span
-              ><select data-answers="[&#34;– Olyan, amilyennek lennie kell.&#34;]" id="raspuns-3">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="ro">– Nem találom szépnek.</option>
-                <option lang="hu">– Olyan, amilyennek lennie kell.</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;– Igazán szép.&#34;]"
+            data-choice=""
+            id="raspuns-2">
+            <legend lang="hu"><span lang="hu">2. – Tetszik ez a kanapé?</span></legend>
+            <label class="choice-option" for="raspuns-2-optiunea-1"
+              ><input
+                id="raspuns-2-optiunea-1"
+                name="raspuns-2-alegere"
+                type="radio"
+                value="– Igazán szép."><span lang="hu">– Igazán szép.</span></label
+            ><label class="choice-option" for="raspuns-2-optiunea-2"
+              ><input
+                id="raspuns-2-optiunea-2"
+                name="raspuns-2-alegere"
+                type="radio"
+                value="– Szörnyű!"><span lang="hu">– Szörnyű!</span></label
             >
-          </p>
-          <p>
-            <label for="raspuns-4"
-              ><span lang="hu">4. – Mit gondolsz a koncertről?</span
-              ><select data-answers="[&#34;– Fölülmúlja a tegnapit.&#34;]" id="raspuns-4">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="ro">– Semmi a tegnapihoz képest.</option>
-                <option lang="hu">– Fölülmúlja a tegnapit.</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;– Olyan, amilyennek lennie kell.&#34;]"
+            data-choice=""
+            id="raspuns-3">
+            <legend lang="hu"><span lang="hu">3. – Hogy tetszik Károly kocsija?</span></legend>
+            <label class="choice-option" for="raspuns-3-optiunea-1"
+              ><input
+                id="raspuns-3-optiunea-1"
+                name="raspuns-3-alegere"
+                type="radio"
+                value="– Nem találom szépnek."><span lang="ro">– Nem találom szépnek.</span></label
+            ><label class="choice-option" for="raspuns-3-optiunea-2"
+              ><input
+                id="raspuns-3-optiunea-2"
+                name="raspuns-3-alegere"
+                type="radio"
+                value="– Olyan, amilyennek lennie kell."><span lang="hu"
+                >– Olyan, amilyennek lennie kell.</span
+              ></label
             >
-          </p>
-          <p>
-            <label for="raspuns-5"
-              ><span lang="hu">5. – Milyen volt a beszéd?</span
-              ><select data-answers="[&#34;– Nagyra értékelem.&#34;]" id="raspuns-5">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">– Nagyra értékelem.</option>
-                <option lang="ro">– Kritikán aluli.</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;– Fölülmúlja a tegnapit.&#34;]"
+            data-choice=""
+            id="raspuns-4">
+            <legend lang="hu"><span lang="hu">4. – Mit gondolsz a koncertről?</span></legend>
+            <label class="choice-option" for="raspuns-4-optiunea-1"
+              ><input
+                id="raspuns-4-optiunea-1"
+                name="raspuns-4-alegere"
+                type="radio"
+                value="– Semmi a tegnapihoz képest."><span lang="ro"
+                >– Semmi a tegnapihoz képest.</span
+              ></label
+            ><label class="choice-option" for="raspuns-4-optiunea-2"
+              ><input
+                id="raspuns-4-optiunea-2"
+                name="raspuns-4-alegere"
+                type="radio"
+                value="– Fölülmúlja a tegnapit."><span lang="hu"
+                >– Fölülmúlja a tegnapit.</span
+              ></label
             >
-          </p>
-          <p>
-            <label for="raspuns-6"
-              >6. – Szépnek találod Karola ruháját?<select
-                data-answers="[&#34;– Jól néz ki.&#34;]"
-                id="raspuns-6">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">– Jól néz ki.</option>
-                <option lang="hu">– Ez ruha?!</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;– Nagyra értékelem.&#34;]"
+            data-choice=""
+            id="raspuns-5">
+            <legend lang="hu"><span lang="hu">5. – Milyen volt a beszéd?</span></legend>
+            <label class="choice-option" for="raspuns-5-optiunea-1"
+              ><input
+                id="raspuns-5-optiunea-1"
+                name="raspuns-5-alegere"
+                type="radio"
+                value="– Nagyra értékelem."><span lang="hu">– Nagyra értékelem.</span></label
+            ><label class="choice-option" for="raspuns-5-optiunea-2"
+              ><input
+                id="raspuns-5-optiunea-2"
+                name="raspuns-5-alegere"
+                type="radio"
+                value="– Kritikán aluli."><span lang="ro">– Kritikán aluli.</span></label
             >
-          </p>
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;– Jól néz ki.&#34;]"
+            data-choice=""
+            id="raspuns-6">
+            <legend lang="hu">6. – Szépnek találod Karola ruháját?</legend>
+            <label class="choice-option" for="raspuns-6-optiunea-1"
+              ><input
+                id="raspuns-6-optiunea-1"
+                name="raspuns-6-alegere"
+                type="radio"
+                value="– Jól néz ki."><span lang="hu">– Jól néz ki.</span></label
+            ><label class="choice-option" for="raspuns-6-optiunea-2"
+              ><input
+                id="raspuns-6-optiunea-2"
+                name="raspuns-6-alegere"
+                type="radio"
+                value="– Ez ruha?!"><span lang="hu">– Ez ruha?!</span></label
+            >
+          </fieldset>
           <div class="exercise-actions">
             <button data-check="" type="button">Verifică răspunsurile</button
             ><button data-reset="" type="button">Reia exercițiul</button>

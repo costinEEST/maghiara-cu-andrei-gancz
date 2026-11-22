@@ -148,69 +148,137 @@
               ><span class="visually-hidden" lang="ro"> (site extern)</span></a
             >.
           </p>
-          <p>
-            <label for="raspuns-1" lang="ro"
-              >1. <span lang="hu">– Szabad enni a tortából?</span><br>
-              <select data-answers="[&#34;– Hát persze!&#34;]" id="raspuns-1" lang="hu">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">– Nagyon szívesen!</option>
-                <option lang="hu">– Hát persze!</option>
-              </select></label
-            >
+          <p class="note single-choice-instructions" lang="ro">
+            Alege o singură variantă pentru fiecare întrebare.
           </p>
-          <p>
-            <label for="raspuns-2" lang="ro"
-              >2. <span lang="hu">– Engedje meg, hogy mondjak valamit.</span><br>
-              <select data-answers="[&#34;– Kérem.&#34;]" id="raspuns-2" lang="hu">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">– Kérem.</option>
-                <option lang="hu">– Micsoda kérdés!</option>
-              </select></label
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;– Hát persze!&#34;]"
+            data-choice=""
+            id="raspuns-1">
+            <legend lang="ro">1. <span lang="hu">– Szabad enni a tortából?</span></legend>
+            <label class="choice-option" for="raspuns-1-optiunea-1"
+              ><input
+                id="raspuns-1-optiunea-1"
+                name="raspuns-1-alegere"
+                type="radio"
+                value="– Nagyon szívesen!"><span lang="hu">– Nagyon szívesen!</span></label
+            ><label class="choice-option" for="raspuns-1-optiunea-2"
+              ><input
+                id="raspuns-1-optiunea-2"
+                name="raspuns-1-alegere"
+                type="radio"
+                value="– Hát persze!"><span lang="hu">– Hát persze!</span></label
             >
-          </p>
-          <p>
-            <label for="raspuns-3" lang="ro"
-              >3. <span lang="hu">– Hadd nézzem meg ezeket a képeket!</span><br>
-              <select
-                data-answers="[&#34;– Nincs ellene semmi kifogásom.&#34;]"
-                id="raspuns-3"
-                lang="hu">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">– Még kérded?</option>
-                <option lang="hu">– Nincs ellene semmi kifogásom.</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;– Kérem.&#34;]"
+            data-choice=""
+            id="raspuns-2">
+            <legend lang="ro">
+              2. <span lang="hu">– Engedje meg, hogy mondjak valamit.</span>
+            </legend>
+            <label class="choice-option" for="raspuns-2-optiunea-1"
+              ><input
+                id="raspuns-2-optiunea-1"
+                name="raspuns-2-alegere"
+                type="radio"
+                value="– Kérem."><span lang="hu">– Kérem.</span></label
+            ><label class="choice-option" for="raspuns-2-optiunea-2"
+              ><input
+                id="raspuns-2-optiunea-2"
+                name="raspuns-2-alegere"
+                type="radio"
+                value="– Micsoda kérdés!"><span lang="hu">– Micsoda kérdés!</span></label
             >
-          </p>
-          <p>
-            <label for="raspuns-4" lang="ro"
-              >4. <span lang="hu">– Elvihetem ezt a széket?</span><br>
-              <select data-answers="[&#34;– Hogyne!&#34;]" id="raspuns-4" lang="hu">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">– Hogyne!</option>
-                <option lang="hu">– Szabad kezet adok.</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;– Nincs ellene semmi kifogásom.&#34;]"
+            data-choice=""
+            id="raspuns-3">
+            <legend lang="ro">3. <span lang="hu">– Hadd nézzem meg ezeket a képeket!</span></legend>
+            <label class="choice-option" for="raspuns-3-optiunea-1"
+              ><input
+                id="raspuns-3-optiunea-1"
+                name="raspuns-3-alegere"
+                type="radio"
+                value="– Még kérded?"><span lang="hu">– Még kérded?</span></label
+            ><label class="choice-option" for="raspuns-3-optiunea-2"
+              ><input
+                id="raspuns-3-optiunea-2"
+                name="raspuns-3-alegere"
+                type="radio"
+                value="– Nincs ellene semmi kifogásom."><span lang="hu"
+                >– Nincs ellene semmi kifogásom.</span
+              ></label
             >
-          </p>
-          <p>
-            <label for="raspuns-5" lang="ro"
-              >5. <span lang="hu">– Ha nincs ellene kifogásod, a bicikliddel megyek.</span><br>
-              <select data-answers="[&#34;– Jól van.&#34;]" id="raspuns-5" lang="hu">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">– Jól van.</option>
-                <option lang="hu">– Igen.</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;– Hogyne!&#34;]"
+            data-choice=""
+            id="raspuns-4">
+            <legend lang="ro">4. <span lang="hu">– Elvihetem ezt a széket?</span></legend>
+            <label class="choice-option" for="raspuns-4-optiunea-1"
+              ><input
+                id="raspuns-4-optiunea-1"
+                name="raspuns-4-alegere"
+                type="radio"
+                value="– Hogyne!"><span lang="hu">– Hogyne!</span></label
+            ><label class="choice-option" for="raspuns-4-optiunea-2"
+              ><input
+                id="raspuns-4-optiunea-2"
+                name="raspuns-4-alegere"
+                type="radio"
+                value="– Szabad kezet adok."><span lang="hu">– Szabad kezet adok.</span></label
             >
-          </p>
-          <p>
-            <label for="raspuns-6" lang="ro"
-              >6. <span lang="hu">– Anyu! Szeretnék moziba menni a barátaimmal.</span><br>
-              <select data-answers="[&#34;– Mehetsz.&#34;]" id="raspuns-6" lang="hu">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">– Parancsoljon.</option>
-                <option lang="hu">– Mehetsz.</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;– Jól van.&#34;]"
+            data-choice=""
+            id="raspuns-5">
+            <legend lang="ro">
+              5. <span lang="hu">– Ha nincs ellene kifogásod, a bicikliddel megyek.</span>
+            </legend>
+            <label class="choice-option" for="raspuns-5-optiunea-1"
+              ><input
+                id="raspuns-5-optiunea-1"
+                name="raspuns-5-alegere"
+                type="radio"
+                value="– Jól van."><span lang="hu">– Jól van.</span></label
+            ><label class="choice-option" for="raspuns-5-optiunea-2"
+              ><input
+                id="raspuns-5-optiunea-2"
+                name="raspuns-5-alegere"
+                type="radio"
+                value="– Igen."><span lang="hu">– Igen.</span></label
             >
-          </p>
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;– Mehetsz.&#34;]"
+            data-choice=""
+            id="raspuns-6">
+            <legend lang="ro">
+              6. <span lang="hu">– Anyu! Szeretnék moziba menni a barátaimmal.</span>
+            </legend>
+            <label class="choice-option" for="raspuns-6-optiunea-1"
+              ><input
+                id="raspuns-6-optiunea-1"
+                name="raspuns-6-alegere"
+                type="radio"
+                value="– Parancsoljon."><span lang="hu">– Parancsoljon.</span></label
+            ><label class="choice-option" for="raspuns-6-optiunea-2"
+              ><input
+                id="raspuns-6-optiunea-2"
+                name="raspuns-6-alegere"
+                type="radio"
+                value="– Mehetsz."><span lang="hu">– Mehetsz.</span></label
+            >
+          </fieldset>
           <div class="exercise-actions">
             <button data-check="" type="button">Verifică răspunsurile</button
             ><button data-reset="" type="button">Reia exercițiul</button>

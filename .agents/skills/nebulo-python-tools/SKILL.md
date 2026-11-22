@@ -113,6 +113,14 @@ Documentation-only edits do not require the regression suite.
 
 ## Maintenance scripts have side effects
 
+- `convert_choices.py`: read-only audit by default; `--write` converts standalone
+  short single-choice selects to native fieldsets/radios after all pages preflight.
+  Preserve matching/ordering tasks, cloze fields, multi-select controls and long
+  lists. `data-answers` belongs on the group, not individual radios. Multiple
+  accepted strings are alternatives for one selection, not a request for checkboxes.
+  Keep option language labels, bilingual true/false wording and original prompts.
+  After conversion, check keyboard exclusivity, unanswered/wrong/correct grading,
+  focus, reset and mobile wrapping in MCP, plus the usual Python, HTML and offline checks.
 - `repair_prompts.py --sources /path/to/originals`: read-only comparison against
   original exercise HTML named after each local exercise page. Supply the complete
   set outside the site; add `--write` only for intended repairs after reviewing

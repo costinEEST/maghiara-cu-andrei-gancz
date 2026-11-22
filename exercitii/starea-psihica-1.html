@@ -148,66 +148,135 @@
               ><span class="visually-hidden" lang="ro"> (site extern)</span></a
             >.
           </p>
-          <p>
-            <label for="raspuns-1" lang="ro"
-              >1. <span lang="hu">– Nagyon izgulok.</span><br>
-              <select data-answers="[&#34;– Mi van veled?&#34;]" id="raspuns-1" lang="hu">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">– Mit lógatod az orrodat?</option>
-                <option lang="hu">– Mi van veled?</option>
-              </select></label
-            >
+          <p class="note single-choice-instructions" lang="ro">
+            Alege o singură variantă pentru fiecare întrebare.
           </p>
-          <p>
-            <label for="raspuns-2" lang="ro"
-              >2. <span lang="hu">– Igen. Jó hangulatban vagyok.</span><br>
-              <select data-answers="[&#34;– Jól vagy?&#34;]" id="raspuns-2" lang="hu">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">– Mi nincs rendben?</option>
-                <option lang="hu">– Jól vagy?</option>
-              </select></label
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;– Mi van veled?&#34;]"
+            data-choice=""
+            id="raspuns-1">
+            <legend lang="ro">1. <span lang="hu">– Nagyon izgulok.</span></legend>
+            <label class="choice-option" for="raspuns-1-optiunea-1"
+              ><input
+                id="raspuns-1-optiunea-1"
+                name="raspuns-1-alegere"
+                type="radio"
+                value="– Mit lógatod az orrodat?"><span lang="hu"
+                >– Mit lógatod az orrodat?</span
+              ></label
+            ><label class="choice-option" for="raspuns-1-optiunea-2"
+              ><input
+                id="raspuns-1-optiunea-2"
+                name="raspuns-1-alegere"
+                type="radio"
+                value="– Mi van veled?"><span lang="hu">– Mi van veled?</span></label
             >
-          </p>
-          <p>
-            <label for="raspuns-3" lang="ro"
-              >3. <span lang="hu">– Nem. Ideges vagyok.</span><br>
-              <select data-answers="[&#34;– Nem érzed jól magad?&#34;]" id="raspuns-3" lang="hu">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">– Nem érzed jól magad?</option>
-                <option lang="hu">– Mi bajod?</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;– Jól vagy?&#34;]"
+            data-choice=""
+            id="raspuns-2">
+            <legend lang="ro">2. <span lang="hu">– Igen. Jó hangulatban vagyok.</span></legend>
+            <label class="choice-option" for="raspuns-2-optiunea-1"
+              ><input
+                id="raspuns-2-optiunea-1"
+                name="raspuns-2-alegere"
+                type="radio"
+                value="– Mi nincs rendben?"><span lang="hu">– Mi nincs rendben?</span></label
+            ><label class="choice-option" for="raspuns-2-optiunea-2"
+              ><input
+                id="raspuns-2-optiunea-2"
+                name="raspuns-2-alegere"
+                type="radio"
+                value="– Jól vagy?"><span lang="hu">– Jól vagy?</span></label
             >
-          </p>
-          <p>
-            <label for="raspuns-4" lang="ro"
-              >4. <span lang="hu">– Nagyon meg vagyok hatva.</span><br>
-              <select data-answers="[&#34;– Mi történt veled?&#34;]" id="raspuns-4" lang="hu">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">– Bal lábbal keltél fel ma?</option>
-                <option lang="hu">– Mi történt veled?</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;– Nem érzed jól magad?&#34;]"
+            data-choice=""
+            id="raspuns-3">
+            <legend lang="ro">3. <span lang="hu">– Nem. Ideges vagyok.</span></legend>
+            <label class="choice-option" for="raspuns-3-optiunea-1"
+              ><input
+                id="raspuns-3-optiunea-1"
+                name="raspuns-3-alegere"
+                type="radio"
+                value="– Nem érzed jól magad?"><span lang="hu">– Nem érzed jól magad?</span></label
+            ><label class="choice-option" for="raspuns-3-optiunea-2"
+              ><input
+                id="raspuns-3-optiunea-2"
+                name="raspuns-3-alegere"
+                type="radio"
+                value="– Mi bajod?"><span lang="hu">– Mi bajod?</span></label
             >
-          </p>
-          <p>
-            <label for="raspuns-5" lang="ro"
-              >5. <span lang="hu">– Nem. Sírhatnékom van.</span><br>
-              <select data-answers="[&#34;– Nem vagy jól?&#34;]" id="raspuns-5" lang="hu">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">– Történt veled valami?</option>
-                <option lang="hu">– Nem vagy jól?</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;– Mi történt veled?&#34;]"
+            data-choice=""
+            id="raspuns-4">
+            <legend lang="ro">4. <span lang="hu">– Nagyon meg vagyok hatva.</span></legend>
+            <label class="choice-option" for="raspuns-4-optiunea-1"
+              ><input
+                id="raspuns-4-optiunea-1"
+                name="raspuns-4-alegere"
+                type="radio"
+                value="– Bal lábbal keltél fel ma?"><span lang="hu"
+                >– Bal lábbal keltél fel ma?</span
+              ></label
+            ><label class="choice-option" for="raspuns-4-optiunea-2"
+              ><input
+                id="raspuns-4-optiunea-2"
+                name="raspuns-4-alegere"
+                type="radio"
+                value="– Mi történt veled?"><span lang="hu">– Mi történt veled?</span></label
             >
-          </p>
-          <p>
-            <label for="raspuns-6" lang="ro"
-              >6. <span lang="hu">– Nem. Szomorú vagyok.</span><br>
-              <select data-answers="[&#34;– Jól érzed magad?&#34;]" id="raspuns-6" lang="hu">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">– Jól érzed magad?</option>
-                <option lang="hu">– Rosszul érzed magad?</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;– Nem vagy jól?&#34;]"
+            data-choice=""
+            id="raspuns-5">
+            <legend lang="ro">5. <span lang="hu">– Nem. Sírhatnékom van.</span></legend>
+            <label class="choice-option" for="raspuns-5-optiunea-1"
+              ><input
+                id="raspuns-5-optiunea-1"
+                name="raspuns-5-alegere"
+                type="radio"
+                value="– Történt veled valami?"><span lang="hu"
+                >– Történt veled valami?</span
+              ></label
+            ><label class="choice-option" for="raspuns-5-optiunea-2"
+              ><input
+                id="raspuns-5-optiunea-2"
+                name="raspuns-5-alegere"
+                type="radio"
+                value="– Nem vagy jól?"><span lang="hu">– Nem vagy jól?</span></label
             >
-          </p>
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;– Jól érzed magad?&#34;]"
+            data-choice=""
+            id="raspuns-6">
+            <legend lang="ro">6. <span lang="hu">– Nem. Szomorú vagyok.</span></legend>
+            <label class="choice-option" for="raspuns-6-optiunea-1"
+              ><input
+                id="raspuns-6-optiunea-1"
+                name="raspuns-6-alegere"
+                type="radio"
+                value="– Jól érzed magad?"><span lang="hu">– Jól érzed magad?</span></label
+            ><label class="choice-option" for="raspuns-6-optiunea-2"
+              ><input
+                id="raspuns-6-optiunea-2"
+                name="raspuns-6-alegere"
+                type="radio"
+                value="– Rosszul érzed magad?"><span lang="hu">– Rosszul érzed magad?</span></label
+            >
+          </fieldset>
           <div class="exercise-actions">
             <button data-check="" type="button">Verifică răspunsurile</button
             ><button data-reset="" type="button">Reia exercițiul</button>

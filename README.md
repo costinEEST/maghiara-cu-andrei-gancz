@@ -40,7 +40,8 @@ Numărul activității este un reper în cuprins, nu numărul lecției; adresele
 au fost păstrate.
 
 Poți vedea răspunsurile fără să completezi mai întâi exercițiul. Pentru corectarea
-automată, completează câmpurile și apasă **„Verifică răspunsurile”**. Accentele maghiare
+automată, completează sau alege răspunsurile și apasă **„Verifică răspunsurile”**. Întrebările
+cu puține variante le afișează direct și permit o singură alegere. Accentele maghiare
 contează: `o`, `ö` și `ő` sunt litere diferite.
 
 Pentru folosire locală, din directorul proiectului:

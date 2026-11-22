@@ -143,42 +143,84 @@
         </header>
         <div class="lesson-content">
           <p class="note">Alegeți răspunsul corect.</p>
-          <p>
-            <label for="raspuns-1"
-              >Cum salutăm o persoană pe care nu o tutuim?<select
-                data-answers="[&#34;Üdvözlöm!&#34;]"
-                id="raspuns-1">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">Szervusz!</option>
-                <option lang="ro">Csaó!</option>
-                <option lang="hu">Üdvözlöm!</option>
-              </select></label
-            >
+          <p class="note single-choice-instructions" lang="ro">
+            Alege o singură variantă pentru fiecare întrebare.
           </p>
-          <p>
-            <label for="raspuns-2"
-              >Cum o salută un bărbat numai pe o femeie?<select
-                data-answers="[&#34;Kezét csókolom!&#34;]"
-                id="raspuns-2">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="ro">Isten hozta!</option>
-                <option lang="hu">Kezét csókolom!</option>
-                <option lang="hu">Szevasz!</option>
-              </select></label
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;Üdvözlöm!&#34;]"
+            data-choice=""
+            id="raspuns-1">
+            <legend lang="hu">Cum salutăm o persoană pe care nu o tutuim?</legend>
+            <label class="choice-option" for="raspuns-1-optiunea-1"
+              ><input
+                id="raspuns-1-optiunea-1"
+                name="raspuns-1-alegere"
+                type="radio"
+                value="Szervusz!"><span lang="hu">Szervusz!</span></label
+            ><label class="choice-option" for="raspuns-1-optiunea-2"
+              ><input id="raspuns-1-optiunea-2" name="raspuns-1-alegere" type="radio" value="Csaó!">
+              <span lang="ro">Csaó!</span></label
+            ><label class="choice-option" for="raspuns-1-optiunea-3"
+              ><input
+                id="raspuns-1-optiunea-3"
+                name="raspuns-1-alegere"
+                type="radio"
+                value="Üdvözlöm!"><span lang="hu">Üdvözlöm!</span></label
             >
-          </p>
-          <p>
-            <label for="raspuns-3"
-              >Cum ne salutăm când ne întâlnim dimineața?<select
-                data-answers="[&#34;Jó reggelt kívánok!&#34;]"
-                id="raspuns-3">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">Jó reggelt kívánok!</option>
-                <option lang="hu">Jó estét kívánok!</option>
-                <option lang="hu">Jó napot kívánok!</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;Kezét csókolom!&#34;]"
+            data-choice=""
+            id="raspuns-2">
+            <legend lang="hu">Cum o salută un bărbat numai pe o femeie?</legend>
+            <label class="choice-option" for="raspuns-2-optiunea-1"
+              ><input
+                id="raspuns-2-optiunea-1"
+                name="raspuns-2-alegere"
+                type="radio"
+                value="Isten hozta!"><span lang="ro">Isten hozta!</span></label
+            ><label class="choice-option" for="raspuns-2-optiunea-2"
+              ><input
+                id="raspuns-2-optiunea-2"
+                name="raspuns-2-alegere"
+                type="radio"
+                value="Kezét csókolom!"><span lang="hu">Kezét csókolom!</span></label
+            ><label class="choice-option" for="raspuns-2-optiunea-3"
+              ><input
+                id="raspuns-2-optiunea-3"
+                name="raspuns-2-alegere"
+                type="radio"
+                value="Szevasz!"><span lang="hu">Szevasz!</span></label
             >
-          </p>
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;Jó reggelt kívánok!&#34;]"
+            data-choice=""
+            id="raspuns-3">
+            <legend lang="hu">Cum ne salutăm când ne întâlnim dimineața?</legend>
+            <label class="choice-option" for="raspuns-3-optiunea-1"
+              ><input
+                id="raspuns-3-optiunea-1"
+                name="raspuns-3-alegere"
+                type="radio"
+                value="Jó reggelt kívánok!"><span lang="hu">Jó reggelt kívánok!</span></label
+            ><label class="choice-option" for="raspuns-3-optiunea-2"
+              ><input
+                id="raspuns-3-optiunea-2"
+                name="raspuns-3-alegere"
+                type="radio"
+                value="Jó estét kívánok!"><span lang="hu">Jó estét kívánok!</span></label
+            ><label class="choice-option" for="raspuns-3-optiunea-3"
+              ><input
+                id="raspuns-3-optiunea-3"
+                name="raspuns-3-alegere"
+                type="radio"
+                value="Jó napot kívánok!"><span lang="hu">Jó napot kívánok!</span></label
+            >
+          </fieldset>
           <div class="exercise-actions">
             <button data-check="" type="button">Verifică răspunsurile</button
             ><button data-reset="" type="button">Reia exercițiul</button>

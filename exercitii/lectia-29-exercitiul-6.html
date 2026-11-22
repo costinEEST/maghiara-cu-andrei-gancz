@@ -170,66 +170,129 @@
               </blockquote>
             </blockquote>
           </blockquote>
-          <p>
-            <label for="raspuns-1" lang="ro"
-              >1. <span lang="hu">Szükséged van …</span><br>
-              <select data-answers="[&#34;… segítségre?&#34;]" id="raspuns-1" lang="hu">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">… segítségre?</option>
-                <option lang="hu">… tanulságul?</option>
-              </select></label
-            >
+          <p class="note single-choice-instructions" lang="ro">
+            Alege o singură variantă pentru fiecare întrebare.
           </p>
-          <p>
-            <label for="raspuns-2" lang="ro"
-              >2. <span lang="hu">Itt érzek …</span><br>
-              <select data-answers="[&#34;… fájdalmat.&#34;]" id="raspuns-2" lang="hu">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">… ujjat.</option>
-                <option lang="hu">… fájdalmat.</option>
-              </select></label
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;… segítségre?&#34;]"
+            data-choice=""
+            id="raspuns-1">
+            <legend lang="ro">1. <span lang="hu">Szükséged van …</span></legend>
+            <label class="choice-option" for="raspuns-1-optiunea-1"
+              ><input
+                id="raspuns-1-optiunea-1"
+                name="raspuns-1-alegere"
+                type="radio"
+                value="… segítségre?"><span lang="hu">… segítségre?</span></label
+            ><label class="choice-option" for="raspuns-1-optiunea-2"
+              ><input
+                id="raspuns-1-optiunea-2"
+                name="raspuns-1-alegere"
+                type="radio"
+                value="… tanulságul?"><span lang="hu">… tanulságul?</span></label
             >
-          </p>
-          <p>
-            <label for="raspuns-3" lang="ro"
-              >3. <span lang="hu">Ez majd észre …</span><br>
-              <select data-answers="[&#34;… térít!&#34;]" id="raspuns-3" lang="hu">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">… szolgál!</option>
-                <option lang="hu">… térít!</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;… fájdalmat.&#34;]"
+            data-choice=""
+            id="raspuns-2">
+            <legend lang="ro">2. <span lang="hu">Itt érzek …</span></legend>
+            <label class="choice-option" for="raspuns-2-optiunea-1"
+              ><input
+                id="raspuns-2-optiunea-1"
+                name="raspuns-2-alegere"
+                type="radio"
+                value="… ujjat."><span lang="hu">… ujjat.</span></label
+            ><label class="choice-option" for="raspuns-2-optiunea-2"
+              ><input
+                id="raspuns-2-optiunea-2"
+                name="raspuns-2-alegere"
+                type="radio"
+                value="… fájdalmat."><span lang="hu">… fájdalmat.</span></label
             >
-          </p>
-          <p>
-            <label for="raspuns-4" lang="ro"
-              >4. <span lang="hu">Nincs ellene semmi …</span><br>
-              <select data-answers="[&#34;… kifogásom.&#34;]" id="raspuns-4" lang="hu">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">… kifogásom.</option>
-                <option lang="hu">… akadályom.</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;… térít!&#34;]"
+            data-choice=""
+            id="raspuns-3">
+            <legend lang="ro">3. <span lang="hu">Ez majd észre …</span></legend>
+            <label class="choice-option" for="raspuns-3-optiunea-1"
+              ><input
+                id="raspuns-3-optiunea-1"
+                name="raspuns-3-alegere"
+                type="radio"
+                value="… szolgál!"><span lang="hu">… szolgál!</span></label
+            ><label class="choice-option" for="raspuns-3-optiunea-2"
+              ><input
+                id="raspuns-3-optiunea-2"
+                name="raspuns-3-alegere"
+                type="radio"
+                value="… térít!"><span lang="hu">… térít!</span></label
             >
-          </p>
-          <p>
-            <label for="raspuns-5" lang="ro"
-              >5. <span lang="hu">Köszönöm szépen, de …</span><br>
-              <select data-answers="[&#34;… jóllaktam.&#34;]" id="raspuns-5" lang="hu">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">… pompás.</option>
-                <option lang="hu">… jóllaktam.</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;… kifogásom.&#34;]"
+            data-choice=""
+            id="raspuns-4">
+            <legend lang="ro">4. <span lang="hu">Nincs ellene semmi …</span></legend>
+            <label class="choice-option" for="raspuns-4-optiunea-1"
+              ><input
+                id="raspuns-4-optiunea-1"
+                name="raspuns-4-alegere"
+                type="radio"
+                value="… kifogásom."><span lang="hu">… kifogásom.</span></label
+            ><label class="choice-option" for="raspuns-4-optiunea-2"
+              ><input
+                id="raspuns-4-optiunea-2"
+                name="raspuns-4-alegere"
+                type="radio"
+                value="… akadályom."><span lang="hu">… akadályom.</span></label
             >
-          </p>
-          <p>
-            <label for="raspuns-6" lang="ro"
-              >6. <span lang="hu">Nem tudok nélküled …</span><br>
-              <select data-answers="[&#34;… élni!&#34;]" id="raspuns-6" lang="hu">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">… élni!</option>
-                <option lang="hu">… visszautasítani!</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;… jóllaktam.&#34;]"
+            data-choice=""
+            id="raspuns-5">
+            <legend lang="ro">5. <span lang="hu">Köszönöm szépen, de …</span></legend>
+            <label class="choice-option" for="raspuns-5-optiunea-1"
+              ><input
+                id="raspuns-5-optiunea-1"
+                name="raspuns-5-alegere"
+                type="radio"
+                value="… pompás."><span lang="hu">… pompás.</span></label
+            ><label class="choice-option" for="raspuns-5-optiunea-2"
+              ><input
+                id="raspuns-5-optiunea-2"
+                name="raspuns-5-alegere"
+                type="radio"
+                value="… jóllaktam."><span lang="hu">… jóllaktam.</span></label
             >
-          </p>
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;… élni!&#34;]"
+            data-choice=""
+            id="raspuns-6">
+            <legend lang="ro">6. <span lang="hu">Nem tudok nélküled …</span></legend>
+            <label class="choice-option" for="raspuns-6-optiunea-1"
+              ><input
+                id="raspuns-6-optiunea-1"
+                name="raspuns-6-alegere"
+                type="radio"
+                value="… élni!"><span lang="hu">… élni!</span></label
+            ><label class="choice-option" for="raspuns-6-optiunea-2"
+              ><input
+                id="raspuns-6-optiunea-2"
+                name="raspuns-6-alegere"
+                type="radio"
+                value="… visszautasítani!"><span lang="hu">… visszautasítani!</span></label
+            >
+          </fieldset>
           <div class="exercise-actions">
             <button data-check="" type="button">Verifică răspunsurile</button
             ><button data-reset="" type="button">Reia exercițiul</button>

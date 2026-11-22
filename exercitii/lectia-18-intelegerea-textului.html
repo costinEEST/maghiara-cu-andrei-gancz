@@ -222,39 +222,93 @@
               ><span class="visually-hidden" lang="ro"> (site extern)</span></a
             >
           </p>
-          <p>
-            <label for="raspuns-1"
-              >1. Pisti ...<select data-answers="[&#34;c. ... gyerek.&#34;]" id="raspuns-1">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">a. ... fiatalember.</option>
-                <option lang="hu">b. ... férfi.</option>
-                <option lang="hu">c. ... gyerek.</option>
-              </select></label
-            >
+          <p class="note single-choice-instructions" lang="ro">
+            Alege o singură variantă pentru fiecare întrebare.
           </p>
-          <p>
-            <label for="raspuns-2"
-              ><span lang="hu">2. Mit akar vezetni Pisti?</span
-              ><select data-answers="[&#34;b. Repülőt.&#34;]" id="raspuns-2">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">a. Kocsit.</option>
-                <option lang="hu">b. Repülőt.</option>
-                <option lang="hu">c. Hajót.</option>
-              </select></label
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;c. ... gyerek.&#34;]"
+            data-choice=""
+            id="raspuns-1">
+            <legend lang="hu">1. Pisti ...</legend>
+            <label class="choice-option" for="raspuns-1-optiunea-1"
+              ><input
+                id="raspuns-1-optiunea-1"
+                name="raspuns-1-alegere"
+                type="radio"
+                value="a. ... fiatalember."><span lang="hu">a. ... fiatalember.</span></label
+            ><label class="choice-option" for="raspuns-1-optiunea-2"
+              ><input
+                id="raspuns-1-optiunea-2"
+                name="raspuns-1-alegere"
+                type="radio"
+                value="b. ... férfi."><span lang="hu">b. ... férfi.</span></label
+            ><label class="choice-option" for="raspuns-1-optiunea-3"
+              ><input
+                id="raspuns-1-optiunea-3"
+                name="raspuns-1-alegere"
+                type="radio"
+                value="c. ... gyerek."><span lang="hu">c. ... gyerek.</span></label
             >
-          </p>
-          <p>
-            <label for="raspuns-3"
-              >3. Pisti ...<select
-                data-answers="[&#34;a. ... akar repülőgépet venni.&#34;]"
-                id="raspuns-3">
-                <option lang="ro" value="">Alege răspunsul</option>
-                <option lang="hu">a. ... akar repülőgépet venni.</option>
-                <option lang="hu">b. ... nem akar repülőgépet venni.</option>
-                <option lang="hu">c. ... nagy repülőgépet akar venni.</option>
-              </select></label
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;b. Repülőt.&#34;]"
+            data-choice=""
+            id="raspuns-2">
+            <legend lang="hu"><span lang="hu">2. Mit akar vezetni Pisti?</span></legend>
+            <label class="choice-option" for="raspuns-2-optiunea-1"
+              ><input
+                id="raspuns-2-optiunea-1"
+                name="raspuns-2-alegere"
+                type="radio"
+                value="a. Kocsit."><span lang="hu">a. Kocsit.</span></label
+            ><label class="choice-option" for="raspuns-2-optiunea-2"
+              ><input
+                id="raspuns-2-optiunea-2"
+                name="raspuns-2-alegere"
+                type="radio"
+                value="b. Repülőt."><span lang="hu">b. Repülőt.</span></label
+            ><label class="choice-option" for="raspuns-2-optiunea-3"
+              ><input
+                id="raspuns-2-optiunea-3"
+                name="raspuns-2-alegere"
+                type="radio"
+                value="c. Hajót."><span lang="hu">c. Hajót.</span></label
             >
-          </p>
+          </fieldset>
+          <fieldset
+            class="choice-question"
+            data-answers="[&#34;a. ... akar repülőgépet venni.&#34;]"
+            data-choice=""
+            id="raspuns-3">
+            <legend lang="hu">3. Pisti ...</legend>
+            <label class="choice-option" for="raspuns-3-optiunea-1"
+              ><input
+                id="raspuns-3-optiunea-1"
+                name="raspuns-3-alegere"
+                type="radio"
+                value="a. ... akar repülőgépet venni."><span lang="hu"
+                >a. ... akar repülőgépet venni.</span
+              ></label
+            ><label class="choice-option" for="raspuns-3-optiunea-2"
+              ><input
+                id="raspuns-3-optiunea-2"
+                name="raspuns-3-alegere"
+                type="radio"
+                value="b. ... nem akar repülőgépet venni."><span lang="hu"
+                >b. ... nem akar repülőgépet venni.</span
+              ></label
+            ><label class="choice-option" for="raspuns-3-optiunea-3"
+              ><input
+                id="raspuns-3-optiunea-3"
+                name="raspuns-3-alegere"
+                type="radio"
+                value="c. ... nagy repülőgépet akar venni."><span lang="hu"
+                >c. ... nagy repülőgépet akar venni.</span
+              ></label
+            >
+          </fieldset>
           <div class="exercise-actions">
             <button data-check="" type="button">Verifică răspunsurile</button
             ><button data-reset="" type="button">Reia exercițiul</button>

@@ -60,11 +60,22 @@ const check = document.querySelector("[data-check]");
 if (check) {
   const fields = [...document.querySelectorAll("[data-answers]")];
   const status = document.querySelector(".feedback");
+  const descriptions = new Map(
+    fields.map((field) => [field, field.getAttribute("aria-describedby")]),
+  );
+  const focusAnswer = (field) => {
+    const target = field.matches("[data-choice]")
+      ? field.querySelector("input:checked") || field.querySelector("input")
+      : field;
+    target?.focus();
+  };
   const clear = () => {
     document.querySelectorAll(".answer-result").forEach((node) => node.remove());
     fields.forEach((field) => {
       field.removeAttribute("aria-invalid");
-      field.removeAttribute("aria-describedby");
+      const description = descriptions.get(field);
+      if (description) field.setAttribute("aria-describedby", description);
+      else field.removeAttribute("aria-describedby");
     });
     status.textContent = "";
   };
@@ -77,7 +88,10 @@ if (check) {
       const solutions = JSON.parse(field.dataset.answers);
       if (!solutions.length) return;
       checked++;
-      const value = normalizeAnswer(field.value);
+      const selected = field.matches("[data-choice]")
+        ? field.querySelector("input:checked")?.value || ""
+        : field.value;
+      const value = normalizeAnswer(selected);
       if (value) answered++;
       const valid = solutions.some((solution) => normalizeAnswer(solution) === value);
       if (valid) correct++;
@@ -90,23 +104,34 @@ if (check) {
         ? "Corect."
         : value
           ? "Încearcă din nou. Verifică și accentele."
-          : "Completează acest răspuns.";
+          : field.matches("[data-choice]")
+            ? "Alege o variantă."
+            : "Completează acest răspuns.";
       field.setAttribute("aria-invalid", String(!valid));
-      field.setAttribute("aria-describedby", result.id);
-      field.insertAdjacentElement("afterend", result);
+      field.setAttribute(
+        "aria-describedby",
+        [descriptions.get(field), result.id].filter(Boolean).join(" "),
+      );
+      if (field.matches("[data-choice]")) field.append(result);
+      else field.insertAdjacentElement("afterend", result);
     });
-    status.textContent = `${correct} din ${checked} răspunsuri corecte.${answered < checked ? " Mai sunt spații necompletate." : ""}`;
-    fields.find((field) => field.getAttribute("aria-invalid") === "true")?.focus();
+    status.textContent = `${correct} din ${checked} răspunsuri corecte.${answered < checked ? " Mai sunt răspunsuri necompletate." : ""}`;
+    const invalid = fields.find((field) => field.getAttribute("aria-invalid") === "true");
+    if (invalid) focusAnswer(invalid);
   });
   document.querySelector("[data-reset]").addEventListener("click", () => {
     clear();
     fields.forEach((field) => {
-      field.value = "";
+      if (field.matches("[data-choice]")) {
+        field.querySelectorAll("input").forEach((radio) => {
+          radio.checked = false;
+        });
+      } else field.value = "";
     });
     document.querySelectorAll(".solutions").forEach((details) => {
       details.open = false;
     });
-    fields[0]?.focus();
+    if (fields[0]) focusAnswer(fields[0]);
   });
 }
 document.addEventListener(

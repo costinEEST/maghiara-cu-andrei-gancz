@@ -31,6 +31,12 @@ tab behavior. Run `tools/mark_external_links.py` with the Python requirements fo
 a read-only audit; add `--write` after adding links, then format and rebuild offline
 assets. Same-project links, fragments, email links and local downloads stay unmarked.
 
+Short standalone single-choice questions use native radio inputs grouped by a
+fieldset and legend, with no answer preselected. The fieldset carries `data-answers`
+and counts as one graded question. Keep cloze, matching/ordering and long lists
+as selects. `tools/convert_choices.py` audits or converts these sources explicitly;
+preserve all accepted alternative answers and the source question/language markup.
+
 Typography uses self-hosted Literata (normal/italic WOFF2, SIL OFL in
 `assets/fonts/literata/`). Keep both fonts in the service-worker shell and offline
 inventory. Fluid font sizes use `progress(100vi, 400px, 1200px)` with rem outputs

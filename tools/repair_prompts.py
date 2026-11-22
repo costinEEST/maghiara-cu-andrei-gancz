@@ -156,6 +156,32 @@ def repair_page(source, original):
     if not questions:
         return source, 0
     doc = BeautifulSoup(source, "html.parser")
+    groups = doc.select("fieldset[data-choice][data-answers]")
+    if groups:
+        if len(groups) != len(questions):
+            raise ValueError("Original questions do not match radio groups")
+        for group, question in zip(groups, questions, strict=True):
+            legend = group.find("legend")
+            if legend is None:
+                raise ValueError("Radio question has no legend")
+            prompt = re.sub(r"^\d+\.\s*", "", legend.get_text(" ", strip=True))
+            if question["prompt"] and comparable(prompt) != comparable(
+                question["prompt"]
+            ):
+                raise ValueError("Radio question lost its original prompt")
+            values = [
+                str(r.get("value", "")) for r in group.select('input[type="radio"]')
+            ]
+            if [comparable(v) for v in values] != [
+                comparable(v) for v in question["options"]
+            ]:
+                raise ValueError("Radio options disagree with original")
+            raw = group.get("data-answers")
+            if not isinstance(raw, str) or json.loads(raw) != [
+                values[question["answer_index"]]
+            ]:
+                raise ValueError("Radio key disagrees with original")
+        return source, 0
     fields = doc.select("select[data-answers]")
     if len(fields) != len(questions):
         raise ValueError("Original questions do not match local controls")
