@@ -59,7 +59,7 @@ node tools/build-offline.mjs --check
 node --test tools/test_pwa.mjs
 ```
 
-The inventory includes README.txt and LICENSE.txt; regenerate it after editing
+The inventory includes README.md and LICENSE.txt; regenerate it after editing
 those files too. Format source files before generating the inventory so its
 content hashes match the final deployed files.
 For HTML changes, also run:

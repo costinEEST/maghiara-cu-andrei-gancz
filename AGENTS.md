@@ -35,11 +35,11 @@ after typography changes. Do not restore mobile overrides that shrink lesson tex
 - [nebulo-python-tools](.agents/skills/nebulo-python-tools/SKILL.md): format Python
   with Ruff, run its linter and regression tests, and review the scripts in `tools/`.
 
-Formatting commands and maintenance setup are also in [README.txt](README.txt).
+Formatting commands and maintenance setup are also in [README.md](README.md).
 Biome does not format Python, XML, SVG, or media in this configuration.
 
 The PWA's `offline-assets.js` is generated, not maintained by hand. After changes
-to HTML, deployable assets, `sw.js`, README.txt or LICENSE.txt, format the sources,
+to HTML, deployable assets, `sw.js`, README.md or LICENSE.txt, format the sources,
 run `node tools/build-offline.mjs`, then format `offline-assets.js` with Biome.
 Check with `node tools/build-offline.mjs --check` and
 `node --test tools/test_pwa.mjs`. Preserve relative manifest/worker URLs so the

@@ -17,7 +17,7 @@ export async function buildManifest(root = projectRoot) {
     "manifest.webmanifest",
     "LICENSE.txt",
     "assets/fonts/literata/OFL.txt",
-    "README.txt",
+    "README.md",
     ...inventory.pages.map((page) => page.path),
   ]);
   const allowed = new Set([
