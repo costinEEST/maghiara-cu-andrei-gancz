@@ -25,6 +25,12 @@ Each archive download has a visible format and an adjacent Romanian
 Keep archive-specific starting filenames beside the download; put shared
 extraction instructions in the guide instead of repeating them in lessons.
 
+External HTTP(S) navigation links use `rel="noreferrer"`, a decorative ↗ marker,
+and a Romanian screen-reader label. Preserve other `rel` tokens and the existing
+tab behavior. Run `tools/mark_external_links.py` with the Python requirements for
+a read-only audit; add `--write` after adding links, then format and rebuild offline
+assets. Same-project links, fragments, email links and local downloads stay unmarked.
+
 Typography uses self-hosted Literata (normal/italic WOFF2, SIL OFL in
 `assets/fonts/literata/`). Keep both fonts in the service-worker shell and offline
 inventory. Fluid font sizes use `progress(100vi, 400px, 1200px)` with rem outputs

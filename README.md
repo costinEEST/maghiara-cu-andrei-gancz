@@ -60,7 +60,7 @@ Pe pagina principală, secțiunea **„Învață și fără internet”** oferă
 1. **Adaugă site-ul pe ecranul principal**, dacă browserul permite acest lucru. Poți folosi și opțiunea
    de instalare sau adăugare pe ecranul principal din meniul browserului.
 2. **Salvează cursul offline** și așteaptă confirmarea descărcării. Pachetul are
-   aproximativ **21 MB** și include lecțiile, exercițiile, imaginile, fonturile și
+   aproximativ **22 MB** și include lecțiile, exercițiile, imaginile, fonturile și
    înregistrările MP3.
 
 Instalarea și salvarea cursului sunt acțiuni separate. Poți opri și relua salvarea.
