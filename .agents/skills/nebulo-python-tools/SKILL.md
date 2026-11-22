@@ -113,6 +113,21 @@ Documentation-only edits do not require the regression suite.
 
 ## Maintenance scripts have side effects
 
+- `repair_prompts.py --sources /path/to/originals`: read-only comparison against
+  original exercise HTML named after each local exercise page. Supply the complete
+  set outside the site; add `--write` only for intended repairs after reviewing
+  the reported pages. It recovers question/response rows and trailing sentence
+  fragments from legacy radio quizzes, preserving explicit question-to-control
+  labels and Hungarian language markup. It checks option counts and correct
+  choice positions against the original key; uncertain mappings stop all writes.
+  Source-backed spelling corrections update the solution list too. HTML5 table
+  recovery uses the pinned `html5lib` maintenance dependency because many originals
+  omit closing tags; no original JavaScript is executed. Number-only labels in
+  ordering and odd-word tasks can be legitimate when the overall instruction
+  defines the task. Never invent a missing stimulus from the answer options.
+  After repair, rerun the read-only comparison (expect no changes), the Python
+  checks, Biome, HTMLHint, site/link validation and offline inventory tests. Check
+  representative repaired pages with MCP before declaring the source audit done.
 - `html_attributes.py`: defaults to a read-only audit of single-quoted HTML
   attributes and named quote entities that Biome rewrites; `--write` repairs
   them after verifying the decoded DOM is unchanged
