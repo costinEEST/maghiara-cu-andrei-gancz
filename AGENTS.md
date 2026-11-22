@@ -20,6 +20,10 @@ corrupts archives. Source URLs are derived in `audit_archives.py`; SHA-256 repor
 can be regenerated during audits/restoration and need not be committed. Do not
 extract legacy applications into the published site or add archives to the PWA
 precache without a specific request.
+Each archive download has a visible format and an adjacent Romanian
+“Cum deschid arhiva?” link to `referinte/cum-deschizi-arhivele.html`.
+Keep archive-specific starting filenames beside the download; put shared
+extraction instructions in the guide instead of repeating them in lessons.
 
 Typography uses self-hosted Literata (normal/italic WOFF2, SIL OFL in
 `assets/fonts/literata/`). Keep both fonts in the service-worker shell and offline

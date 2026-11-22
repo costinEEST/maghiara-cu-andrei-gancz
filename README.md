@@ -19,7 +19,7 @@ după [Nebuló.ro](https://www.nebulo.ro/). Site-ul este accesibil, adaptat tele
 ## Ce găsești în curs
 
 - **50 de lecții:** 11 introductive și 39 din „Maghiara cu András”.
-- **75 de pagini de referință:** gramatică, vocabular, comunicare, alfabet și pronunție.
+- **76 de pagini de referință:** gramatică, vocabular, comunicare, alfabet și pronunție.
 - **371 de exerciții și lecturi suplimentare**.
 - **131 de înregistrări MP3**, ilustrații didactice și **87 de arhive suplimentare**
   disponibile local pentru descărcare.
@@ -57,7 +57,7 @@ un server local sau HTTPS.
 
 Pe pagina principală, secțiunea **„Învață și fără internet”** oferă două opțiuni:
 
-1. **Instalează aplicația**, dacă browserul permite acest lucru. Poți folosi și opțiunea
+1. **Adaugă site-ul pe ecranul principal**, dacă browserul permite acest lucru. Poți folosi și opțiunea
    de instalare sau adăugare pe ecranul principal din meniul browserului.
 2. **Salvează cursul offline** și așteaptă confirmarea descărcării. Pachetul are
    aproximativ **21 MB** și include lecțiile, exercițiile, imaginile, fonturile și
@@ -66,11 +66,11 @@ Pe pagina principală, secțiunea **„Învață și fără internet”** oferă
 Instalarea și salvarea cursului sunt acțiuni separate. Poți opri și relua salvarea.
 Arhivele RAR/ZIP, videoclipurile și serviciile externe nu sunt incluse în pachetul
 offline. Jocurile din arhive necesită dezarhivare, iar compatibilitatea lor cu
-browserele actuale poate varia.
+browserele actuale poate varia. Vezi [ghidul pentru arhive](referinte/cum-deschizi-arhivele.html).
 
 Browserul poate elimina datele salvate la curățarea stocării sau când spațiul este
 insuficient. Verifică starea salvării înainte de a rămâne fără internet. Când apare
-**„Actualizează aplicația”**, termină exercițiul curent înainte de actualizare și
+**„Actualizează site-ul”**, termină exercițiul curent înainte de actualizare și
 verifică din nou salvarea offline.
 
 ## Ce am schimbat

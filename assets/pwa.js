@@ -21,7 +21,7 @@
   const installed = () => {
     if (installButton) installButton.hidden = true;
     if (installStatus)
-      installStatus.textContent = "Aplicația este deschisă sau instalată pe acest dispozitiv.";
+      installStatus.textContent = "Site-ul este deschis din pictograma de pe acest dispozitiv.";
   };
   if (standalone()) installed();
   else if (installButton && nativeInstall && isSecureContext) installButton.hidden = false;
@@ -38,7 +38,7 @@
       if (nativeInstall) {
         // Keep this call inside the user gesture; do not await registration first.
         await navigator.install();
-        installStatus.textContent = "Aplicația a fost instalată sau deschisă.";
+        installStatus.textContent = "Site-ul a fost adăugat pe ecranul principal sau deschis.";
         installButton.hidden = true;
       } else if (deferredPrompt) {
         const event = deferredPrompt;
@@ -92,7 +92,7 @@
           "Descărcarea a fost oprită. Fișierele deja salvate rămân disponibile; poți relua mai târziu.",
         error:
           "Cursul nu a fost salvat integral. Verifică legătura la internet și spațiul disponibil, apoi reia. Fișierele deja salvate se păstrează.",
-        busy: "Salvarea este în curs într-o altă pagină a aplicației. Revino aici după finalizare.",
+        busy: "Salvarea este în curs într-o altă pagină a site-ului. Revino aici după finalizare.",
       };
       offlineStatus.textContent = endings[message.type] || "Starea salvării nu este disponibilă.";
     }

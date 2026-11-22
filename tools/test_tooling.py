@@ -80,6 +80,25 @@ class MaintenanceTests(unittest.TestCase):
             report = validate.validate_site(root)
             self.assertEqual(report["errors"], [])
 
+    def test_new_reference_does_not_claim_an_original_nebulo_source(self):
+        with TemporaryDirectory() as folder:
+            root = Path(folder)
+            make_site(root, {"referinte/guide.html": "Ghid pentru arhive"})
+            path = root / "assets/inventory.json"
+            inventory = json.loads(path.read_text(encoding="utf-8"))
+            inventory["pages"][0].update(group="referinte", old=None, source_url=None)
+            path.write_text(json.dumps(inventory), encoding="utf-8")
+            prepare_seo.prepare_seo(root)
+            doc = BeautifulSoup(
+                (root / "referinte/guide.html").read_text(encoding="utf-8"),
+                "html.parser",
+            )
+            schema = doc.select_one("script[data-site-schema]")
+            assert schema is not None
+            graph = json.loads(str(schema.string))["@graph"]
+            self.assertNotIn("isBasedOn", graph[0])
+            self.assertEqual(validate.validate_site(root)["errors"], [])
+
     def test_table_regions_accept_visible_captions_and_reject_broken_labels(self):
         cases = (
             ('aria-labelledby="caption"', "0", "Specificații", True),

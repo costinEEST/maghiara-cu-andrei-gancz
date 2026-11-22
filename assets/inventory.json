@@ -1106,7 +1106,7 @@
       "parents": [
         {
           "path": "comunicare/rezumare.html",
-          "position": 1,
+          "position": 2,
           "parent_order": 115
         }
       ],
@@ -1157,7 +1157,7 @@
       "parents": [
         {
           "path": "andras/lectia-32-doamna-kiss-trebuie-sa-mearga-la-dentist.html",
-          "position": 8,
+          "position": 9,
           "parent_order": 42
         }
       ],
@@ -1213,7 +1213,7 @@
         },
         {
           "path": "gramatica/numeralele.html",
-          "position": 4,
+          "position": 5,
           "parent_order": 68
         }
       ],
@@ -1247,7 +1247,7 @@
       "parents": [
         {
           "path": "vocabular/calatoria.html",
-          "position": 4,
+          "position": 7,
           "parent_order": 82
         }
       ],
@@ -1264,7 +1264,7 @@
       "parents": [
         {
           "path": "vocabular/transporturile-in-comun-urbane.html",
-          "position": 1,
+          "position": 2,
           "parent_order": 94
         }
       ],
@@ -1281,7 +1281,7 @@
       "parents": [
         {
           "path": "andras/lectia-15-cand-eram-copii.html",
-          "position": 7,
+          "position": 8,
           "parent_order": 25
         }
       ],
@@ -1388,7 +1388,7 @@
       "parents": [
         {
           "path": "vocabular/alimente-si-bucatarie.html",
-          "position": 3,
+          "position": 4,
           "parent_order": 78
         }
       ],
@@ -1427,7 +1427,7 @@
       "parents": [
         {
           "path": "vocabular/corpul-omenesc.html",
-          "position": 1,
+          "position": 2,
           "parent_order": 80
         }
       ],
@@ -1505,7 +1505,7 @@
       "parents": [
         {
           "path": "andras/lectia-33-exces-de-viteza.html",
-          "position": 5,
+          "position": 6,
           "parent_order": 43
         }
       ],
@@ -1632,7 +1632,7 @@
       "parents": [
         {
           "path": "comunicare/satisfactie-insatisfactie.html",
-          "position": 5,
+          "position": 6,
           "parent_order": 117
         }
       ],
@@ -1649,7 +1649,7 @@
       "parents": [
         {
           "path": "andras/lectia-39-recapitulare.html",
-          "position": 13,
+          "position": 15,
           "parent_order": 49
         }
       ],
@@ -1757,7 +1757,7 @@
       "parents": [
         {
           "path": "vocabular/imbracaminte-si-incaltaminte.html",
-          "position": 5,
+          "position": 10,
           "parent_order": 96
         }
       ],
@@ -1991,7 +1991,7 @@
       "parents": [
         {
           "path": "gramatica/topica-in-propozitie.html",
-          "position": 7,
+          "position": 8,
           "parent_order": 75
         }
       ],
@@ -2120,7 +2120,7 @@
       "parents": [
         {
           "path": "vocabular/sanatatea.html",
-          "position": 6,
+          "position": 9,
           "parent_order": 90
         }
       ],
@@ -2181,7 +2181,7 @@
         },
         {
           "path": "gramatica/numeralele.html",
-          "position": 7,
+          "position": 8,
           "parent_order": 68
         }
       ],
@@ -2198,7 +2198,7 @@
       "parents": [
         {
           "path": "gramatica/numeralele.html",
-          "position": 8,
+          "position": 9,
           "parent_order": 68
         }
       ],
@@ -2388,7 +2388,7 @@
       "parents": [
         {
           "path": "andras/lectia-24-copiii-se-joaca-cu-mingea.html",
-          "position": 8,
+          "position": 9,
           "parent_order": 34
         }
       ],
@@ -2422,7 +2422,7 @@
       "parents": [
         {
           "path": "andras/lectia-19-daca-vrei-poti.html",
-          "position": 8,
+          "position": 9,
           "parent_order": 29
         }
       ],
@@ -2461,7 +2461,7 @@
       "parents": [
         {
           "path": "andras/lectia-26-daca-as-fi-stiut.html",
-          "position": 12,
+          "position": 13,
           "parent_order": 36
         }
       ],
@@ -2590,7 +2590,7 @@
       "parents": [
         {
           "path": "andras/lectia-33-exces-de-viteza.html",
-          "position": 7,
+          "position": 9,
           "parent_order": 43
         }
       ],
@@ -2624,7 +2624,7 @@
       "parents": [
         {
           "path": "andras/lectia-28-la-politie.html",
-          "position": 9,
+          "position": 10,
           "parent_order": 38
         }
       ],
@@ -2921,7 +2921,7 @@
       "parents": [
         {
           "path": "vocabular/sanatatea.html",
-          "position": 4,
+          "position": 7,
           "parent_order": 90
         }
       ],
@@ -2938,7 +2938,7 @@
       "parents": [
         {
           "path": "vocabular/familia.html",
-          "position": 3,
+          "position": 6,
           "parent_order": 83
         }
       ],
@@ -2994,12 +2994,12 @@
       "parents": [
         {
           "path": "andras/lectia-32-doamna-kiss-trebuie-sa-mearga-la-dentist.html",
-          "position": 5,
+          "position": 6,
           "parent_order": 42
         },
         {
           "path": "gramatica/numeralele.html",
-          "position": 5,
+          "position": 6,
           "parent_order": 68
         }
       ],
@@ -3016,7 +3016,7 @@
       "parents": [
         {
           "path": "vocabular/calatoria.html",
-          "position": 5,
+          "position": 8,
           "parent_order": 82
         }
       ],
@@ -3033,7 +3033,7 @@
       "parents": [
         {
           "path": "vocabular/orasul-si-satul.html",
-          "position": 3,
+          "position": 5,
           "parent_order": 87
         }
       ],
@@ -3123,7 +3123,7 @@
       "parents": [
         {
           "path": "andras/lectia-21-in-week-end-mai-mult-vreme-de-toamna-insorita.html",
-          "position": 9,
+          "position": 11,
           "parent_order": 31
         }
       ],
@@ -3174,7 +3174,7 @@
       "parents": [
         {
           "path": "comunicare/ordin.html",
-          "position": 2,
+          "position": 3,
           "parent_order": 108
         }
       ],
@@ -3247,7 +3247,7 @@
       "parents": [
         {
           "path": "vocabular/calatoria.html",
-          "position": 2,
+          "position": 4,
           "parent_order": 82
         }
       ],
@@ -3264,7 +3264,7 @@
       "parents": [
         {
           "path": "vocabular/vehiculele-personale.html",
-          "position": 3,
+          "position": 6,
           "parent_order": 95
         }
       ],
@@ -3685,7 +3685,7 @@
       "parents": [
         {
           "path": "vocabular/munca.html",
-          "position": 3,
+          "position": 5,
           "parent_order": 86
         }
       ],
@@ -3775,7 +3775,7 @@
       "parents": [
         {
           "path": "andras/lectia-21-in-week-end-mai-mult-vreme-de-toamna-insorita.html",
-          "position": 6,
+          "position": 7,
           "parent_order": 31
         },
         {
@@ -3982,7 +3982,7 @@
       "parents": [
         {
           "path": "vocabular/vehiculele-personale.html",
-          "position": 4,
+          "position": 7,
           "parent_order": 95
         }
       ],
@@ -3999,7 +3999,7 @@
       "parents": [
         {
           "path": "andras/lectia-30-nu-ma-simt-bine.html",
-          "position": 8,
+          "position": 10,
           "parent_order": 40
         }
       ],
@@ -4313,7 +4313,7 @@
       "parents": [
         {
           "path": "vocabular/timpul.html",
-          "position": 6,
+          "position": 7,
           "parent_order": 92
         }
       ],
@@ -4330,7 +4330,7 @@
       "parents": [
         {
           "path": "andras/lectia-39-recapitulare.html",
-          "position": 14,
+          "position": 16,
           "parent_order": 49
         }
       ],
@@ -4464,12 +4464,12 @@
       "parents": [
         {
           "path": "andras/lectia-32-doamna-kiss-trebuie-sa-mearga-la-dentist.html",
-          "position": 6,
+          "position": 7,
           "parent_order": 42
         },
         {
           "path": "gramatica/numeralele.html",
-          "position": 6,
+          "position": 7,
           "parent_order": 68
         }
       ],
@@ -4503,7 +4503,7 @@
       "parents": [
         {
           "path": "vocabular/sanatatea.html",
-          "position": 1,
+          "position": 2,
           "parent_order": 90
         }
       ],
@@ -4571,7 +4571,7 @@
       "parents": [
         {
           "path": "andras/lectia-32-doamna-kiss-trebuie-sa-mearga-la-dentist.html",
-          "position": 4,
+          "position": 5,
           "parent_order": 42
         }
       ],
@@ -4649,7 +4649,7 @@
       "parents": [
         {
           "path": "andras/lectia-38-o-intalnire-surprinzatoare.html",
-          "position": 6,
+          "position": 7,
           "parent_order": 48
         }
       ],
@@ -4717,7 +4717,7 @@
       "parents": [
         {
           "path": "andras/lectia-21-in-week-end-mai-mult-vreme-de-toamna-insorita.html",
-          "position": 7,
+          "position": 8,
           "parent_order": 31
         },
         {
@@ -4834,7 +4834,7 @@
       "parents": [
         {
           "path": "andras/lectia-19-daca-vrei-poti.html",
-          "position": 10,
+          "position": 11,
           "parent_order": 29
         }
       ],
@@ -4907,7 +4907,7 @@
       "parents": [
         {
           "path": "andras/lectia-16-intalnire-pe-strada.html",
-          "position": 9,
+          "position": 10,
           "parent_order": 26
         }
       ],
@@ -5019,7 +5019,7 @@
       "parents": [
         {
           "path": "andras/lectia-17-sah-trebuie-sa-stii-sa-joci.html",
-          "position": 9,
+          "position": 10,
           "parent_order": 27
         }
       ],
@@ -5661,7 +5661,7 @@
       "parents": [
         {
           "path": "vocabular/munca.html",
-          "position": 2,
+          "position": 4,
           "parent_order": 86
         }
       ],
@@ -5773,7 +5773,7 @@
       "parents": [
         {
           "path": "andras/lectia-27-peter-a-facut-pranzul.html",
-          "position": 7,
+          "position": 8,
           "parent_order": 37
         }
       ],
@@ -5790,7 +5790,7 @@
       "parents": [
         {
           "path": "comunicare/satisfactie-insatisfactie.html",
-          "position": 3,
+          "position": 4,
           "parent_order": 117
         }
       ],
@@ -5914,7 +5914,7 @@
       "parents": [
         {
           "path": "comunicare/satisfactie-insatisfactie.html",
-          "position": 4,
+          "position": 5,
           "parent_order": 117
         }
       ],
@@ -6311,7 +6311,7 @@
       "parents": [
         {
           "path": "andras/lectia-36-lasati-ma-sa-spun-si-eu-ceva.html",
-          "position": 7,
+          "position": 8,
           "parent_order": 46
         }
       ],
@@ -6384,7 +6384,7 @@
       "parents": [
         {
           "path": "vocabular/posta-si-telecomunicatiile.html",
-          "position": 1,
+          "position": 2,
           "parent_order": 88
         }
       ],
@@ -6401,7 +6401,7 @@
       "parents": [
         {
           "path": "andras/lectia-34-la-muzeu.html",
-          "position": 6,
+          "position": 7,
           "parent_order": 44
         }
       ],
@@ -6418,7 +6418,7 @@
       "parents": [
         {
           "path": "vocabular/sanatatea.html",
-          "position": 5,
+          "position": 8,
           "parent_order": 90
         }
       ],
@@ -7138,7 +7138,7 @@
       "parents": [
         {
           "path": "gramatica/topica-in-propozitie.html",
-          "position": 6,
+          "position": 7,
           "parent_order": 75
         }
       ],
@@ -7309,7 +7309,7 @@
         },
         {
           "path": "gramatica/postpozitii.html",
-          "position": 7,
+          "position": 8,
           "parent_order": 70
         }
       ],
@@ -7360,7 +7360,7 @@
       "parents": [
         {
           "path": "andras/lectia-37-familia-cineaza.html",
-          "position": 6,
+          "position": 7,
           "parent_order": 47
         }
       ],
@@ -7433,7 +7433,7 @@
       "parents": [
         {
           "path": "andras/lectia-36-lasati-ma-sa-spun-si-eu-ceva.html",
-          "position": 6,
+          "position": 7,
           "parent_order": 46
         }
       ],
@@ -7512,7 +7512,7 @@
       "parents": [
         {
           "path": "andras/lectia-32-doamna-kiss-trebuie-sa-mearga-la-dentist.html",
-          "position": 7,
+          "position": 8,
           "parent_order": 42
         }
       ],
@@ -7585,7 +7585,7 @@
       "parents": [
         {
           "path": "andras/lectia-21-in-week-end-mai-mult-vreme-de-toamna-insorita.html",
-          "position": 10,
+          "position": 12,
           "parent_order": 31
         }
       ],
@@ -7731,7 +7731,7 @@
       "parents": [
         {
           "path": "vocabular/transporturile-in-comun-urbane.html",
-          "position": 2,
+          "position": 3,
           "parent_order": 94
         }
       ],
@@ -7765,7 +7765,7 @@
       "parents": [
         {
           "path": "vocabular/orasul-si-satul.html",
-          "position": 4,
+          "position": 6,
           "parent_order": 87
         }
       ],
@@ -7855,6 +7855,14 @@
         }
       ],
       "primary_parent": "vocabular/studiile.html"
+    },
+    {
+      "path": "referinte/cum-deschizi-arhivele.html",
+      "title": "Cum descarci și deschizi arhivele",
+      "group": "referinte",
+      "number": null,
+      "old": null,
+      "source_url": null
     }
   ],
   "exercise_types": {

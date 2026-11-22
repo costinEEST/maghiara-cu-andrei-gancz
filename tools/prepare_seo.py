@@ -231,7 +231,8 @@ def prepare_seo(root=ROOT):
             "isPartOf": {"@id": BASE + "#website"},
         }
         if record:
-            resource["isBasedOn"] = "https://www.nebulo.ro/" + record["old"]
+            if record.get("old"):
+                resource["isBasedOn"] = "https://www.nebulo.ro/" + record["old"]
             resource["learningResourceType"] = (
                 "lecție"
                 if number
