@@ -1,0 +1,12 @@
+{
+  "labels_added": {
+    "table_cells": 5229,
+    "inline_examples": 21,
+    "text_passages": 55,
+    "paragraphs": 1,
+    "bilingual_titles": 208,
+    "instruction_suffixes": 23
+  },
+  "remaining_distinctive_hungarian_passages": [],
+  "note": "Conservative labels based on source alignment and vocabulary. Mixed unstyled prose still needs editorial review; no full linguistic certification is claimed."
+}

@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-21",
+  "online_source_inspected": [
+    "https://www.nebulo.ro/",
+    "https://www.nebulo.ro/leckek/introducere.html"
+  ],
+  "broken_external_references_repaired": [
+    {
+      "page": "lectii/lectia-07-unde-mergi.html",
+      "old": "http://mese.tv/page/en_elmentem_a_vasarba_3",
+      "new": null
+    },
+    {
+      "page": "referinte/linkuri-utile.html",
+      "old": "http://www.theecho.ro/ro/teste-online-maghiara-incepatori-start.php",
+      "new": null
+    },
+    {
+      "page": "referinte/linkuri-utile.html",
+      "old": "http://www.theecho.ro/ro/teste-online-maghiara-mediu-start.php",
+      "new": null
+    },
+    {
+      "page": "referinte/linkuri-utile.html",
+      "old": "http://www.theecho.ro/ro/teste-online-maghiara-avansati-start.php",
+      "new": null
+    },
+    {
+      "page": "referinte/linkuri-utile.html",
+      "old": "http://www.polirom.ro/catalog/carte/limba-maghiara-pentru-tine-1455/",
+      "new": null
+    },
+    {
+      "page": "referinte/linkuri-utile.html",
+      "old": "http://www.helsinki.fi/~jolaakso/fufaq.html",
+      "new": null
+    },
+    {
+      "page": "exercitii/recapitulare-document-suplimentar.html",
+      "old": "https://mek.oszk.hu/00600/00656/html/",
+      "new": "https://mek.oszk.hu/00600/00656/"
+    },
+    {
+      "page": "exercitii/recapitulare-document-suplimentar.html",
+      "old": "https://mek.oszk.hu/00600/00600/html/",
+      "new": "https://mek.oszk.hu/00600/00600/"
+    },
+    {
+      "page": "exercitii/recapitulare-document-suplimentar.html",
+      "old": "https://mek.oszk.hu/00600/00695/html/",
+      "new": "https://mek.oszk.hu/00600/00695/"
+    },
+    {
+      "page": "exercitii/recapitulare-document-suplimentar.html",
+      "old": "https://mek.oszk.hu/00800/00827/html/",
+      "new": "https://mek.oszk.hu/00800/00827/"
+    },
+    {
+      "page": "exercitii/recapitulare-document-suplimentar.html",
+      "old": "https://mek.oszk.hu/00600/00691/html/",
+      "new": "https://mek.oszk.hu/00600/00691/"
+    },
+    {
+      "page": "exercitii/recapitulare-document-suplimentar.html",
+      "old": "https://mek.oszk.hu/00900/00910/html/",
+      "new": "https://mek.oszk.hu/00900/00910/"
+    },
+    {
+      "page": "exercitii/recapitulare-document-suplimentar.html",
+      "old": "https://mek.oszk.hu/00900/00944/html/",
+      "new": "https://mek.oszk.hu/00900/00944/"
+    },
+    {
+      "page": "exercitii/recapitulare-document-suplimentar.html",
+      "old": "https://mek.oszk.hu/01400/01439/html/",
+      "new": "https://mek.oszk.hu/01400/01439/"
+    },
+    {
+      "page": "exercitii/recapitulare-document-suplimentar.html",
+      "old": "https://mek.oszk.hu/01000/01082/html/",
+      "new": "https://mek.oszk.hu/01000/01082/"
+    }
+  ],
+  "unverified_external": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Palatal_nasal.ogg",
+      "status": 429,
+      "detail": "HTTP Error 429: Too many requests (76af2b0)"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Close-mid_front_rounded_vowel.ogg",
+      "status": 429,
+      "detail": "HTTP Error 429: Too many requests (76af2b0)"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Voiceless_palatal_plosive.ogg",
+      "status": 429,
+      "detail": "HTTP Error 429: Too many requests (76af2b0)"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Close_front_rounded_vowel.ogg",
+      "status": 429,
+      "detail": "HTTP Error 429: Too many requests (76af2b0)"
+    },
+    {
+      "url": "http://wikitravel.org/ro/Ghid_de_conversa%C5%A3ie_maghiar",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "http://bme-tk.bme.hu/other/kuszob/kuszirgz.htm",
+      "status": null,
+      "detail": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "http://www.personal.psu.edu/adr10/hu8.html",
+      "status": null,
+      "detail": "<urlopen error timed out>"
+    },
+    {
+      "url": "http://ezvicc.hu/vicces/viccek/421",
+      "status": null,
+      "detail": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "http://mek.niif.hu/06300/06345/06345.htm",
+      "status": null,
+      "detail": "<urlopen error timed out>"
+    },
+    {
+      "url": "http://szotar.adatbank.transindex.ro/ro/szotar_kereso.php?szkin=1",
+      "status": null,
+      "detail": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1147)>"
+    },
+    {
+      "url": "http://szotar.adatbank.transindex.ro/szotar_kereso1.php?szkin=1",
+      "status": null,
+      "detail": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1147)>"
+    },
+    {
+      "url": "http://www.szotar.ro/ro",
+      "status": null,
+      "detail": "The read operation timed out"
+    },
+    {
+      "url": "http://dictionar-online.net/dictionar-maghiar-roman.html",
+      "status": null,
+      "detail": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "http://szotar.sztaki.hu/",
+      "status": 403,
+      "detail": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://emagyariskola.hu/online-tananyagok/e-magyarul-1",
+      "status": null,
+      "detail": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://emagyariskola.hu/online-tananyagok/e-magyarul-2",
+      "status": null,
+      "detail": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "http://bbi.netrix.hu/index.php?id=94&cid=325",
+      "status": null,
+      "detail": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://emagyariskola.hu/online-tananyagok/kiliki-a-foldon",
+      "status": null,
+      "detail": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "http://bme-tk.bme.hu/other/kuszob/",
+      "status": null,
+      "detail": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "http://www.personal.psu.edu/faculty/a/d/adr10/hungarian.html",
+      "status": null,
+      "detail": "<urlopen error timed out>"
+    },
+    {
+      "url": "http://www3.tvr.ro/magyar/ro/",
+      "status": null,
+      "detail": "<urlopen error timed out>"
+    },
+    {
+      "url": "http://www.radio.hu/",
+      "status": null,
+      "detail": "<urlopen error timed out>"
+    },
+    {
+      "url": "http://www.transindex.ro",
+      "status": null,
+      "detail": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "http://mek.niif.hu/02200/02203/html/index.htm",
+      "status": null,
+      "detail": "<urlopen error timed out>"
+    },
+    {
+      "url": "http://mek.niif.hu/05500/05571/html/index.htm",
+      "status": null,
+      "detail": "<urlopen error timed out>"
+    },
+    {
+      "url": "http://mek.niif.hu/06300/06320/06320.htm",
+      "status": null,
+      "detail": "<urlopen error timed out>"
+    }
+  ]
+}

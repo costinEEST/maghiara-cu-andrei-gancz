@@ -1,0 +1,28 @@
+{
+  "$schema": "https://biomejs.dev/schemas/2.6.8/schema.json",
+  "files": {
+    "ignoreUnknown": true,
+    "includes": ["**/*.html", "**/*.css", "**/*.js", "**/*.mjs", "**/*.json", "**/*.webmanifest"]
+  },
+  "formatter": {
+    "enabled": true,
+    "indentStyle": "space",
+    "indentWidth": 2,
+    "lineWidth": 100
+  },
+  "linter": {
+    "enabled": false
+  },
+  "assist": {
+    "enabled": false
+  },
+  "html": {
+    "experimentalFullSupportEnabled": true,
+    "formatter": {
+      "enabled": true,
+      "whitespaceSensitivity": "css",
+      "bracketSameLine": true,
+      "indentScriptAndStyle": true
+    }
+  }
+}
