@@ -462,13 +462,11 @@ button[data-reset] {
   font-size: var(--text-label);
   flex: 0 0 2rem;
 }
-.activity-title {
+#activitati .activity-title {
   flex: 1;
   min-width: 0;
 }
-.activity-context {
-  display: block;
-  margin-top: 0.2rem;
+#activitati .activity-context {
   color: var(--muted);
   font-size: var(--text-label);
 }

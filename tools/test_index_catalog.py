@@ -13,6 +13,70 @@ import index_catalog
 
 
 class CatalogTests(unittest.TestCase):
+    def test_reference_only_numbered_activities_stay_in_lesson_order(self):
+        records = {
+            "lesson": {"group": "andras", "number": 39},
+            "grammar": {"group": "gramatica", "number": None},
+        }
+        activities = [
+            {
+                "title": "Lecția 039, exercițiul 008",
+                "primary_parent": "lesson",
+                "catalog_number": 240,
+            },
+            {
+                "title": "Lecția 038, exercițiul 002",
+                "primary_parent": "grammar",
+                "catalog_number": 243,
+            },
+            {
+                "title": "Lecția 012, exercițiul 010",
+                "primary_parent": "grammar",
+                "catalog_number": 246,
+            },
+            {
+                "title": "Lecția 012, exercițiul 002",
+                "primary_parent": "grammar",
+                "catalog_number": 247,
+            },
+            {
+                "title": "Tema fără număr",
+                "primary_parent": "grammar",
+                "catalog_number": 250,
+            },
+        ]
+        ordered = sorted(
+            activities, key=lambda r: index_catalog.display_key(r, records)
+        )
+        self.assertEqual(
+            [r["catalog_number"] for r in ordered], [247, 246, 243, 240, 250]
+        )
+        self.assertEqual(activities[1]["primary_parent"], "grammar")
+
+    def test_context_omits_only_the_lesson_already_in_the_title(self):
+        records = {
+            "same": {"group": "andras", "number": 7},
+            "other": {"group": "andras", "number": 8},
+            "topic": {"group": "gramatica", "number": None, "title": "Articolele"},
+        }
+        activity = {
+            "title": "Lecția 007, testul 1",
+            "parents": [{"path": p} for p in records],
+        }
+        self.assertEqual(
+            index_catalog.context_labels(activity, records),
+            [
+                "Maghiara cu András",
+                "Maghiara cu András · Lecția 008",
+                "Gramatică · Articolele",
+            ],
+        )
+        activity["title"] = "Recapitulare"
+        self.assertEqual(
+            index_catalog.context_labels(activity, records)[0],
+            "Maghiara cu András · Lecția 007",
+        )
+
     def test_repairs_mojibake_without_changing_hungarian(self):
         self.assertEqual(
             index_catalog.repair_encoding("PlÄƒcere â€“ neplÄƒcere"),

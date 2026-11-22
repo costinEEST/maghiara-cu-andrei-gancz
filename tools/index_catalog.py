@@ -171,6 +171,42 @@ def parent_label(record):
     return f"{label} · {record['title']}"
 
 
+def display_key(record, records):
+    """Order this index by lesson, including activities linked only by a topic.
+
+    A title's lesson number is a display hint, never a new parent association.
+    Keep stored activity IDs and individual page headings unchanged.
+    """
+    parent = records[record["primary_parent"]]
+    lesson = re.match(r"Lecția (\d+)\b", record["title"])
+    number = int(lesson[1]) if lesson else parent.get("number")
+    if not number:
+        return (1, 0, 0, 0, 0, record["catalog_number"])
+    course = parent["group"] if parent.get("number") else "andras"
+    exercise = re.search(r"\b(exercițiul|testul)\s+(\d+)", record["title"])
+    kind = 0 if exercise and exercise[1] == "exercițiul" else 1 if exercise else 2
+    return (
+        0,
+        list(GROUPS).index(course),
+        number,
+        kind,
+        int(exercise[2]) if exercise else 0,
+        record["catalog_number"],
+    )
+
+
+def context_labels(record, records):
+    labels = []
+    lesson = re.match(r"Lecția (\d+)\b", record["title"])
+    for link in record["parents"]:
+        parent = records[link["path"]]
+        if lesson and parent.get("number") == int(lesson[1]):
+            labels.append(GROUPS[parent["group"]])
+        else:
+            labels.append(parent_label(parent))
+    return labels
+
+
 def row_signature(row):
     def compact(text):
         return re.sub(r"\s+", " ", text).strip()
@@ -178,6 +214,7 @@ def row_signature(row):
     return (
         row.get("data-order"),
         row.get("data-search"),
+        len(row.select("br")),
         [
             (a.get("href"), compact(a.get_text(" ", strip=True)))
             for a in row.select("a")
@@ -258,16 +295,20 @@ def index_catalog(root=ROOT, *, write=False):
     # Only replace the catalog when semantic content changes. A formatter's
     # whitespace never makes a subsequent read-only audit fail.
     desired = []
-    for number, relative in enumerate(ordered, 1):
+    display_order = sorted(
+        ordered, key=lambda path: display_key(records[path], records)
+    )
+    for number, relative in enumerate(display_order, 1):
         record = records[relative]
         labels = [parent_label(records[p["path"]]) for p in matches[relative]]
+        context = context_labels(record, records)
         search = html.escape(record["title"] + " " + " ".join(labels), quote=True)
         row_doc = BeautifulSoup(
             f'<li data-entry="" data-order="{number}" '
             f'data-search="{search}">'
             f'<a href="{relative}"><span class="item-number">{number:03d}</span>'
-            f'<span class="activity-title">{html.escape(record["title"])}'
-            f'<small class="activity-context">{html.escape("; ".join(labels))}</small>'
+            f'<span class="activity-title">{html.escape(record["title"])}<br>'
+            f'<small class="activity-context">{html.escape("; ".join(context))}</small>'
             '</span><span class="item-label">Citește</span></a></li>',
             "html.parser",
         )
