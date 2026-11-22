@@ -1,0 +1,11 @@
+# Stable content hashes across checkouts; never transform binary assets.
+* text=auto eol=lf
+*.gif binary
+*.jpg binary
+*.jpeg binary
+*.JPG binary
+*.png binary
+*.mp3 binary
+*.woff2 binary
+*.rar binary
+*.zip binary

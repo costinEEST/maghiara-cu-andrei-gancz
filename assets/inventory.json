@@ -1,0 +1,3982 @@
+{
+  "pages": [
+    {
+      "old": "abecedar.html",
+      "path": "referinte/alfabet-si-pronuntie.html",
+      "title": "Alfabet și pronunție",
+      "group": "referinte",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/abecedar.html"
+    },
+    {
+      "old": "comunicare/com_admir.html",
+      "path": "comunicare/admiratie.html",
+      "title": "Admirație",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_admir.html"
+    },
+    {
+      "old": "comunicare/com_cerere.html",
+      "path": "comunicare/cerere.html",
+      "title": "Cerere",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_cerere.html"
+    },
+    {
+      "old": "comunicare/com_conv_cuv.html",
+      "path": "comunicare/conversatie-cuvant.html",
+      "title": "Conversație, cuvânt",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_conv_cuv.html"
+    },
+    {
+      "old": "comunicare/com_dorinta.html",
+      "path": "comunicare/dorinta-lipsa-dorintei.html",
+      "title": "Dorință / lipsa dorinței",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_dorinta.html"
+    },
+    {
+      "old": "comunicare/com_eval.html",
+      "path": "comunicare/evaluare.html",
+      "title": "Evaluare",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_eval.html"
+    },
+    {
+      "old": "comunicare/com_felicit_urari.html",
+      "path": "comunicare/felicitare-urari.html",
+      "title": "Felicitare, urări",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_felicit_urari.html"
+    },
+    {
+      "old": "comunicare/com_indic_spat.html",
+      "path": "comunicare/indicatie-spatiala.html",
+      "title": "Indicație spațială",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_indic_spat.html"
+    },
+    {
+      "old": "comunicare/com_interd.html",
+      "path": "comunicare/interdictie.html",
+      "title": "Interdicție",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_interd.html"
+    },
+    {
+      "old": "comunicare/com_interes.html",
+      "path": "comunicare/interes-lipsa-interesului.html",
+      "title": "Interes / lipsa interesului",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_interes.html"
+    },
+    {
+      "old": "comunicare/com_invit.html",
+      "path": "comunicare/invitatie.html",
+      "title": "Invitație",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_invit.html"
+    },
+    {
+      "old": "comunicare/com_opinie.html",
+      "path": "comunicare/opinie.html",
+      "title": "Opinie",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_opinie.html"
+    },
+    {
+      "old": "comunicare/com_ordin.html",
+      "path": "comunicare/ordin.html",
+      "title": "Ordin",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_ordin.html"
+    },
+    {
+      "old": "comunicare/com_permis.html",
+      "path": "comunicare/permisiune.html",
+      "title": "Permisiune",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_permis.html"
+    },
+    {
+      "old": "comunicare/com_placere.html",
+      "path": "comunicare/placere-neplacere.html",
+      "title": "Plăcere – neplăcere",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_placere.html"
+    },
+    {
+      "old": "comunicare/com_propun.html",
+      "path": "comunicare/propunere.html",
+      "title": "Propunere",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_propun.html"
+    },
+    {
+      "old": "comunicare/com_regret.html",
+      "path": "comunicare/regret.html",
+      "title": "Regret",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_regret.html"
+    },
+    {
+      "old": "comunicare/com_repros.html",
+      "path": "comunicare/repros-iertare.html",
+      "title": "Reproș, iertare",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_repros.html"
+    },
+    {
+      "old": "comunicare/com_rezum.html",
+      "path": "comunicare/rezumare.html",
+      "title": "Rezumare",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_rezum.html"
+    },
+    {
+      "old": "comunicare/com_satisf.html",
+      "path": "comunicare/satisfactie-insatisfactie.html",
+      "title": "Satisfacție / insatisfacție",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_satisf.html"
+    },
+    {
+      "old": "comunicare/com_sfat.html",
+      "path": "comunicare/sfat.html",
+      "title": "Sfat",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_sfat.html"
+    },
+    {
+      "old": "comunicare/com_starea_fiz.html",
+      "path": "comunicare/starea-fizica.html",
+      "title": "Starea fizică",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_starea_fiz.html"
+    },
+    {
+      "old": "comunicare/com_starea_psih.html",
+      "path": "comunicare/starea-psihica.html",
+      "title": "Starea psihică",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/com_starea_psih.html"
+    },
+    {
+      "old": "comunicare/prezentare.html",
+      "path": "comunicare/prezentare.html",
+      "title": "Prezentare",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/prezentare.html"
+    },
+    {
+      "old": "comunicare/salut.html",
+      "path": "comunicare/salut.html",
+      "title": "Salut",
+      "group": "comunicare",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/comunicare/salut.html"
+    },
+    {
+      "old": "gramatica/acuzativ.html",
+      "path": "gramatica/acuzativul-desinenta-de-complement-direct.html",
+      "title": "Acuzativul (Desinența de complement direct)",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/acuzativ.html"
+    },
+    {
+      "old": "gramatica/adj_derivate.html",
+      "path": "gramatica/adjective-formate-prin-sufixare.html",
+      "title": "Adjective formate prin sufixare",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/adj_derivate.html"
+    },
+    {
+      "old": "gramatica/adverbe.html",
+      "path": "gramatica/adverbe.html",
+      "title": "Adverbe",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/adverbe.html"
+    },
+    {
+      "old": "gramatica/armonie.html",
+      "path": "gramatica/armonia-vocalica.html",
+      "title": "Armonia vocalică",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/armonie.html"
+    },
+    {
+      "old": "gramatica/articole.html",
+      "path": "gramatica/articolele.html",
+      "title": "Articolele",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/articole.html"
+    },
+    {
+      "old": "gramatica/compl_dir_nedef_def.html",
+      "path": "gramatica/complementul-direct-nedefinit-si-cel-definit.html",
+      "title": "Complementul direct nedefinit și cel definit",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/compl_dir_nedef_def.html"
+    },
+    {
+      "old": "gramatica/demonstrative.html",
+      "path": "gramatica/demonstrativele.html",
+      "title": "Demonstrativele",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/demonstrative.html"
+    },
+    {
+      "old": "gramatica/desinente_2.html",
+      "path": "gramatica/desinente-de-complemente-altele-decat-cel-direct-si-cele-de-loc.html",
+      "title": "Desinențe de complemente altele decât cel direct și cele de loc",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/desinente_2.html"
+    },
+    {
+      "old": "gramatica/desinente_ccl.html",
+      "path": "gramatica/desinente-de-complemente-de-loc.html",
+      "title": "Desinențe de complemente de loc",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/desinente_ccl.html"
+    },
+    {
+      "old": "gramatica/grade_compar.html",
+      "path": "gramatica/gradele-de-comparatie-ale-adjectivelor-si-adverbelor.html",
+      "title": "Gradele de comparație ale adjectivelor și adverbelor",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/grade_compar.html"
+    },
+    {
+      "old": "gramatica/nehotarate.html",
+      "path": "gramatica/cuvinte-nehotarate.html",
+      "title": "Cuvinte nehotărâte",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/nehotarate.html"
+    },
+    {
+      "old": "gramatica/numeral.html",
+      "path": "gramatica/numeralele.html",
+      "title": "Numeralele",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/numeral.html"
+    },
+    {
+      "old": "gramatica/plural.html",
+      "path": "gramatica/pluralul-substantivelor-adjectivelor-si-pronumelor-de-persoana-a-iii-a-in-afara-pronumelui-posesiv.html",
+      "title": "Pluralul substantivelor, adjectivelor și pronumelor de persoana a III-a (în afara pronumelui posesiv)",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/plural.html"
+    },
+    {
+      "old": "gramatica/posesie.html",
+      "path": "gramatica/exprimarea-posesiei.html",
+      "title": "Exprimarea posesiei",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/posesie.html"
+    },
+    {
+      "old": "gramatica/postpozitii.html",
+      "path": "gramatica/postpozitii.html",
+      "title": "Postpoziții",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/postpozitii.html"
+    },
+    {
+      "old": "gramatica/pron_pers.html",
+      "path": "gramatica/pronumele-personale.html",
+      "title": "Pronumele personale",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/pron_pers.html"
+    },
+    {
+      "old": "gramatica/pron_rel.html",
+      "path": "gramatica/pronume-relative.html",
+      "title": "Pronume relative",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/pron_rel.html"
+    },
+    {
+      "old": "gramatica/subst_derivate.html",
+      "path": "gramatica/substantive-formate-prin-sufixare.html",
+      "title": "Substantive formate prin sufixare",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/subst_derivate.html"
+    },
+    {
+      "old": "gramatica/topica.html",
+      "path": "gramatica/topica-in-propozitie.html",
+      "title": "Topica în propoziție",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/topica.html"
+    },
+    {
+      "old": "gramatica/verb_condit.html",
+      "path": "gramatica/conditionalul.html",
+      "title": "Condiționalul",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/verb_condit.html"
+    },
+    {
+      "old": "gramatica/verb_imper_conj.html",
+      "path": "gramatica/imperativ-conjunctivul.html",
+      "title": "Imperativ-conjunctivul",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/verb_imper_conj.html"
+    },
+    {
+      "old": "gramatica/verb_ind_prez.html",
+      "path": "gramatica/indicativul-prezent.html",
+      "title": "Indicativul prezent",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/verb_ind_prez.html"
+    },
+    {
+      "old": "gramatica/verb_ind_trecut.html",
+      "path": "gramatica/indicativul-trecut.html",
+      "title": "Indicativul trecut",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/verb_ind_trecut.html"
+    },
+    {
+      "old": "gramatica/verb_ind_viit.html",
+      "path": "gramatica/indicativul-viitor.html",
+      "title": "Indicativul viitor",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/verb_ind_viit.html"
+    },
+    {
+      "old": "gramatica/verb_moduri_nepers.html",
+      "path": "gramatica/modurile-nepersonale.html",
+      "title": "Modurile nepersonale",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/verb_moduri_nepers.html"
+    },
+    {
+      "old": "gramatica/verb_prefixe.html",
+      "path": "gramatica/prefixul-verbal.html",
+      "title": "Prefixul verbal",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/verb_prefixe.html"
+    },
+    {
+      "old": "gramatica/verbe_sufixate.html",
+      "path": "gramatica/verbe-formate-prin-sufixare.html",
+      "title": "Verbe formate prin sufixare",
+      "group": "gramatica",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/gramatica/verbe_sufixate.html"
+    },
+    {
+      "old": "leckek/despre_autor.html",
+      "path": "referinte/despre-autor.html",
+      "title": "Despre autor",
+      "group": "referinte",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/despre_autor.html"
+    },
+    {
+      "old": "leckek/introducere.html",
+      "path": "referinte/introducere.html",
+      "title": "Introducere",
+      "group": "referinte",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/introducere.html"
+    },
+    {
+      "old": "leckek/lec_1.html",
+      "path": "andras/lectia-01-cine-ce-face.html",
+      "title": "Ki mit csinál? / Cine ce face?",
+      "group": "andras",
+      "number": 1,
+      "source_url": "https://www.nebulo.ro/leckek/lec_1.html"
+    },
+    {
+      "old": "leckek/lec_10.html",
+      "path": "andras/lectia-10-tibi-o-cunoaste-pe-zsuzsa.html",
+      "title": "Tibi ismeri Zsuzsát?! / Tibi o cunoaște pe Zsuzsa?!",
+      "group": "andras",
+      "number": 10,
+      "source_url": "https://www.nebulo.ro/leckek/lec_10.html"
+    },
+    {
+      "old": "leckek/lec_11.html",
+      "path": "andras/lectia-11-tibi-si-peter-se-intalnesc.html",
+      "title": "Tibi és Péter találkoznak / Tibi și Péter se întâlnesc",
+      "group": "andras",
+      "number": 11,
+      "source_url": "https://www.nebulo.ro/leckek/lec_11.html"
+    },
+    {
+      "old": "leckek/lec_12.html",
+      "path": "andras/lectia-12-o-cofetarie-buna.html",
+      "title": "Egy jó cukrászda / O cofetărie bună",
+      "group": "andras",
+      "number": 12,
+      "source_url": "https://www.nebulo.ro/leckek/lec_12.html"
+    },
+    {
+      "old": "leckek/lec_13.html",
+      "path": "andras/lectia-13-va-place-informatica.html",
+      "title": "Szeretitek az informatikát? / Vă place informatica?",
+      "group": "andras",
+      "number": 13,
+      "source_url": "https://www.nebulo.ro/leckek/lec_13.html"
+    },
+    {
+      "old": "leckek/lec_14.html",
+      "path": "andras/lectia-14-recapitulare.html",
+      "title": "Ismétlés / Recapitulare",
+      "group": "andras",
+      "number": 14,
+      "source_url": "https://www.nebulo.ro/leckek/lec_14.html"
+    },
+    {
+      "old": "leckek/lec_15.html",
+      "path": "andras/lectia-15-cand-eram-copii.html",
+      "title": "Amikor gyerekek voltunk / Când eram copii",
+      "group": "andras",
+      "number": 15,
+      "source_url": "https://www.nebulo.ro/leckek/lec_15.html"
+    },
+    {
+      "old": "leckek/lec_16.html",
+      "path": "andras/lectia-16-intalnire-pe-strada.html",
+      "title": "Találkozás az utcán / Întâlnire pe stradă",
+      "group": "andras",
+      "number": 16,
+      "source_url": "https://www.nebulo.ro/leckek/lec_16.html"
+    },
+    {
+      "old": "leckek/lec_17.html",
+      "path": "andras/lectia-17-sah-trebuie-sa-stii-sa-joci.html",
+      "title": "Sakkozni tudni kell / Șah trebuie să știi să joci",
+      "group": "andras",
+      "number": 17,
+      "source_url": "https://www.nebulo.ro/leckek/lec_17.html"
+    },
+    {
+      "old": "leckek/lec_18.html",
+      "path": "andras/lectia-18-ce-te-faci-cand-ai-sa-fii-mare.html",
+      "title": "Mi leszel, ha nagy leszel? / Ce te faci când ai să fii mare?",
+      "group": "andras",
+      "number": 18,
+      "source_url": "https://www.nebulo.ro/leckek/lec_18.html"
+    },
+    {
+      "old": "leckek/lec_19.html",
+      "path": "andras/lectia-19-daca-vrei-poti.html",
+      "title": "Aki akar, tud / Dacă vrei, poți",
+      "group": "andras",
+      "number": 19,
+      "source_url": "https://www.nebulo.ro/leckek/lec_19.html"
+    },
+    {
+      "old": "leckek/lec_2.html",
+      "path": "andras/lectia-02-el-ea-face-ceva.html",
+      "title": "Ő csinál valamit? / El/Ea face ceva?",
+      "group": "andras",
+      "number": 2,
+      "source_url": "https://www.nebulo.ro/leckek/lec_2.html"
+    },
+    {
+      "old": "leckek/lec_20.html",
+      "path": "andras/lectia-20-e-greu-de-ales.html",
+      "title": "Nehéz választani / E greu de ales",
+      "group": "andras",
+      "number": 20,
+      "source_url": "https://www.nebulo.ro/leckek/lec_20.html"
+    },
+    {
+      "old": "leckek/lec_21.html",
+      "path": "andras/lectia-21-in-week-end-mai-mult-vreme-de-toamna-insorita.html",
+      "title": "A hétvégén többnyire napos őszi idő / În week-end, mai mult vreme de toamnă însorită",
+      "group": "andras",
+      "number": 21,
+      "source_url": "https://www.nebulo.ro/leckek/lec_21.html"
+    },
+    {
+      "old": "leckek/lec_22.html",
+      "path": "andras/lectia-22-recapitulare.html",
+      "title": "Ismétlés / Recapitulare",
+      "group": "andras",
+      "number": 22,
+      "source_url": "https://www.nebulo.ro/leckek/lec_22.html"
+    },
+    {
+      "old": "leckek/lec_23.html",
+      "path": "andras/lectia-23-un-accident-pe-strada.html",
+      "title": "Baleset az utcán / Un accident pe stradă",
+      "group": "andras",
+      "number": 23,
+      "source_url": "https://www.nebulo.ro/leckek/lec_23.html"
+    },
+    {
+      "old": "leckek/lec_24.html",
+      "path": "andras/lectia-24-copiii-se-joaca-cu-mingea.html",
+      "title": "Labdáznak a gyerekek / Copiii se joacă cu mingea",
+      "group": "andras",
+      "number": 24,
+      "source_url": "https://www.nebulo.ro/leckek/lec_24.html"
+    },
+    {
+      "old": "leckek/lec_25.html",
+      "path": "andras/lectia-25-un-tata-dragut.html",
+      "title": "Aranyos apa / Un tată drăguț",
+      "group": "andras",
+      "number": 25,
+      "source_url": "https://www.nebulo.ro/leckek/lec_25.html"
+    },
+    {
+      "old": "leckek/lec_26.html",
+      "path": "andras/lectia-26-daca-as-fi-stiut.html",
+      "title": "Ha tudtam volna! / Dacă aș fi știut!",
+      "group": "andras",
+      "number": 26,
+      "source_url": "https://www.nebulo.ro/leckek/lec_26.html"
+    },
+    {
+      "old": "leckek/lec_27.html",
+      "path": "andras/lectia-27-peter-a-facut-pranzul.html",
+      "title": "Péter ebédet készített / Péter a făcut prânzul",
+      "group": "andras",
+      "number": 27,
+      "source_url": "https://www.nebulo.ro/leckek/lec_27.html"
+    },
+    {
+      "old": "leckek/lec_28.html",
+      "path": "andras/lectia-28-la-politie.html",
+      "title": "A rendőrségen / La poliție",
+      "group": "andras",
+      "number": 28,
+      "source_url": "https://www.nebulo.ro/leckek/lec_28.html"
+    },
+    {
+      "old": "leckek/lec_29.html",
+      "path": "andras/lectia-29-recapitulare.html",
+      "title": "Ismétlés / Recapitulare",
+      "group": "andras",
+      "number": 29,
+      "source_url": "https://www.nebulo.ro/leckek/lec_29.html"
+    },
+    {
+      "old": "leckek/lec_3.html",
+      "path": "andras/lectia-03-eu-fac-totul.html",
+      "title": "Én csinálok mindent / Eu fac totul",
+      "group": "andras",
+      "number": 3,
+      "source_url": "https://www.nebulo.ro/leckek/lec_3.html"
+    },
+    {
+      "old": "leckek/lec_30.html",
+      "path": "andras/lectia-30-nu-ma-simt-bine.html",
+      "title": "Nem érzem jól magam / Nu mă simt bine",
+      "group": "andras",
+      "number": 30,
+      "source_url": "https://www.nebulo.ro/leckek/lec_30.html"
+    },
+    {
+      "old": "leckek/lec_31.html",
+      "path": "andras/lectia-31-ghitara.html",
+      "title": "A gitár / Ghitara",
+      "group": "andras",
+      "number": 31,
+      "source_url": "https://www.nebulo.ro/leckek/lec_31.html"
+    },
+    {
+      "old": "leckek/lec_32.html",
+      "path": "andras/lectia-32-doamna-kiss-trebuie-sa-mearga-la-dentist.html",
+      "title": "Kissnének fogorvoshoz kell mennie / Doamna Kiss trebuie să meargă la dentist",
+      "group": "andras",
+      "number": 32,
+      "source_url": "https://www.nebulo.ro/leckek/lec_32.html"
+    },
+    {
+      "old": "leckek/lec_33.html",
+      "path": "andras/lectia-33-exces-de-viteza.html",
+      "title": "Gyorshajtás / Exces de viteză",
+      "group": "andras",
+      "number": 33,
+      "source_url": "https://www.nebulo.ro/leckek/lec_33.html"
+    },
+    {
+      "old": "leckek/lec_34.html",
+      "path": "andras/lectia-34-la-muzeu.html",
+      "title": "Múzeumban / La muzeu",
+      "group": "andras",
+      "number": 34,
+      "source_url": "https://www.nebulo.ro/leckek/lec_34.html"
+    },
+    {
+      "old": "leckek/lec_35.html",
+      "path": "andras/lectia-35-in-munti.html",
+      "title": "A hegyekben / În munți",
+      "group": "andras",
+      "number": 35,
+      "source_url": "https://www.nebulo.ro/leckek/lec_35.html"
+    },
+    {
+      "old": "leckek/lec_36.html",
+      "path": "andras/lectia-36-lasati-ma-sa-spun-si-eu-ceva.html",
+      "title": "Hagyjatok szóhoz jutni! / Lăsați-mă să spun și eu ceva!",
+      "group": "andras",
+      "number": 36,
+      "source_url": "https://www.nebulo.ro/leckek/lec_36.html"
+    },
+    {
+      "old": "leckek/lec_37.html",
+      "path": "andras/lectia-37-familia-cineaza.html",
+      "title": "Vacsorázik a család / Familia cinează",
+      "group": "andras",
+      "number": 37,
+      "source_url": "https://www.nebulo.ro/leckek/lec_37.html"
+    },
+    {
+      "old": "leckek/lec_38.html",
+      "path": "andras/lectia-38-o-intalnire-surprinzatoare.html",
+      "title": "Meglepő találkozás / O întâlnire surprinzătoare",
+      "group": "andras",
+      "number": 38,
+      "source_url": "https://www.nebulo.ro/leckek/lec_38.html"
+    },
+    {
+      "old": "leckek/lec_39.html",
+      "path": "andras/lectia-39-recapitulare.html",
+      "title": "Ismétlés / Recapitulare",
+      "group": "andras",
+      "number": 39,
+      "source_url": "https://www.nebulo.ro/leckek/lec_39.html"
+    },
+    {
+      "old": "leckek/lec_4.html",
+      "path": "andras/lectia-04-unde-sunt.html",
+      "title": "Hol vannak? / Unde sunt?",
+      "group": "andras",
+      "number": 4,
+      "source_url": "https://www.nebulo.ro/leckek/lec_4.html"
+    },
+    {
+      "old": "leckek/lec_5.html",
+      "path": "andras/lectia-05-un-turist-curios.html",
+      "title": "Kíváncsi turista / Un turist curios",
+      "group": "andras",
+      "number": 5,
+      "source_url": "https://www.nebulo.ro/leckek/lec_5.html"
+    },
+    {
+      "old": "leckek/lec_6.html",
+      "path": "andras/lectia-06-noi-facem-totul.html",
+      "title": "Mi csinálunk mindent / Noi facem totul",
+      "group": "andras",
+      "number": 6,
+      "source_url": "https://www.nebulo.ro/leckek/lec_6.html"
+    },
+    {
+      "old": "leckek/lec_7.html",
+      "path": "andras/lectia-07-recapitulare.html",
+      "title": "Ismétlés / Recapitulare",
+      "group": "andras",
+      "number": 7,
+      "source_url": "https://www.nebulo.ro/leckek/lec_7.html"
+    },
+    {
+      "old": "leckek/lec_8.html",
+      "path": "andras/lectia-08-zsuzsa-face-de-cina.html",
+      "title": "Zsuzsa főz vacsorát / Zsuzsa face de cină",
+      "group": "andras",
+      "number": 8,
+      "source_url": "https://www.nebulo.ro/leckek/lec_8.html"
+    },
+    {
+      "old": "leckek/lec_9.html",
+      "path": "andras/lectia-09-vecinul-cel-nou.html",
+      "title": "Az új szomszéd / Vecinul cel nou",
+      "group": "andras",
+      "number": 9,
+      "source_url": "https://www.nebulo.ro/leckek/lec_9.html"
+    },
+    {
+      "old": "lectia1.html",
+      "path": "lectii/lectia-01-saluturi-si-expresii-uzuale.html",
+      "title": "Saluturi și expresii uzuale",
+      "group": "lectii",
+      "number": 1,
+      "source_url": "https://www.nebulo.ro/lectia1.html"
+    },
+    {
+      "old": "lectia10.html",
+      "path": "lectii/lectia-10-pofta-buna.html",
+      "title": "Poftă bună!",
+      "group": "lectii",
+      "number": 10,
+      "source_url": "https://www.nebulo.ro/lectia10.html"
+    },
+    {
+      "old": "lectia11.html",
+      "path": "lectii/lectia-11-partile-corpului.html",
+      "title": "Părțile corpului",
+      "group": "lectii",
+      "number": 11,
+      "source_url": "https://www.nebulo.ro/lectia11.html"
+    },
+    {
+      "old": "lectia2.html",
+      "path": "lectii/lectia-02-eu-sunt.html",
+      "title": "Eu sunt…",
+      "group": "lectii",
+      "number": 2,
+      "source_url": "https://www.nebulo.ro/lectia2.html"
+    },
+    {
+      "old": "lectia3.html",
+      "path": "lectii/lectia-03-adresarea-politicoasa.html",
+      "title": "Adresarea politicoasă",
+      "group": "lectii",
+      "number": 3,
+      "source_url": "https://www.nebulo.ro/lectia3.html"
+    },
+    {
+      "old": "lectia4.html",
+      "path": "lectii/lectia-04-unde-suntem.html",
+      "title": "Unde suntem?",
+      "group": "lectii",
+      "number": 4,
+      "source_url": "https://www.nebulo.ro/lectia4.html"
+    },
+    {
+      "old": "lectia5.html",
+      "path": "lectii/lectia-05-culorile.html",
+      "title": "Culorile",
+      "group": "lectii",
+      "number": 5,
+      "source_url": "https://www.nebulo.ro/lectia5.html"
+    },
+    {
+      "old": "lectia6.html",
+      "path": "lectii/lectia-06-cat-e-ceasul.html",
+      "title": "Cât e ceasul?",
+      "group": "lectii",
+      "number": 6,
+      "source_url": "https://www.nebulo.ro/lectia6.html"
+    },
+    {
+      "old": "lectia7.html",
+      "path": "lectii/lectia-07-unde-mergi.html",
+      "title": "Unde mergi?",
+      "group": "lectii",
+      "number": 7,
+      "source_url": "https://www.nebulo.ro/lectia7.html"
+    },
+    {
+      "old": "lectia8.html",
+      "path": "lectii/lectia-08-de-unde-vii.html",
+      "title": "De unde vii?",
+      "group": "lectii",
+      "number": 8,
+      "source_url": "https://www.nebulo.ro/lectia8.html"
+    },
+    {
+      "old": "lectia9.html",
+      "path": "lectii/lectia-09-familia.html",
+      "title": "Familia",
+      "group": "lectii",
+      "number": 9,
+      "source_url": "https://www.nebulo.ro/lectia9.html"
+    },
+    {
+      "old": "linkuri.html",
+      "path": "referinte/linkuri-utile.html",
+      "title": "Linkuri utile",
+      "group": "referinte",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/linkuri.html"
+    },
+    {
+      "old": "vocabular/alim_buc.html",
+      "path": "vocabular/alimente-si-bucatarie.html",
+      "title": "Alimente și bucătărie",
+      "group": "vocabular",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/vocabular/alim_buc.html"
+    },
+    {
+      "old": "vocabular/familia.html",
+      "path": "vocabular/familia.html",
+      "title": "Familia",
+      "group": "vocabular",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/vocabular/familia.html"
+    },
+    {
+      "old": "vocabular/voc_act_cotid.html",
+      "path": "vocabular/activitati-cotidiene.html",
+      "title": "Activități cotidiene",
+      "group": "vocabular",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/vocabular/voc_act_cotid.html"
+    },
+    {
+      "old": "vocabular/voc_calatoria.html",
+      "path": "vocabular/calatoria.html",
+      "title": "Călătoria",
+      "group": "vocabular",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/vocabular/voc_calatoria.html"
+    },
+    {
+      "old": "vocabular/voc_caract_sentim.html",
+      "path": "vocabular/caracterul-si-sentimentele.html",
+      "title": "Caracterul și sentimentele",
+      "group": "vocabular",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/vocabular/voc_caract_sentim.html"
+    },
+    {
+      "old": "vocabular/voc_corp.html",
+      "path": "vocabular/corpul-omenesc.html",
+      "title": "Corpul omenesc",
+      "group": "vocabular",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/vocabular/voc_corp.html"
+    },
+    {
+      "old": "vocabular/voc_iesiri.html",
+      "path": "vocabular/iesiri-la-distractie.html",
+      "title": "Ieșiri la distracție",
+      "group": "vocabular",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/vocabular/voc_iesiri.html"
+    },
+    {
+      "old": "vocabular/voc_imbrac.html",
+      "path": "vocabular/imbracaminte-si-incaltaminte.html",
+      "title": "Îmbrăcăminte și încălțăminte",
+      "group": "vocabular",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/vocabular/voc_imbrac.html"
+    },
+    {
+      "old": "vocabular/voc_locuinta.html",
+      "path": "vocabular/locuinta.html",
+      "title": "Locuința",
+      "group": "vocabular",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/vocabular/voc_locuinta.html"
+    },
+    {
+      "old": "vocabular/voc_meteo.html",
+      "path": "vocabular/cum-e-vremea.html",
+      "title": "Cum e vremea?",
+      "group": "vocabular",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/vocabular/voc_meteo.html"
+    },
+    {
+      "old": "vocabular/voc_munca.html",
+      "path": "vocabular/munca.html",
+      "title": "Munca",
+      "group": "vocabular",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/vocabular/voc_munca.html"
+    },
+    {
+      "old": "vocabular/voc_oras_sat.html",
+      "path": "vocabular/orasul-si-satul.html",
+      "title": "Orașul și satul",
+      "group": "vocabular",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/vocabular/voc_oras_sat.html"
+    },
+    {
+      "old": "vocabular/voc_posta_telec.html",
+      "path": "vocabular/posta-si-telecomunicatiile.html",
+      "title": "Poșta și telecomunicațiile",
+      "group": "vocabular",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/vocabular/voc_posta_telec.html"
+    },
+    {
+      "old": "vocabular/voc_sanatate.html",
+      "path": "vocabular/sanatatea.html",
+      "title": "Sănătatea",
+      "group": "vocabular",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/vocabular/voc_sanatate.html"
+    },
+    {
+      "old": "vocabular/voc_sarb_invit.html",
+      "path": "vocabular/sarbatori-si-invitatii.html",
+      "title": "Sărbători și invitații",
+      "group": "vocabular",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/vocabular/voc_sarb_invit.html"
+    },
+    {
+      "old": "vocabular/voc_studii.html",
+      "path": "vocabular/studiile.html",
+      "title": "Studiile",
+      "group": "vocabular",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/vocabular/voc_studii.html"
+    },
+    {
+      "old": "vocabular/voc_timp.html",
+      "path": "vocabular/timpul.html",
+      "title": "Timpul",
+      "group": "vocabular",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/vocabular/voc_timp.html"
+    },
+    {
+      "old": "vocabular/voc_timp_lib.html",
+      "path": "vocabular/timpul-liber.html",
+      "title": "Timpul liber",
+      "group": "vocabular",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/vocabular/voc_timp_lib.html"
+    },
+    {
+      "old": "vocabular/voc_transport.html",
+      "path": "vocabular/transporturile-in-comun-urbane.html",
+      "title": "Transporturile în comun urbane",
+      "group": "vocabular",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/vocabular/voc_transport.html"
+    },
+    {
+      "old": "vocabular/voc_vehic_pers.html",
+      "path": "vocabular/vehiculele-personale.html",
+      "title": "Vehiculele personale",
+      "group": "vocabular",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/vocabular/voc_vehic_pers.html"
+    },
+    {
+      "old": "leckek/fajlok/file_01hnihh.htm",
+      "path": "exercitii/lectia-1-exercitiul-1.html",
+      "title": "Lecția 1, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_01hnihh.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_034u4sp.htm",
+      "path": "exercitii/lectia-22-exercitiul-6.html",
+      "title": "Lecția 22, exercițiul 6",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_034u4sp.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_06nyz4a.htm",
+      "path": "exercitii/lectia-18-exercitiul-1.html",
+      "title": "Lecția 18, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_06nyz4a.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_0hwcbpe.html",
+      "path": "exercitii/timpul-2.html",
+      "title": "Timpul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_0hwcbpe.html"
+    },
+    {
+      "old": "leckek/fajlok/file_0nx7sct.htm",
+      "path": "exercitii/lectia-17-exercitiul-3.html",
+      "title": "Lecția 17, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_0nx7sct.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_0wtnmks.htm",
+      "path": "exercitii/rezumare-2.html",
+      "title": "Rezumare 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_0wtnmks.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_10agmah.htm",
+      "path": "exercitii/lectia-23-intelegerea-textului.html",
+      "title": "Lecția 23, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_10agmah.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_1168wxx.htm",
+      "path": "exercitii/lectia-38-exercitiul-2.html",
+      "title": "Lecția 38, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_1168wxx.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_14ds852.html",
+      "path": "exercitii/lectia-32-document-suplimentar.html",
+      "title": "Lecția 32, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_14ds852.html"
+    },
+    {
+      "old": "leckek/fajlok/file_17k54kk.htm",
+      "path": "exercitii/admiraeie-2.html",
+      "title": "AdmiraÈ›ie 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_17k54kk.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_1824hh7.htm",
+      "path": "exercitii/lectia-26-exercitiul-1.html",
+      "title": "Lecția 26, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_1824hh7.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_1dl06gg.htm",
+      "path": "exercitii/lectia-28-exercitiul-6.html",
+      "title": "Lecția 28, exercițiul 6",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_1dl06gg.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_1iayqau.htm",
+      "path": "exercitii/lectia-9-intelegerea-textului.html",
+      "title": "Lecția 9, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_1iayqau.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_1mcpqkg.htm",
+      "path": "exercitii/calatoria-5.html",
+      "title": "Călătoria 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_1mcpqkg.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_1qr7nxl.htm",
+      "path": "exercitii/alimente-si-bucatarie-4.html",
+      "title": "Alimente și bucătărie 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_1qr7nxl.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_1sq25vr.html",
+      "path": "exercitii/lectia-15-document-suplimentar.html",
+      "title": "Lecția 15, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_1sq25vr.html"
+    },
+    {
+      "old": "leckek/fajlok/file_1vg9ze2.htm",
+      "path": "exercitii/lectia-6-exercitiul-1.html",
+      "title": "Lecția 6, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_1vg9ze2.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_1yymc09.htm",
+      "path": "exercitii/lectia-39-exercitiul-6.html",
+      "title": "Lecția 39, exercițiul 6",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_1yymc09.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_210fl2a.htm",
+      "path": "exercitii/lectia-31-exercitiul-2.html",
+      "title": "Lecția 31, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_210fl2a.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_22u4lbe.htm",
+      "path": "exercitii/lectia-25-exercitiul-5.html",
+      "title": "Lecția 25, exercițiul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_22u4lbe.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_22z5o9h.htm",
+      "path": "exercitii/lectia-14-exercitiul-3.html",
+      "title": "Lecția 14, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_22z5o9h.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_2320umj.htm",
+      "path": "exercitii/alimente-si-bucatarie-4-varianta-2.html",
+      "title": "Alimente și bucătărie 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_2320umj.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_23le459.htm",
+      "path": "exercitii/lectia-37-exercitiul-3.html",
+      "title": "Lecția 37, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_23le459.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_23yj2q0.htm",
+      "path": "exercitii/corpul-omenesc-2.html",
+      "title": "Corpul omenesc 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_23yj2q0.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_2b7lo6z.htm",
+      "path": "exercitii/lectia-10-exercitiul-1.html",
+      "title": "Lecția 10, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_2b7lo6z.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_2dk56op.htm",
+      "path": "exercitii/lectia-31-exercitiul-3.html",
+      "title": "Lecția 31, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_2dk56op.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_2jr5f5u.htm",
+      "path": "exercitii/38-lecke-3-gyakorlat.html",
+      "title": "38, lecke, 3. gyakorlat",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_2jr5f5u.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_2nmlmvw.htm",
+      "path": "exercitii/lectia-33-exercitiul-4.html",
+      "title": "Lecția 33, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_2nmlmvw.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_2ojbj5q.htm",
+      "path": "exercitii/lectia-18-exercitiul-5.html",
+      "title": "Lecția 18, exercițiul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_2ojbj5q.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_2sfgl1f.htm",
+      "path": "exercitii/lectia-17-exercitiul-2.html",
+      "title": "Lecția 17, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_2sfgl1f.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_2thctsm.htm",
+      "path": "exercitii/lectia-3-exercitiul-1.html",
+      "title": "Lecția 3, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_2thctsm.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_2ths5fa.html",
+      "path": "exercitii/lecon-20-exercice-10.html",
+      "title": "Leçon 20, exercice 10",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_2ths5fa.html"
+    },
+    {
+      "old": "leckek/fajlok/file_33mq45p.htm",
+      "path": "exercitii/sarbatori-si-invitatii-1.html",
+      "title": "Sărbători și invitații 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_33mq45p.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_33tz05p.html",
+      "path": "exercitii/insatisfactie-6.html",
+      "title": "insatisfacție 6",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_33tz05p.html"
+    },
+    {
+      "old": "leckek/fajlok/file_3746sa5.html",
+      "path": "exercitii/recapitulare-document-suplimentar.html",
+      "title": "Recapitulare — document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_3746sa5.html"
+    },
+    {
+      "old": "leckek/fajlok/file_39jktfi.htm",
+      "path": "exercitii/lectia-20-exercitiul-7.html",
+      "title": "Lecția 20, exercițiul 7",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_39jktfi.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_3in3i1b.htm",
+      "path": "exercitii/lectia-24-exercitiul-3.html",
+      "title": "Lecția 24, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_3in3i1b.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_3k01pqr.htm",
+      "path": "exercitii/lectia-39-exercitiul-1.html",
+      "title": "Lecția 39, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_3k01pqr.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_3k089rg.htm",
+      "path": "exercitii/lectia-27-exercitiul-2.html",
+      "title": "Lecția 27, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_3k089rg.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_3pfvy8d.htm",
+      "path": "exercitii/lectia-1-exercitiul-1-varianta-2.html",
+      "title": "Lecția 1, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_3pfvy8d.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_3tvmrvr.htm",
+      "path": "exercitii/imbracaminte-si-incaltaminte-6.html",
+      "title": "Îmbrăcăminte și încălțăminte 6",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_3tvmrvr.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_3ug9mf3.htm",
+      "path": "exercitii/lectia-24-exercitiul-1.html",
+      "title": "Lecția 24, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_3ug9mf3.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_40z4a9r.htm",
+      "path": "exercitii/lectia-20-exercitiul-3.html",
+      "title": "Lecția 20, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_40z4a9r.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_41wvfr9.htm",
+      "path": "exercitii/timpul-4.html",
+      "title": "Timpul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_41wvfr9.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_438zzj8.htm",
+      "path": "exercitii/lectia-2-exercitiul-1.html",
+      "title": "Lecția 2, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_438zzj8.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_44et9h0.html",
+      "path": "exercitii/permisiune-1.html",
+      "title": "Permisiune 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_44et9h0.html"
+    },
+    {
+      "old": "leckek/fajlok/file_47xsu95.htm",
+      "path": "exercitii/lectia-22-exercitiul-3.html",
+      "title": "Lecția 22, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_47xsu95.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_48xfnf8.htm",
+      "path": "exercitii/opinie-2.html",
+      "title": "Opinie 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_48xfnf8.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_4autuer.htm",
+      "path": "exercitii/lectia-8-exercitiul-1.html",
+      "title": "Lecția 8, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_4autuer.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_4ckb8bo.htm",
+      "path": "exercitii/lectia-7-exercitiul-4.html",
+      "title": "Lecția 7, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_4ckb8bo.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_4f8hgv9.htm",
+      "path": "exercitii/lectia-22-exercitiul-5.html",
+      "title": "Lecția 22, exercițiul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_4f8hgv9.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_4k9uk8r.htm",
+      "path": "exercitii/lectia-29-exercitiul-2.html",
+      "title": "Lecția 29, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_4k9uk8r.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_4qfvhvb.html",
+      "path": "exercitii/lectia-39-exercitiul-5.html",
+      "title": "Lecția 39, exercițiul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_4qfvhvb.html"
+    },
+    {
+      "old": "leckek/fajlok/file_55l91dq.htm",
+      "path": "exercitii/lectia-20-exercitiul-8.html",
+      "title": "Lecția 20, exercițiul 8",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_55l91dq.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_58cpdim.htm",
+      "path": "exercitii/lectia-11-exercitiul-1.html",
+      "title": "Lecția 11, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_58cpdim.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_5jl7589.htm",
+      "path": "exercitii/lectia-39-exercitiul-8.html",
+      "title": "Lecția 39, exercițiul 8",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_5jl7589.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_5k165q3.htm",
+      "path": "exercitii/lectia-20-exercitiul-2.html",
+      "title": "Lecția 20, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_5k165q3.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_5lbpemb.htm",
+      "path": "exercitii/lectia-33-intelegerea-textului.html",
+      "title": "Lecția 33, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_5lbpemb.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_5ml5jl2.htm",
+      "path": "exercitii/timpul-1.html",
+      "title": "Timpul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_5ml5jl2.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_5oytq76.htm",
+      "path": "exercitii/sanatatea-7.html",
+      "title": "Sănătatea 7",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_5oytq76.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_5pw90r8.htm",
+      "path": "exercitii/studiile-1.html",
+      "title": "Studiile 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_5pw90r8.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_5qyg30p.htm",
+      "path": "exercitii/lectia-8-exercitiul-2.html",
+      "title": "Lecția 8, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_5qyg30p.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_5yscz2e.htm",
+      "path": "exercitii/lectia-34-exercitiul-1.html",
+      "title": "Lecția 34, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_5yscz2e.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_5za61x5.htm",
+      "path": "exercitii/lectia-35-exercitiul-2.html",
+      "title": "Lecția 35, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_5za61x5.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_60wh8qg.htm",
+      "path": "exercitii/lectia-27-exercitiul-3.html",
+      "title": "Lecția 27, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_60wh8qg.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_63h56mb.htm",
+      "path": "exercitii/lectia-24-exercitiul-5.html",
+      "title": "Lecția 24, exercițiul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_63h56mb.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_63vtdtt.htm",
+      "path": "exercitii/lectia-15-exercitiul-4.html",
+      "title": "Lecția 15, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_63vtdtt.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_64d3uwe.htm",
+      "path": "exercitii/lectia-31-exercitiul-1.html",
+      "title": "Lecția 31, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_64d3uwe.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_674wrtd.htm",
+      "path": "exercitii/lectia-28-exercitiul-4.html",
+      "title": "Lecția 28, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_674wrtd.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_6i2ih5k.htm",
+      "path": "exercitii/lectia-26-exercitiul-8.html",
+      "title": "Lecția 26, exercițiul 8",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_6i2ih5k.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_6ik1mvl.htm",
+      "path": "exercitii/lectia-26-exercitiul-6.html",
+      "title": "Lecția 26, exercițiul 6",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_6ik1mvl.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_6nknd2o.htm",
+      "path": "exercitii/lectia-25-exercitiul-1.html",
+      "title": "Lecția 25, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_6nknd2o.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_6uwtp2q.htm",
+      "path": "exercitii/ordin-1.html",
+      "title": "Ordin 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_6uwtp2q.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_7006tap.html",
+      "path": "exercitii/lectia-24-document-suplimentar.html",
+      "title": "Lecția 24, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_7006tap.html"
+    },
+    {
+      "old": "leckek/fajlok/file_7135njw.htm",
+      "path": "exercitii/repros-iertare-2.html",
+      "title": "Reproș, iertare 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_7135njw.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_71ivqn6.html",
+      "path": "exercitii/lectia-19-document-suplimentar.html",
+      "title": "Lecția 19, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_71ivqn6.html"
+    },
+    {
+      "old": "leckek/fajlok/file_74hekoe.htm",
+      "path": "exercitii/lectia-3-exercitiul-2.html",
+      "title": "Lecția 3, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_74hekoe.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_7c7171w.html",
+      "path": "exercitii/lectia-26-document-suplimentar.html",
+      "title": "Lecția 26, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_7c7171w.html"
+    },
+    {
+      "old": "leckek/fajlok/file_7cerren.html",
+      "path": "exercitii/lipsa-interesului-1.html",
+      "title": "lipsa interesului 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_7cerren.html"
+    },
+    {
+      "old": "leckek/fajlok/file_7d2x94t.htm",
+      "path": "exercitii/lectia-35-exercitiul-1.html",
+      "title": "Lecția 35, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_7d2x94t.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_7imt2a1.htm",
+      "path": "exercitii/lectia-16-exercitiul-1.html",
+      "title": "Lecția 16, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_7imt2a1.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_7lryq13.htm",
+      "path": "exercitii/lectia-18-exercitiul-2.html",
+      "title": "Lecția 18, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_7lryq13.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_7s042ad.htm",
+      "path": "exercitii/lectia-12-exercitiul-4.html",
+      "title": "Lecția 12, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_7s042ad.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_7soadl6.html",
+      "path": "exercitii/lipsa-dorintei-1.html",
+      "title": "lipsa dorinței 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_7soadl6.html"
+    },
+    {
+      "old": "leckek/fajlok/file_7txaqfu.html",
+      "path": "exercitii/lectia-33-document-suplimentar.html",
+      "title": "Lecția 33, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_7txaqfu.html"
+    },
+    {
+      "old": "leckek/fajlok/file_7y85ip2.htm",
+      "path": "exercitii/lectia-26-exercitiul-1-varianta-2.html",
+      "title": "Lecția 26, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_7y85ip2.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_825q2sl.htm",
+      "path": "exercitii/lectia-28-document-suplimentar.html",
+      "title": "Lecția 28, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_825q2sl.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_83svcj2.htm",
+      "path": "exercitii/prezentare-2.html",
+      "title": "Prezentare 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_83svcj2.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_89d6fa3.html",
+      "path": "exercitii/lectia-19-exercitiul-3.html",
+      "title": "Lecția 19, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_89d6fa3.html"
+    },
+    {
+      "old": "leckek/fajlok/file_8dcyhua.html",
+      "path": "exercitii/lectia-18-gaseste-intrusul.html",
+      "title": "Lecția 18, găsește intrusul",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_8dcyhua.html"
+    },
+    {
+      "old": "leckek/fajlok/file_8g2r25n.htm",
+      "path": "exercitii/lectia-26-exercitiul-9.html",
+      "title": "Lecția 26, exercițiul 9",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_8g2r25n.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_8nr0yi4.htm",
+      "path": "exercitii/lectia-21-exercitiul-1.html",
+      "title": "Lecția 21, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_8nr0yi4.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_8ps8uf4.html",
+      "path": "exercitii/invitatie-1.html",
+      "title": "Invitație 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_8ps8uf4.html"
+    },
+    {
+      "old": "leckek/fajlok/file_8rus6z7.htm",
+      "path": "exercitii/lectia-33-exercitiul-2.html",
+      "title": "Lecția 33, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_8rus6z7.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_8sz200k.htm",
+      "path": "exercitii/lectia-12-exercitiul-1.html",
+      "title": "Lecția 12, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_8sz200k.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_96we29q.htm",
+      "path": "exercitii/8-lecke-rejtett-sza3.html",
+      "title": "8. lecke, rejtett szÃ³",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_96we29q.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_9k0nraq.html",
+      "path": "exercitii/lectia-11-document-suplimentar.html",
+      "title": "Lecția 11, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_9k0nraq.html"
+    },
+    {
+      "old": "leckek/fajlok/file_9kdvewt.htm",
+      "path": "exercitii/sfat-2.html",
+      "title": "Sfat 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_9kdvewt.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_9m0fmnt.htm",
+      "path": "exercitii/lectia-17-exercitiul-4.html",
+      "title": "Lecția 17, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_9m0fmnt.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_9mxgpnw.htm",
+      "path": "exercitii/invitatie-2.html",
+      "title": "Invitație 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_9mxgpnw.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_9ncdbi0.htm",
+      "path": "exercitii/regret-2.html",
+      "title": "Regret 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_9ncdbi0.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_9nyqk48.htm",
+      "path": "exercitii/lectia-22-exercitiul-4.html",
+      "title": "Lecția 22, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_9nyqk48.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_9prfwim.htm",
+      "path": "exercitii/sanatatea-5.html",
+      "title": "Sănătatea 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_9prfwim.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_9pxyunp.html",
+      "path": "exercitii/familia-4.html",
+      "title": "Familia 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_9pxyunp.html"
+    },
+    {
+      "old": "leckek/fajlok/file_9r5u0rw.htm",
+      "path": "exercitii/lectia-19-intelegerea-textului.html",
+      "title": "Lecția 19, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_9r5u0rw.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_a0jwded.htm",
+      "path": "exercitii/28-lecke-5.html",
+      "title": "28. lecke, 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_a0jwded.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_a2jnp8t.htm",
+      "path": "exercitii/lectia-32-exercitiul-4.html",
+      "title": "Lecția 32, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_a2jnp8t.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_a3x8ieq.html",
+      "path": "exercitii/calatoria-6.html",
+      "title": "Călătoria 6",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_a3x8ieq.html"
+    },
+    {
+      "old": "leckek/fajlok/file_a4airzf.htm",
+      "path": "exercitii/orasul-si-satul-4.html",
+      "title": "Orașul și satul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_a4airzf.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_adouabz.htm",
+      "path": "exercitii/propunere-3.html",
+      "title": "Propunere 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_adouabz.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_amqj3jg.htm",
+      "path": "exercitii/lectia-14-exercitiul-5.html",
+      "title": "Lecția 14, exercițiul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_amqj3jg.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_aqhfg18.html",
+      "path": "exercitii/lectia-38-exercitiul-2-varianta-2.html",
+      "title": "Lecția 38, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_aqhfg18.html"
+    },
+    {
+      "old": "leckek/fajlok/file_ascb69t.htm",
+      "path": "exercitii/lectia-24-exercitiul-4.html",
+      "title": "Lecția 24, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_ascb69t.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_auewq9c.htm",
+      "path": "exercitii/21-lecke-keresztrejtvny.html",
+      "title": "21. lecke, keresztrejtv�ny",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_auewq9c.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_b78862u.htm",
+      "path": "exercitii/timpul-liber-2.html",
+      "title": "Timpul liber 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_b78862u.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_bbwod2m.htm",
+      "path": "exercitii/lectia-7-exercitiul-3.html",
+      "title": "Lecția 7, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_bbwod2m.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_bgd1n8h.htm",
+      "path": "exercitii/ordin-3.html",
+      "title": "Ordin 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_bgd1n8h.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_blr1rh2.htm",
+      "path": "exercitii/24-lecke-2-gyakorlat.html",
+      "title": "24 lecke, 2. gyakorlat",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_blr1rh2.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_bmudhiu.html",
+      "path": "exercitii/lectia-38-intelegerea-textului.html",
+      "title": "Lecția 38, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_bmudhiu.html"
+    },
+    {
+      "old": "leckek/fajlok/file_bp08tdw.htm",
+      "path": "exercitii/lectia-35-exercitiul-1-varianta-2.html",
+      "title": "Lecția 35, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_bp08tdw.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_bpc40dq.htm",
+      "path": "exercitii/calatoria-3.html",
+      "title": "Călătoria 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_bpc40dq.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_bxy647v.htm",
+      "path": "exercitii/vehiculele-personale-4.html",
+      "title": "Vehiculele personale 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_bxy647v.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_bym8f2m.htm",
+      "path": "exercitii/lectia-27-intelegerea-textului.html",
+      "title": "Lecția 27, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_bym8f2m.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_c4uughr.htm",
+      "path": "exercitii/lectia-28-exercitiul-1.html",
+      "title": "Lecția 28, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_c4uughr.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_c8te1po.htm",
+      "path": "exercitii/starea-fizica-2.html",
+      "title": "Starea fizică 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_c8te1po.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_cbx3ir8.html",
+      "path": "exercitii/cum-e-vremea-1.html",
+      "title": "Cum e vremea? 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_cbx3ir8.html"
+    },
+    {
+      "old": "leckek/fajlok/file_cdxx4ly.html",
+      "path": "exercitii/lectia-20-intelegerea-textului.html",
+      "title": "Lecția 20, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_cdxx4ly.html"
+    },
+    {
+      "old": "leckek/fajlok/file_ciuvrh9.htm",
+      "path": "exercitii/lectia-21-exercitiul-2.html",
+      "title": "Lecția 21, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_ciuvrh9.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_cnq1mti.htm",
+      "path": "exercitii/lectia-7-exercitiul-1.html",
+      "title": "Lecția 7, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_cnq1mti.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_cuacxgq.htm",
+      "path": "exercitii/lectia-5-exercitiul-2.html",
+      "title": "Lecția 5, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_cuacxgq.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_cuvldal.htm",
+      "path": "exercitii/lectia-25-exercitiul-4.html",
+      "title": "Lecția 25, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_cuvldal.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_cweq8uu.html",
+      "path": "exercitii/cum-e-vremea-2.html",
+      "title": "Cum e vremea? 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_cweq8uu.html"
+    },
+    {
+      "old": "leckek/fajlok/file_cxc7une.html",
+      "path": "exercitii/intrus.html",
+      "title": "Intrus",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_cxc7une.html"
+    },
+    {
+      "old": "leckek/fajlok/file_cyw8bc6.htm",
+      "path": "exercitii/lectia-16-exercitiul-1-varianta-2.html",
+      "title": "Lecția 16, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_cyw8bc6.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_d3xo5m9.htm",
+      "path": "exercitii/lectia-34-exercitiul-3.html",
+      "title": "Lecția 34, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_d3xo5m9.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_d4uvgdd.htm",
+      "path": "exercitii/caracterul-si-sentimentele-1.html",
+      "title": "Caracterul și sentimentele 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_d4uvgdd.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_d5zor5c.htm",
+      "path": "exercitii/lectia-16-exercitiul-6.html",
+      "title": "Lecția 16, exercițiul 6",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_d5zor5c.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_d6n7vdm.html",
+      "path": "exercitii/alimente-si-bucatarie-1.html",
+      "title": "Alimente și bucătărie 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_d6n7vdm.html"
+    },
+    {
+      "old": "leckek/fajlok/file_d8xdl7e.htm",
+      "path": "exercitii/lectia-7-exercitiul-2.html",
+      "title": "Lecția 7, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_d8xdl7e.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_dd8r8uo.htm",
+      "path": "exercitii/lectia-30-exercitiul-1.html",
+      "title": "Lecția 30, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_dd8r8uo.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_ddlzzfc.htm",
+      "path": "exercitii/sarbatori-si-invitatii-4.html",
+      "title": "Sărbători și invitații 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_ddlzzfc.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_ddy8nys.html",
+      "path": "exercitii/lectia-29-exercitiul-6.html",
+      "title": "Lecția 29, exercițiul 6",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_ddy8nys.html"
+    },
+    {
+      "old": "leckek/fajlok/file_dstfvkp.html",
+      "path": "exercitii/cum-e-vremea-3.html",
+      "title": "Cum e vremea? 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_dstfvkp.html"
+    },
+    {
+      "old": "leckek/fajlok/file_dsxr647.html",
+      "path": "exercitii/lectia-19-exercitiul-3-varianta-2.html",
+      "title": "Lecția 19, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_dsxr647.html"
+    },
+    {
+      "old": "leckek/fajlok/file_dtn4kx0.htm",
+      "path": "exercitii/munca-4.html",
+      "title": "Munca 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_dtn4kx0.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_dvs65eu.htm",
+      "path": "exercitii/lectia-39-exercitiul-3.html",
+      "title": "Lecția 39, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_dvs65eu.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_dyotxn5.html",
+      "path": "exercitii/lectia-18-intelegerea-textului.html",
+      "title": "Lecția 18, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_dyotxn5.html"
+    },
+    {
+      "old": "leckek/fajlok/file_e416lkq.htm",
+      "path": "exercitii/11-lecke-keresztrejtvany.html",
+      "title": "11. lecke, keresztrejtvÃ©ny",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_e416lkq.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_eaw8cm2.htm",
+      "path": "exercitii/lectia-25-exercitiul-5-varianta-2.html",
+      "title": "Lecția 25, exercițiul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_eaw8cm2.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_ehle5cj.htm",
+      "path": "exercitii/lectia-21-exercitiul-4.html",
+      "title": "Lecția 21, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_ehle5cj.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_eomc8cg.htm",
+      "path": "exercitii/23-lecke-rejtett-szo.html",
+      "title": "23. lecke, rejtett szó",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_eomc8cg.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_f7hj6c5.htm",
+      "path": "exercitii/lectia-27-exercitiul-1.html",
+      "title": "Lecția 27, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_f7hj6c5.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_fb8dykm.htm",
+      "path": "exercitii/lectia-26-exercitiul-7.html",
+      "title": "Lecția 26, exercițiul 7",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_fb8dykm.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_fcdd4ic.html",
+      "path": "exercitii/lectia-19-exercitiul-2.html",
+      "title": "Lecția 19, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_fcdd4ic.html"
+    },
+    {
+      "old": "leckek/fajlok/file_fcp7rth.htm",
+      "path": "exercitii/lectia-9-exercitiul-1.html",
+      "title": "Lecția 9, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_fcp7rth.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_fgnf0xr.htm",
+      "path": "exercitii/lectia-10-exercitiul-2.html",
+      "title": "Lecția 10, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_fgnf0xr.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_fht6ww5.htm",
+      "path": "exercitii/sarbatori-si-invitatii-2.html",
+      "title": "Sărbători și invitații 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_fht6ww5.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_fka13g9.htm",
+      "path": "exercitii/lectia-39-exercitiul-6-varianta-2.html",
+      "title": "Lecția 39, exercițiul 6",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_fka13g9.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_fq54o7k.html",
+      "path": "exercitii/lectia-10-intelegerea-textului.html",
+      "title": "Lecția 10, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_fq54o7k.html"
+    },
+    {
+      "old": "leckek/fajlok/file_fqvvaoc.htm",
+      "path": "exercitii/placere-a-neplacere-1.html",
+      "title": "PlÄƒcere â€“ neplÄƒcere 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_fqvvaoc.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_fvh9355.htm",
+      "path": "exercitii/vehiculele-personale-5.html",
+      "title": "Vehiculele personale 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_fvh9355.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_fwbbgs6.html",
+      "path": "exercitii/lectia-30-document-suplimentar.html",
+      "title": "Lecția 30, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_fwbbgs6.html"
+    },
+    {
+      "old": "leckek/fajlok/file_g2v6wc1.htm",
+      "path": "exercitii/lecon-22-exercice-1.html",
+      "title": "Leçon 22, exercice 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_g2v6wc1.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_g4t3ij2.htm",
+      "path": "exercitii/lectia-14-exercitiul-4.html",
+      "title": "Lecția 14, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_g4t3ij2.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_g859249.htm",
+      "path": "exercitii/lectia-28-exercitiul-3.html",
+      "title": "Lecția 28, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_g859249.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_g8u9yhd.htm",
+      "path": "exercitii/lectia-35-exercitiul-2-varianta-2.html",
+      "title": "Lecția 35, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_g8u9yhd.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_gb333yn.htm",
+      "path": "exercitii/lectia-20-exercitiul-1.html",
+      "title": "Lecția 20, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_gb333yn.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_gbuqzpv.htm",
+      "path": "exercitii/lectia-9-exercitiul-1-varianta-2.html",
+      "title": "Lecția 9, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_gbuqzpv.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_gdox5fs.htm",
+      "path": "exercitii/lectia-36-exercitiul-2.html",
+      "title": "Lecția 36, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_gdox5fs.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_gpb38z8.htm",
+      "path": "exercitii/lectia-20-exercitiul-5.html",
+      "title": "Lecția 20, exercițiul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_gpb38z8.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_gq34lol.htm",
+      "path": "exercitii/interdictie-2.html",
+      "title": "Interdicție 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_gq34lol.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_gv915kt.htm",
+      "path": "exercitii/lectia-28-exercitiul-4-varianta-2.html",
+      "title": "Lecția 28, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_gv915kt.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_gw37j3p.htm",
+      "path": "exercitii/14-lecke-teszt.html",
+      "title": "14. lecke, teszt",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_gw37j3p.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_gwshmsq.html",
+      "path": "exercitii/lectia-25-gaseste-intrusul.html",
+      "title": "Lecția 25, găsește intrusul",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_gwshmsq.html"
+    },
+    {
+      "old": "leckek/fajlok/file_h11ac1o.htm",
+      "path": "exercitii/lectia-30-intelegerea-textului.html",
+      "title": "Lecția 30, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_h11ac1o.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_heq8k41.htm",
+      "path": "exercitii/lecon-22-exercice-1-varianta-2.html",
+      "title": "Leçon 22, exercice 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_heq8k41.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_hhmtvs8.htm",
+      "path": "exercitii/lectia-36-exercitiul-1.html",
+      "title": "Lecția 36, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_hhmtvs8.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_hou3xmy.htm",
+      "path": "exercitii/lecon-13-exercice-3.html",
+      "title": "Leçon 13, exercice 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_hou3xmy.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_htrxazf.htm",
+      "path": "exercitii/timpul-7.html",
+      "title": "Timpul 7",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_htrxazf.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_hvg0lkm.html",
+      "path": "exercitii/recapitulare-document-suplimentar-varianta-2.html",
+      "title": "Recapitulare — document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_hvg0lkm.html"
+    },
+    {
+      "old": "leckek/fajlok/file_hy0b0vh.htm",
+      "path": "exercitii/lectia-27-exercitiul-4.html",
+      "title": "Lecția 27, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_hy0b0vh.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_i0vd2v4.htm",
+      "path": "exercitii/lectia-15-exercitiul-2.html",
+      "title": "Lecția 15, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_i0vd2v4.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_i44by42.htm",
+      "path": "exercitii/lectia-22-exercitiul-2.html",
+      "title": "Lecția 22, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_i44by42.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_i4ecybf.html",
+      "path": "exercitii/insatisfactie-2.html",
+      "title": "insatisfacție 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_i4ecybf.html"
+    },
+    {
+      "old": "leckek/fajlok/file_i94ih17.html",
+      "path": "exercitii/lectia-26-intelegerea-textului.html",
+      "title": "Lecția 26, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_i94ih17.html"
+    },
+    {
+      "old": "leckek/fajlok/file_icbu9p9.htm",
+      "path": "exercitii/lectia-7-exercitiul-6.html",
+      "title": "Lecția 7, exercițiul 6",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_icbu9p9.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_ihkvaa1.htm",
+      "path": "exercitii/lectia-32-exercitiul-5.html",
+      "title": "Lecția 32, exercițiul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_ihkvaa1.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_ileg80f.htm",
+      "path": "exercitii/lectia-12-exercitiul-1-varianta-2.html",
+      "title": "Lecția 12, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_ileg80f.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_iprub6v.htm",
+      "path": "exercitii/sanatatea-2.html",
+      "title": "Sănătatea 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_iprub6v.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_itjh2hw.html",
+      "path": "exercitii/iesiri-2.html",
+      "title": "Ieșiri 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_itjh2hw.html"
+    },
+    {
+      "old": "leckek/fajlok/file_jky5mk5.htm",
+      "path": "exercitii/10-lecke-a-csalad.html",
+      "title": "10. lecke, A család",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_jky5mk5.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_jskitre.htm",
+      "path": "exercitii/lipsa-dorintei-2.html",
+      "title": "lipsa dorinței 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_jskitre.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_jxa2vnm.htm",
+      "path": "exercitii/lectia-32-exercitiul-3.html",
+      "title": "Lecția 32, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_jxa2vnm.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_jxiuq3w.htm",
+      "path": "exercitii/lectia-11-exercitiul-2.html",
+      "title": "Lecția 11, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_jxiuq3w.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_k31dtlv.htm",
+      "path": "exercitii/lectia-18-exercitiul-6.html",
+      "title": "Lecția 18, exercițiul 6",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_k31dtlv.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_k63rlx3.htm",
+      "path": "exercitii/interdictie-1.html",
+      "title": "Interdicție 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_k63rlx3.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_k6pcf9b.html",
+      "path": "exercitii/lectia-38-document-suplimentar.html",
+      "title": "Lecția 38, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_k6pcf9b.html"
+    },
+    {
+      "old": "leckek/fajlok/file_kemisjx.htm",
+      "path": "exercitii/sarbatori-si-invitatii-3.html",
+      "title": "Sărbători și invitații 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_kemisjx.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_koche8v.htm",
+      "path": "exercitii/lectia-34-exercitiul-2.html",
+      "title": "Lecția 34, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_koche8v.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_krhv5pc.htm",
+      "path": "exercitii/timpul-3.html",
+      "title": "Timpul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_krhv5pc.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_ks9eo1d.htm",
+      "path": "exercitii/lectia-21-exercitiul-5.html",
+      "title": "Lecția 21, exercițiul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_ks9eo1d.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_kwtycnn.htm",
+      "path": "exercitii/lectia-28-exercitiul-2.html",
+      "title": "Lecția 28, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_kwtycnn.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_l3jeawi.htm",
+      "path": "exercitii/lectia-6-exercitiul-2.html",
+      "title": "Lecția 6, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_l3jeawi.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_l6je5pk.htm",
+      "path": "exercitii/lectia-29-exercitiul-5.html",
+      "title": "Lecția 29, exercițiul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_l6je5pk.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_l6z6gvi.htm",
+      "path": "exercitii/lectia-37-intelegerea-textului.html",
+      "title": "Lecția 37, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_l6z6gvi.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_lfg0zif.htm",
+      "path": "exercitii/lectia-32-intelegerea-textului.html",
+      "title": "Lecția 32, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_lfg0zif.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_lhuwi1k.html",
+      "path": "exercitii/lectia-19-document-suplimentar-varianta-2.html",
+      "title": "Lecția 19, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_lhuwi1k.html"
+    },
+    {
+      "old": "leckek/fajlok/file_lkj6z3p.htm",
+      "path": "exercitii/lectia-15-exercitiul-3.html",
+      "title": "Lecția 15, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_lkj6z3p.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_lpb4c9z.html",
+      "path": "exercitii/lectia-25-intelegerea-textului.html",
+      "title": "Lecția 25, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_lpb4c9z.html"
+    },
+    {
+      "old": "leckek/fajlok/file_lpjnhay.htm",
+      "path": "exercitii/lectia-16-exercitiul-6-varianta-2.html",
+      "title": "Lecția 16, exercițiul 6",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_lpjnhay.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_lpshd9o.html",
+      "path": "exercitii/lectia-16-document-suplimentar.html",
+      "title": "Lecția 16, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_lpshd9o.html"
+    },
+    {
+      "old": "leckek/fajlok/file_luib3jf.htm",
+      "path": "exercitii/lectia-23-exercitiul-2.html",
+      "title": "Lecția 23, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_luib3jf.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_lwgx2e2.htm",
+      "path": "exercitii/lectia-16-intelegerea-textului.html",
+      "title": "Lecția 16, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_lwgx2e2.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_m0s5jbb.htm",
+      "path": "exercitii/lectia-15-exercitiul-1.html",
+      "title": "Lecția 15, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_m0s5jbb.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_m3d6d0j.html",
+      "path": "exercitii/orasul-si-satul-1.html",
+      "title": "Orașul și satul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_m3d6d0j.html"
+    },
+    {
+      "old": "leckek/fajlok/file_m4r02kj.htm",
+      "path": "exercitii/lectia-27-exercitiul-3-varianta-2.html",
+      "title": "Lecția 27, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_m4r02kj.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_m5wx9km.html",
+      "path": "exercitii/lectia-17-document-suplimentar.html",
+      "title": "Lecția 17, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_m5wx9km.html"
+    },
+    {
+      "old": "leckek/fajlok/file_m6n7mjh.htm",
+      "path": "exercitii/lectia-8-intelegerea-textului.html",
+      "title": "Lecția 8, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_m6n7mjh.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_m8dx0q2.htm",
+      "path": "exercitii/24-lecke-2-gyakorlat-varianta-2.html",
+      "title": "24 lecke, 2. gyakorlat",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_m8dx0q2.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_m9ca9qu.htm",
+      "path": "exercitii/lectia-35-exercitiul-3.html",
+      "title": "Lecția 35, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_m9ca9qu.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_m9dbwrq.htm",
+      "path": "exercitii/lectia-26-exercitiul-4.html",
+      "title": "Lecția 26, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_m9dbwrq.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_mbdhzop.htm",
+      "path": "exercitii/lectia-24-exercitiul-4-varianta-2.html",
+      "title": "Lecția 24, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_mbdhzop.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_md4w8zs.htm",
+      "path": "exercitii/lectia-26-exercitiul-5.html",
+      "title": "Lecția 26, exercițiul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_md4w8zs.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_mgri5bt.htm",
+      "path": "exercitii/lectia-14-exercitiul-1.html",
+      "title": "Lecția 14, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_mgri5bt.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_mj15fle.htm",
+      "path": "exercitii/lectia-31-exercitiul-2-varianta-2.html",
+      "title": "Lecția 31, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_mj15fle.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_mlom5eb.htm",
+      "path": "exercitii/lectia-16-exercitiul-5.html",
+      "title": "Lecția 16, exercițiul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_mlom5eb.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_muapkag.htm",
+      "path": "exercitii/lectia-16-exercitiul-4.html",
+      "title": "Lecția 16, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_muapkag.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_mvaop99.html",
+      "path": "exercitii/lectia-36-exercitiul-3.html",
+      "title": "Lecția 36, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_mvaop99.html"
+    },
+    {
+      "old": "leckek/fajlok/file_mw82p3m.htm",
+      "path": "exercitii/lectia-14-exercitiul-7.html",
+      "title": "Lecția 14, exercițiul 7",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_mw82p3m.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_n0ei2ch.htm",
+      "path": "exercitii/lectia-14-exercitiul-6.html",
+      "title": "Lecția 14, exercițiul 6",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_n0ei2ch.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_n211zwb.htm",
+      "path": "exercitii/lectia-15-intelegerea-textului.html",
+      "title": "Lecția 15, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_n211zwb.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_n30kawi.htm",
+      "path": "exercitii/lectia-25-exercitiul-4-varianta-2.html",
+      "title": "Lecția 25, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_n30kawi.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_n72fl6o.htm",
+      "path": "exercitii/evaluare-2.html",
+      "title": "Evaluare 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_n72fl6o.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_ned1vj3.html",
+      "path": "exercitii/insatisfactie-1.html",
+      "title": "insatisfacție 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_ned1vj3.html"
+    },
+    {
+      "old": "leckek/fajlok/file_nficiu8.html",
+      "path": "exercitii/lectia-13-intelegerea-textului.html",
+      "title": "Lecția 13, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_nficiu8.html"
+    },
+    {
+      "old": "leckek/fajlok/file_nowfkql.htm",
+      "path": "exercitii/lectia-29-exercitiul-4.html",
+      "title": "Lecția 29, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_nowfkql.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_nu5nb5s.html",
+      "path": "exercitii/propunere-1.html",
+      "title": "Propunere 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_nu5nb5s.html"
+    },
+    {
+      "old": "leckek/fajlok/file_nwuqma2.htm",
+      "path": "exercitii/lectia-32-exercitiul-1.html",
+      "title": "Lecția 32, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_nwuqma2.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_o306x2o.htm",
+      "path": "exercitii/lectia-36-exercitiul-3-varianta-2.html",
+      "title": "Lecția 36, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_o306x2o.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_o5edwqr.htm",
+      "path": "exercitii/lectia-18-exercitiul-1-varianta-2.html",
+      "title": "Lecția 18, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_o5edwqr.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_o97pamu.html",
+      "path": "exercitii/lectia-39-exercitiul-5-varianta-2.html",
+      "title": "Lecția 39, exercițiul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_o97pamu.html"
+    },
+    {
+      "old": "leckek/fajlok/file_obhkb6g.html",
+      "path": "exercitii/25-lecke-enek.html",
+      "title": "25. lecke, ének",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_obhkb6g.html"
+    },
+    {
+      "old": "leckek/fajlok/file_oeccrai.htm",
+      "path": "exercitii/lectia-27-exercitiul-4-varianta-2.html",
+      "title": "Lecția 27, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_oeccrai.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_oi2o5h7.html",
+      "path": "exercitii/starea-psihica-1.html",
+      "title": "Starea psihică 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_oi2o5h7.html"
+    },
+    {
+      "old": "leckek/fajlok/file_oih184a.htm",
+      "path": "exercitii/lectia-36-intelegerea-textului.html",
+      "title": "Lecția 36, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_oih184a.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_ojrigwd.html",
+      "path": "exercitii/salut-1.html",
+      "title": "Salut 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_ojrigwd.html"
+    },
+    {
+      "old": "leckek/fajlok/file_omqkdnh.htm",
+      "path": "exercitii/lectia-29-exercitiul-7.html",
+      "title": "Lecția 29, exercițiul 7",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_omqkdnh.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_on7bzw8.html",
+      "path": "exercitii/indicatie-spatiala-1.html",
+      "title": "Indicație spațială 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_on7bzw8.html"
+    },
+    {
+      "old": "leckek/fajlok/file_ot4h0b3.htm",
+      "path": "exercitii/lectia-17-exercitiul-5.html",
+      "title": "Lecția 17, exercițiul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_ot4h0b3.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_otcx3bn.htm",
+      "path": "exercitii/lectia-20-exercitiul-3-varianta-2.html",
+      "title": "Lecția 20, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_otcx3bn.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_ov6qhkz.htm",
+      "path": "exercitii/lectia-35-exercitiul-3-varianta-2.html",
+      "title": "Lecția 35, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_ov6qhkz.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_owrqh7j.html",
+      "path": "exercitii/lectia-7-testul-2.html",
+      "title": "Lecția 7, testul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_owrqh7j.html"
+    },
+    {
+      "old": "leckek/fajlok/file_ozsgq8c.htm",
+      "path": "exercitii/munca-3.html",
+      "title": "Munca 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_ozsgq8c.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_p1tj80t.html",
+      "path": "exercitii/starea-fizica-1.html",
+      "title": "Starea fizică 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_p1tj80t.html"
+    },
+    {
+      "old": "leckek/fajlok/file_pgfjxyc.html",
+      "path": "exercitii/lectia-34-intelegerea-textului.html",
+      "title": "Lecția 34, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_pgfjxyc.html"
+    },
+    {
+      "old": "leckek/fajlok/file_pgx78zs.htm",
+      "path": "exercitii/lectia-9-exercitiul-2.html",
+      "title": "Lecția 9, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_pgx78zs.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_pk535or.html",
+      "path": "exercitii/evaluare-1.html",
+      "title": "Evaluare 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_pk535or.html"
+    },
+    {
+      "old": "leckek/fajlok/file_pv1zq0k.htm",
+      "path": "exercitii/lectia-7-exercitiul-5.html",
+      "title": "Lecția 7, exercițiul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_pv1zq0k.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_q44c4g1.htm",
+      "path": "exercitii/lectia-27-document-suplimentar.html",
+      "title": "Lecția 27, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_q44c4g1.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_q78uerz.htm",
+      "path": "exercitii/insatisfactie-4.html",
+      "title": "insatisfacție 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_q78uerz.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_q7a22s5.htm",
+      "path": "exercitii/lectia-20-exercitiul-4.html",
+      "title": "Lecția 20, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_q7a22s5.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_q7vpwrf.html",
+      "path": "exercitii/lectia-12-intelegerea-textului.html",
+      "title": "Lecția 12, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_q7vpwrf.html"
+    },
+    {
+      "old": "leckek/fajlok/file_q9gm7rs.htm",
+      "path": "exercitii/lectia-33-exercitiul-1.html",
+      "title": "Lecția 33, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_q9gm7rs.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_qb7zdbw.htm",
+      "path": "exercitii/lectia-9-exercitiul-1-varianta-3.html",
+      "title": "Lecția 9, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_qb7zdbw.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_qgxk1wp.htm",
+      "path": "exercitii/lectia-23-exercitiul-5.html",
+      "title": "Lecția 23, exercițiul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_qgxk1wp.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_qh3jl88.htm",
+      "path": "exercitii/indicatie-spatiala-2.html",
+      "title": "Indicație spațială 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_qh3jl88.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_qizwsd3.html",
+      "path": "exercitii/insatisfactie-5.html",
+      "title": "insatisfacție 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_qizwsd3.html"
+    },
+    {
+      "old": "leckek/fajlok/file_qk3fuvb.html",
+      "path": "exercitii/lectia-19-exercitiul-2-varianta-2.html",
+      "title": "Lecția 19, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_qk3fuvb.html"
+    },
+    {
+      "old": "leckek/fajlok/file_qkup7pf.htm",
+      "path": "exercitii/lectia-25-exercitiul-3.html",
+      "title": "Lecția 25, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_qkup7pf.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_qpnl3q7.htm",
+      "path": "exercitii/lectia-33-exercitiul-1-varianta-2.html",
+      "title": "Lecția 33, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_qpnl3q7.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_qu4dgpr.htm",
+      "path": "exercitii/lectia-26-exercitiul-3.html",
+      "title": "Lecția 26, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_qu4dgpr.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_qx7xmjh.htm",
+      "path": "exercitii/lecon-26-exercice-2.html",
+      "title": "Leçon 26, exercice 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_qx7xmjh.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_r0ly7vu.htm",
+      "path": "exercitii/lectia-28-exercitiul-3-varianta-2.html",
+      "title": "Lecția 28, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_r0ly7vu.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_r51a4zy.htm",
+      "path": "exercitii/31-lecke-keresztrejtvny.html",
+      "title": "31. lecke, keresztrejtv�ny",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_r51a4zy.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_r555ulf.htm",
+      "path": "exercitii/lectia-22-exercitiul-9.html",
+      "title": "Lecția 22, exercițiul 9",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_r555ulf.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_r6m4lmr.html",
+      "path": "exercitii/repros-iertare-1.html",
+      "title": "Reproș, iertare 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_r6m4lmr.html"
+    },
+    {
+      "old": "leckek/fajlok/file_r7dsqtm.htm",
+      "path": "exercitii/lectia-37-exercitiul-1.html",
+      "title": "Lecția 37, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_r7dsqtm.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_r9s658b.htm",
+      "path": "exercitii/lectia-19-exercitiul-4.html",
+      "title": "Lecția 19, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_r9s658b.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_rauv7oi.htm",
+      "path": "exercitii/lectia-20-exercitiul-6.html",
+      "title": "Lecția 20, exercițiul 6",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_rauv7oi.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_rep8cp0.htm",
+      "path": "exercitii/lectia-20-exercitiul-8-varianta-2.html",
+      "title": "Lecția 20, exercițiul 8",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_rep8cp0.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_rt3xhwu.htm",
+      "path": "exercitii/lectia-31-intelegerea-textului.html",
+      "title": "Lecția 31, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_rt3xhwu.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_rucur7t.htm",
+      "path": "exercitii/lectia-23-exercitiul-4.html",
+      "title": "Lecția 23, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_rucur7t.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_rvhx8q1.htm",
+      "path": "exercitii/lectia-7-testul-1.html",
+      "title": "Lecția 7, testul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_rvhx8q1.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_rydarzf.htm",
+      "path": "exercitii/lectia-23-exercitiul-3.html",
+      "title": "Lecția 23, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_rydarzf.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_rzdasva.html",
+      "path": "exercitii/lectia-31-document-suplimentar.html",
+      "title": "Lecția 31, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_rzdasva.html"
+    },
+    {
+      "old": "leckek/fajlok/file_s2hqocr.htm",
+      "path": "exercitii/opinie-1.html",
+      "title": "Opinie 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_s2hqocr.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_s6ueodz.htm",
+      "path": "exercitii/lectia-8-document-suplimentar.html",
+      "title": "Lecția 8, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_s6ueodz.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_s7fh8aj.html",
+      "path": "exercitii/lectia-36-document-suplimentar.html",
+      "title": "Lecția 36, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_s7fh8aj.html"
+    },
+    {
+      "old": "leckek/fajlok/file_scgolwa.htm",
+      "path": "exercitii/evaluation-2.html",
+      "title": "Évaluation 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_scgolwa.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_sclpkbq.html",
+      "path": "exercitii/alimente-si-bucatarie-2.html",
+      "title": "Alimente și bucătărie 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_sclpkbq.html"
+    },
+    {
+      "old": "leckek/fajlok/file_sd85yrp.htm",
+      "path": "exercitii/lectia-18-exercitiul-3.html",
+      "title": "Lecția 18, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_sd85yrp.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_ses5gzt.htm",
+      "path": "exercitii/poetmta-etmi-telecomunicaeiile-2.html",
+      "title": "PoÈ™ta È™i telecomunicaÈ›iile 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_ses5gzt.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_slrotsl.htm",
+      "path": "exercitii/lectia-34-document-suplimentar.html",
+      "title": "Lecția 34, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_slrotsl.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_smprr0e.htm",
+      "path": "exercitii/sanatatea-6.html",
+      "title": "Sănătatea 6",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_smprr0e.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_snkcllw.html",
+      "path": "exercitii/25-lecke-nevessunk-egy-kicsit.html",
+      "title": "25. lecke, Nevessünk egy kicsit",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_snkcllw.html"
+    },
+    {
+      "old": "leckek/fajlok/file_sql9uu9.htm",
+      "path": "exercitii/lectia-1-exercitiul-1-varianta-3.html",
+      "title": "Lecția 1, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_sql9uu9.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_sv8zhj7.html",
+      "path": "exercitii/lectia-20-exercitiul-10.html",
+      "title": "Lecția 20, exercițiul 10",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_sv8zhj7.html"
+    },
+    {
+      "old": "leckek/fajlok/file_sz0mk9u.htm",
+      "path": "exercitii/lectia-1-exercitiul-1-varianta-4.html",
+      "title": "Lecția 1, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_sz0mk9u.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_szo590v.html",
+      "path": "exercitii/prezentare-1.html",
+      "title": "Prezentare 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_szo590v.html"
+    },
+    {
+      "old": "leckek/fajlok/file_t1ox150.htm",
+      "path": "exercitii/lectia-7-exercitiul-3-varianta-2.html",
+      "title": "Lecția 7, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_t1ox150.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_t21n6ob.html",
+      "path": "exercitii/lectia-21-intelegerea-textului.html",
+      "title": "Lecția 21, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_t21n6ob.html"
+    },
+    {
+      "old": "leckek/fajlok/file_t4l8ukq.htm",
+      "path": "exercitii/lectia-12-exercitiul-2.html",
+      "title": "Lecția 12, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_t4l8ukq.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_t4m5ra8.htm",
+      "path": "exercitii/lectia-31-exercitiul-4.html",
+      "title": "Lecția 31, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_t4m5ra8.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_tc01hyp.htm",
+      "path": "exercitii/lectia-29-exercitiul-5-varianta-2.html",
+      "title": "Lecția 29, exercițiul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_tc01hyp.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_tc7xjgh.html",
+      "path": "exercitii/lectia-17-intelegerea-textului.html",
+      "title": "Lecția 17, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_tc7xjgh.html"
+    },
+    {
+      "old": "leckek/fajlok/file_te4cw8m.htm",
+      "path": "exercitii/lectia-30-exercitiul-4.html",
+      "title": "Lecția 30, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_te4cw8m.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_tjy2x0k.htm",
+      "path": "exercitii/lectia-16-exercitiul-2.html",
+      "title": "Lecția 16, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_tjy2x0k.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_tkzqoml.html",
+      "path": "exercitii/lectia-23-document-suplimentar.html",
+      "title": "Lecția 23, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_tkzqoml.html"
+    },
+    {
+      "old": "leckek/fajlok/file_tlsed7d.html",
+      "path": "exercitii/conversatie-cuvant-1.html",
+      "title": "Conversație, cuvânt 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_tlsed7d.html"
+    },
+    {
+      "old": "leckek/fajlok/file_tsz7pxf.htm",
+      "path": "exercitii/lectia-29-exercitiul-1.html",
+      "title": "Lecția 29, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_tsz7pxf.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_tx7byae.htm",
+      "path": "exercitii/lectia-17-exercitiul-6.html",
+      "title": "Lecția 17, exercițiul 6",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_tx7byae.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_u40d8oi.htm",
+      "path": "exercitii/lectia-19-exercitiul-5.html",
+      "title": "Lecția 19, exercițiul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_u40d8oi.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_u79bhwf.htm",
+      "path": "exercitii/lectia-16-exercitiul-3.html",
+      "title": "Lecția 16, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_u79bhwf.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_udzoqsz.htm",
+      "path": "exercitii/lectia-29-exercitiul-3.html",
+      "title": "Lecția 29, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_udzoqsz.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_ui8f6ul.htm",
+      "path": "exercitii/lectia-1-exercitiul-2.html",
+      "title": "Lecția 1, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_ui8f6ul.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_uigw6ay.htm",
+      "path": "exercitii/cerere-2.html",
+      "title": "Cerere 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_uigw6ay.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_uiqna7o.html",
+      "path": "exercitii/lectia-12-document-suplimentar.html",
+      "title": "Lecția 12, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_uiqna7o.html"
+    },
+    {
+      "old": "leckek/fajlok/file_urujm2j.htm",
+      "path": "exercitii/13-lecke-keresztrejtveny.html",
+      "title": "13. lecke, keresztrejtvény",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_urujm2j.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_uswv9ep.htm",
+      "path": "exercitii/lectia-9-exercitiul-1-varianta-4.html",
+      "title": "Lecția 9, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_uswv9ep.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_uzjuhgi.htm",
+      "path": "exercitii/conversaeie-cuvant-2.html",
+      "title": "ConversaÈ›ie, cuvÃ¢nt 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_uzjuhgi.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_v1z1g0o.htm",
+      "path": "exercitii/lectia-11-intelegerea-textului.html",
+      "title": "Lecția 11, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_v1z1g0o.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_v9hi5vl.htm",
+      "path": "exercitii/lectia-30-exercitiul-3.html",
+      "title": "Lecția 30, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_v9hi5vl.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_viq8063.htm",
+      "path": "exercitii/lectia-28-intelegerea-textului.html",
+      "title": "Lecția 28, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_viq8063.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_vp1wr49.htm",
+      "path": "exercitii/locuinta-1.html",
+      "title": "Locuința 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_vp1wr49.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_vphxmlh.htm",
+      "path": "exercitii/lectia-18-exercitiul-4.html",
+      "title": "Lecția 18, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_vphxmlh.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_vrxttmn.htm",
+      "path": "exercitii/lectia-39-exercitiul-2.html",
+      "title": "Lecția 39, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_vrxttmn.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_vs3g9cn.html",
+      "path": "exercitii/lectia-10-document-suplimentar.html",
+      "title": "Lecția 10, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_vs3g9cn.html"
+    },
+    {
+      "old": "leckek/fajlok/file_vslabah.html",
+      "path": "exercitii/cerere-1.html",
+      "title": "Cerere 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_vslabah.html"
+    },
+    {
+      "old": "leckek/fajlok/file_vsoenqv.htm",
+      "path": "exercitii/iesiri-1.html",
+      "title": "Ieșiri 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_vsoenqv.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_vuuw7po.html",
+      "path": "exercitii/regret-1.html",
+      "title": "Regret 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_vuuw7po.html"
+    },
+    {
+      "old": "leckek/fajlok/file_vvcejyq.htm",
+      "path": "exercitii/lectia-19-exercitiul-1.html",
+      "title": "Lecția 19, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_vvcejyq.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_w0tl73m.htm",
+      "path": "exercitii/lectia-23-exercitiul-1.html",
+      "title": "Lecția 23, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_w0tl73m.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_w56dr2x.html",
+      "path": "exercitii/lectia-39-exercitiul-4.html",
+      "title": "Lecția 39, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_w56dr2x.html"
+    },
+    {
+      "old": "leckek/fajlok/file_w8qkpnf.htm",
+      "path": "exercitii/lectia-13-exercitiul-2.html",
+      "title": "Lecția 13, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_w8qkpnf.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_w98j979.htm",
+      "path": "exercitii/lectia-20-exercitiul-7-varianta-2.html",
+      "title": "Lecția 20, exercițiul 7",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_w98j979.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_wfoeue8.htm",
+      "path": "exercitii/lectia-14-exercitiul-2.html",
+      "title": "Lecția 14, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_wfoeue8.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_wo5qls9.htm",
+      "path": "exercitii/lectia-22-exercitiul-7.html",
+      "title": "Lecția 22, exercițiul 7",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_wo5qls9.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_wprqnqk.htm",
+      "path": "exercitii/lectia-4-exercitiul-1.html",
+      "title": "Lecția 4, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_wprqnqk.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_wrnhg2v.html",
+      "path": "exercitii/lectia-39-exercitiul-4-varianta-2.html",
+      "title": "Lecția 39, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_wrnhg2v.html"
+    },
+    {
+      "old": "leckek/fajlok/file_ws9ofyo.htm",
+      "path": "exercitii/lectia-13-exercitiul-1.html",
+      "title": "Lecția 13, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_ws9ofyo.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_wxnskxn.htm",
+      "path": "exercitii/lectia-37-exercitiul-2.html",
+      "title": "Lecția 37, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_wxnskxn.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_x4spym1.htm",
+      "path": "exercitii/lectia-38-exercitiul-1.html",
+      "title": "Lecția 38, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_x4spym1.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_x5usnhg.htm",
+      "path": "exercitii/lectia-23-exercitiul-2-varianta-2.html",
+      "title": "Lecția 23, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_x5usnhg.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_x91bsov.html",
+      "path": "exercitii/lectia-37-documente-suplimentare.html",
+      "title": "Lecția 37, documente suplimentare",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_x91bsov.html"
+    },
+    {
+      "old": "leckek/fajlok/file_xb2ib88.htm",
+      "path": "exercitii/lectia-24-intelegerea-textului.html",
+      "title": "Lecția 24, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_xb2ib88.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_xhcq0a7.htm",
+      "path": "exercitii/lectia-12-exercitiul-3.html",
+      "title": "Lecția 12, exercițiul 3",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_xhcq0a7.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_xj2gupw.htm",
+      "path": "exercitii/felicitare-urari-2.html",
+      "title": "Felicitare, urări 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_xj2gupw.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_xjugg0o.htm",
+      "path": "exercitii/16-lecke-keresztrejtveny.html",
+      "title": "16. lecke, keresztrejtvény",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_xjugg0o.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_xw4cgcn.htm",
+      "path": "exercitii/sfat-1.html",
+      "title": "Sfat 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_xw4cgcn.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_xwz6lpq.htm",
+      "path": "exercitii/lectia-25-exercitiul-2.html",
+      "title": "Lecția 25, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_xwz6lpq.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_y1io5zt.htm",
+      "path": "exercitii/lectia-30-exercitiul-2.html",
+      "title": "Lecția 30, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_y1io5zt.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_y34m4as.htm",
+      "path": "exercitii/32-lecke-rejtett-szo.html",
+      "title": "32. lecke, rejtett szó",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_y34m4as.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_yaot26k.html",
+      "path": "exercitii/lectia-35-intelegerea-textului.html",
+      "title": "Lecția 35, înțelegerea textului",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_yaot26k.html"
+    },
+    {
+      "old": "leckek/fajlok/file_yb6mzrq.htm",
+      "path": "exercitii/timpul-liber-1.html",
+      "title": "Timpul liber 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_yb6mzrq.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_ycsc4ba.htm",
+      "path": "exercitii/lectia-13-exercitiul-4.html",
+      "title": "Lecția 13, exercițiul 4",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_ycsc4ba.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_yicw8n6.html",
+      "path": "exercitii/lectia-21-document-suplimentar.html",
+      "title": "Lecția 21, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_yicw8n6.html"
+    },
+    {
+      "old": "leckek/fajlok/file_ykrb4lt.htm",
+      "path": "exercitii/timpul-5.html",
+      "title": "Timpul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_ykrb4lt.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_ysaoawb.htm",
+      "path": "exercitii/lectia-20-exercitiul-9.html",
+      "title": "Lecția 20, exercițiul 9",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_ysaoawb.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_yumnerq.htm",
+      "path": "exercitii/permisiune-2.html",
+      "title": "Permisiune 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_yumnerq.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_yx6f11c.htm",
+      "path": "exercitii/lectia-17-exercitiul-1.html",
+      "title": "Lecția 17, exercițiul 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_yx6f11c.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_z6rxpnm.htm",
+      "path": "exercitii/lectia-19-exercitiul-5-varianta-2.html",
+      "title": "Lecția 19, exercițiul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_z6rxpnm.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_z6yk3v8.html",
+      "path": "exercitii/lectia-36-exercitiul-2-varianta-2.html",
+      "title": "Lecția 36, exercițiul 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_z6yk3v8.html"
+    },
+    {
+      "old": "leckek/fajlok/file_za5giea.htm",
+      "path": "exercitii/felicitare-urari-1.html",
+      "title": "Felicitare, urări 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_za5giea.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_za6y881.htm",
+      "path": "exercitii/alimente-si-bucatarie-2-varianta-2.html",
+      "title": "Alimente și bucătărie 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_za6y881.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_zdl15gl.html",
+      "path": "exercitii/admiratie-1.html",
+      "title": "Admirație 1",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_zdl15gl.html"
+    },
+    {
+      "old": "leckek/fajlok/file_zgh2w6w.htm",
+      "path": "exercitii/orasul-si-satul-5.html",
+      "title": "Orașul și satul 5",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_zgh2w6w.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_zmv1d1p.html",
+      "path": "exercitii/propunere-2.html",
+      "title": "Propunere 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_zmv1d1p.html"
+    },
+    {
+      "old": "leckek/fajlok/file_zo89o42.htm",
+      "path": "exercitii/lectia-22-exercitiul-8.html",
+      "title": "Lecția 22, exercițiul 8",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_zo89o42.htm"
+    },
+    {
+      "old": "leckek/fajlok/file_zocwft1.html",
+      "path": "exercitii/lectia-13-document-suplimentar.html",
+      "title": "Lecția 13, document suplimentar",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_zocwft1.html"
+    },
+    {
+      "old": "leckek/fajlok/file_zv0aynp.html",
+      "path": "exercitii/35-lecke-rejtett-szo.html",
+      "title": "35. lecke, rejtett szó",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_zv0aynp.html"
+    },
+    {
+      "old": "leckek/fajlok/file_zyxz6ps.html",
+      "path": "exercitii/studiile-2.html",
+      "title": "Studiile 2",
+      "group": "exercitii",
+      "number": null,
+      "source_url": "https://www.nebulo.ro/leckek/fajlok/file_zyxz6ps.html"
+    }
+  ],
+  "exercise_types": {
+    "completare": 234,
+    "clasificare": 5,
+    "rebus adaptat": 28,
+    "lectură suplimentară": 28,
+    "asociere": 25,
+    "ordonare": 10,
+    "alegere multiplă": 41
+  },
+  "issues": []
+}

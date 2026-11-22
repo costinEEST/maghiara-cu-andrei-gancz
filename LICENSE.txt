@@ -1,0 +1,20 @@
+Educational content and adaptations in this edition are licensed under
+Creative Commons Attribution-ShareAlike 3.0 Romania (CC BY-SA 3.0 RO).
+License: https://creativecommons.org/licenses/by-sa/3.0/ro/
+
+Original source: https://www.nebulo.ro/ (a project of Lkozma.net).
+Original credited contributors: László Kozma; András (Andrei) Gancz;
+Judit Kozma (Vass); Ágnes Kozma.
+
+The András course is a Romanian adaptation of Le hongrois avec András.
+Each educational page includes a link to its original source. This edition
+adapts layout, navigation, instructions and exercise presentation. Adaptation
+contributions are distributed under the same license.
+
+Third-party works, trademarks and externally linked material remain subject
+to their respective owners' rights. No endorsement by the original authors
+is implied. See referinte/despre-editie.html for attribution and changes.
+
+The self-hosted Literata font files are separately licensed under the
+SIL Open Font License 1.1 by The Literata Project Authors / TypeTogether.
+The complete font license is in assets/fonts/literata/OFL.txt.
