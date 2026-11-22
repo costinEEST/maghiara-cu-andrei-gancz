@@ -44,6 +44,9 @@ automată, completează sau alege răspunsurile și apasă **„Verifică răspu
 cu puține variante le afișează direct și permit o singură alegere. Accentele maghiare
 contează: `o`, `ö` și `ő` sunt litere diferite.
 
+În exercițiile de completare, scrie în câmpurile subliniate din propoziții. Câmpul se
+lărgește pe măsură ce scrii. Unele exerciții oferă liste cu variante de răspuns.
+
 Pentru folosire locală, din directorul proiectului:
 
 ```sh

@@ -37,6 +37,13 @@ and counts as one graded question. Keep cloze, matching/ordering and long lists
 as selects. `tools/convert_choices.py` audits or converts these sources explicitly;
 preserve all accepted alternative answers and the source question/language markup.
 
+Sentence gaps use inline, underlined `.cloze-input` fields or authored cloze
+dropdowns. Size fields from typed/selected text, never from the hidden answer key.
+Keep the visible focus treatment and forced-colors fallback. Put visible grading
+feedback after the sentence, not between a Hungarian stem and its suffix.
+`tools/inline_cloze.py` audits or explicitly normalizes layout-only tables;
+preserve bilingual comparisons, conjugation matrices, nested tables and images.
+
 Typography uses self-hosted Literata (normal/italic WOFF2, SIL OFL in
 `assets/fonts/literata/`). Keep both fonts in the service-worker shell and offline
 inventory. Fluid font sizes use `progress(100vi, 400px, 1200px)` with rem outputs

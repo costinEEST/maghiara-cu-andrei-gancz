@@ -56,6 +56,16 @@ if (search) {
 // Accents matter in Hungarian: ő and ö must never be treated as equivalent.
 const normalizeAnswer = (value) =>
   value.normalize("NFC").toLocaleLowerCase("hu").replace(/\s+/g, " ").trim();
+const resizeCloze = (field) => {
+  const minimum = field.tagName === "SELECT" ? 6 : 12;
+  const length = [...field.value.normalize("NFC")].length + 2;
+  field.style.setProperty("--gap-width", `${Math.max(minimum, Math.min(60, length))}ch`);
+};
+document.querySelectorAll(".cloze-input, select[data-cloze]").forEach((field) => {
+  resizeCloze(field);
+  field.addEventListener("input", () => resizeCloze(field));
+  field.addEventListener("change", () => resizeCloze(field));
+});
 const check = document.querySelector("[data-check]");
 if (check) {
   const fields = [...document.querySelectorAll("[data-answers]")];
@@ -113,7 +123,18 @@ if (check) {
         [descriptions.get(field), result.id].filter(Boolean).join(" "),
       );
       if (field.matches("[data-choice]")) field.append(result);
-      else field.insertAdjacentElement("afterend", result);
+      else if (field.matches(".cloze-input, select[data-cloze]")) {
+        const host = field.closest(".cloze-item, td, p") || field.parentElement;
+        if (valid) result.classList.add("visually-hidden");
+        else {
+          const link = document.createElement("a");
+          link.href = `#${field.id}`;
+          const number = field.id.match(/\d+$/);
+          link.textContent = number ? `Spațiul ${Number(number[0]) + 1}` : "Răspuns";
+          result.prepend(link, ": ");
+        }
+        host.append(result);
+      } else field.insertAdjacentElement("afterend", result);
     });
     status.textContent = `${correct} din ${checked} răspunsuri corecte.${answered < checked ? " Mai sunt răspunsuri necompletate." : ""}`;
     const invalid = fields.find((field) => field.getAttribute("aria-invalid") === "true");
@@ -127,6 +148,7 @@ if (check) {
           radio.checked = false;
         });
       } else field.value = "";
+      if (field.matches(".cloze-input, select[data-cloze]")) resizeCloze(field);
     });
     document.querySelectorAll(".solutions").forEach((details) => {
       details.open = false;

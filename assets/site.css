@@ -220,6 +220,61 @@ select[data-cloze] {
   width: auto;
   margin-block: 0.25rem;
 }
+input.cloze-input,
+select[data-cloze] {
+  display: inline-block;
+  inline-size: var(--gap-width, 12ch);
+  max-inline-size: 100%;
+  min-inline-size: 0;
+  min-block-size: 2.75rem;
+  margin-block: 0.15rem;
+  padding: 0.2rem 0.3rem;
+  border: 0;
+  border-block-end: 2px solid #60796d;
+  border-radius: 0;
+  background: transparent;
+  font: inherit;
+  font-size: max(1rem, 1em);
+  vertical-align: baseline;
+}
+select[data-cloze] {
+  inline-size: var(--gap-width, 6ch);
+}
+input.cloze-input:focus-visible,
+select[data-cloze]:focus-visible {
+  outline: none;
+  border-block-end: 4px solid var(--green);
+  background: var(--soft);
+}
+.cloze-input[aria-invalid="true"],
+select[data-cloze][aria-invalid="true"] {
+  border: 0;
+  border-block-end: 3px solid #a12525;
+}
+input.cloze-input[aria-invalid="true"]:focus-visible,
+select[data-cloze][aria-invalid="true"]:focus-visible {
+  border-block-end: 4px solid #a12525;
+}
+@media (forced-colors: active) {
+  input.cloze-input:focus-visible,
+  select[data-cloze]:focus-visible {
+    outline: 2px solid Highlight;
+    outline-offset: 2px;
+  }
+}
+.cloze-item {
+  margin-block: 1.5rem;
+  min-inline-size: 0;
+}
+.cloze-item > .cloze-number {
+  margin: 0 0 0.35rem;
+  font-weight: 650;
+  color: var(--green);
+}
+.cloze-line {
+  line-height: 2;
+  overflow-wrap: anywhere;
+}
 button,
 .button {
   border: 1px solid var(--green);

@@ -113,6 +113,15 @@ Documentation-only edits do not require the regression suite.
 
 ## Maintenance scripts have side effects
 
+- `inline_cloze.py`: read-only audit by default; `--write` normalizes unambiguous
+  number/speaker gutters and side-by-side independent exercises into one-column
+  sentence flow. Translation/comparison matrices, nested and image tables remain.
+  It preflights unchanged lesson text, fragment IDs and answer keys across all
+  pages before writing. Keep authored dropdown choices; inline text fields grow
+  from the student's input, not expected-answer lengths. After rewriting, check
+  Biome/HTMLHint, site validation and script idempotence; use MCP for sentence
+  wrapping, keyboard focus, typing growth, feedback placement, grading/reset and
+  retained comparison tables, then rebuild the offline package.
 - `convert_choices.py`: read-only audit by default; `--write` converts standalone
   short single-choice selects to native fieldsets/radios after all pages preflight.
   Preserve matching/ordering tasks, cloze fields, multi-select controls and long
